@@ -1,0 +1,14 @@
+.carousel {
+  &:hover {
+  	cursor: url('../images/swipe.svg'), pointer;
+  }
+}
+
+.carousel-cell {
+  width: 66%;
+  height: auto;
+  	@include media-breakpoint-down(md) {
+		width: 80%;
+	}
+
+}

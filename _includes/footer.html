@@ -1,0 +1,49 @@
+<footer class="site-footer py-4">
+
+	<div class="container">
+        
+        <div class="row">
+
+            <div class="col-md-3">
+                
+               <a href="{{site.baseurl}}/"><img class="footer-logo" alt="{{site.title}}" src="{{site.baseurl}}/dist/images/logo-white.svg" /></a>
+
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-8">
+
+                {% include address.html %}
+            
+            </div>
+            <div class="col-md-3">
+
+                <p class="h4">Networking, project enquires<br> – <a href="mailto:hello@weareva.com.au">hello@weareva.com.au</a></p>
+            </div>
+            <div class="col-md-1">
+
+                <ul class="list-unstyled">
+                    <li><a class="social-link" target="_blank" href="https://www.facebook.com/thevariousartists/">Facebook</a></li>
+                    <li><a class="social-link" target="_blank" href="https://www.instagram.com/thevariousartists_au/">Instagram</a></li>
+                    <li><a class="social-link" target="_blank" href="https://www.linkedin.com/company/the-various-artists/about/">LinkedIn</a></li>
+                </ul>
+
+            </div>
+
+            <div class="col-md-12">
+
+                <div class="mt-2 small copyright text-muted">
+                    <p>
+                        &copy; {{ site.title }} {{ 'now' | date: "%Y" }} - <a class="text-muted" href="/privacy">Privacy</a> & <a class="text-muted" href="/t">Cookies</a>
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+	</div>
+	
+</footer>

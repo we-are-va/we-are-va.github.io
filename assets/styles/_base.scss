@@ -1,0 +1,376 @@
+//
+// Base Styles
+// --------------------------------------------------
+
+html {
+  margin:0; 
+}
+
+body {
+  overflow-x:hidden;
+  margin:0; 
+  font-family: $primary-font;
+  color: $white;
+  background: $dark;
+}
+
+.hover {
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+
+// Colors
+@if variable-exists(theme-colors) {
+  @each $color, $value in $theme-colors {
+    .bg-#{$color} {
+      background-color: $value !important;
+    }
+    .text-#{$color} {
+      color: $value !important;
+    }   
+    .link-#{$color} a:not(.btn){
+      color: $value;
+      //@include darken-on-hover($value);
+    } 
+  }
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1360px;
+    }
+}
+
+//
+// Typography
+// --------------------------------------------------
+
+a {
+  transition: all 0.2s ease-out;
+  color: $primary-color;
+}
+
+
+.fa {
+  vertical-align: middle;
+}
+
+a[href^="tel"]{ color:inherit; text-decoration: none !important; }
+
+svg {
+  width: 1rem;
+}
+
+
+strong {
+  font-weight: normal;
+  font-family: $bold-font;
+}
+
+.pre-line {
+  white-space: pre-line;
+}
+
+.font-weight-semibold {
+  //font-weight: 600;
+}
+.font-weight-bold {
+  font-weight: normal;
+  font-family: $bold-font;
+ // font-weight: 900;
+}
+.font-size-large, .font-size-lg {
+  font-size: $font-size-lg !important;
+}
+
+.font-size-xs {
+  font-size: $font-size-xs !important;
+}
+.font-size-sm, .font-size-small {
+  font-size: $font-size-sm !important;
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+.text-decoration-none {
+  text-decoration: none !important;
+}
+
+.readmore {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 1rem;
+}
+
+h1, .h1 {
+  font-size: 3.2rem; 
+  font-weight: normal;
+  font-family: $headings-font;
+  margin-bottom: 1.5rem;
+}
+h2, .h2 {
+  font-size: 2.4rem; 
+  margin-bottom: 0.75rem;
+  line-height: 1.3;
+  font-style: normal;
+  //font-family: $headings-font;
+  font-weight: normal;
+ // font-family: $bold-font;
+}
+h3, .h3 {
+  font-weight: normal;
+ /// font-family: $bold-font;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+  font-size: 1.3rem;
+}
+h4, .h4 {
+  font-weight: normal;
+ // font-family: $bold-font;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+  font-size: 1.2rem;
+}
+
+.btn {
+  border-radius: 0;
+  background: transparent;
+  border:1px solid $highlight-color;
+  color: $white;
+  font-weight: 300;
+  text-transform: none;
+  padding: .475rem 1.95rem 0.275rem;
+  &:hover, &:focus, &:active, &:hover:active {
+    background-color: $secondary-color !important;
+    border-color: $secondary-color;
+    box-shadow: none !important;
+  }
+}
+
+$link-color: $white;
+$link-hover: #888;
+$text-arrow-space: 16px;
+$shaft-width: 64px;
+$shaft-thickness: 2px;
+$arrow-head-width: 10px;
+$arrow-head-thickness: $shaft-thickness;
+
+.link-arrow {
+    font-size: 2em;
+    color: $white;
+    font-style: normal;
+    font-weight: 700;
+    text-decoration: none;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-image: linear-gradient(
+          to right,
+          $link-hover,
+          $link-hover 50%,
+          $link-color 50%);
+          background-size: 200% 100%;
+          background-position: 100%;
+
+    &.arrow-right {
+       background-image: linear-gradient(
+          to right,
+          $link-hover,
+          $link-hover 50%,
+          $link-color 50%);
+          background-size: 200% 100%;
+          background-position: 100%;
+
+          &:hover{
+            transition: all 0.3s cubic-bezier(0.000, 0.000, 0.230, 1);
+            background-position: 0%;
+            
+            .the-arrow {
+                transform: translateX(10px);
+                transition-delay: 0.1s;
+            }
+          }
+    }
+    &.arrow-left {
+         background-image: linear-gradient(
+          to left,
+          $link-hover,
+          $link-hover 50%,
+          $link-color 50%);
+          background-size: 200% 100%;
+          background-position: 0;
+
+          &:hover{
+            transition: all 0.3s cubic-bezier(0.000, 0.000, 0.230, 1);
+            background-position: 100%;
+            
+            .the-arrow {
+                transform: translateX(-10px);
+                transition-delay: 0.1s;
+            }
+          }
+    }
+    
+    .the-arrow {
+      display: inline-block;
+      position: relative;
+      top: -10px;
+      width: $shaft-width;
+      transition: all 0.2s;
+     
+      &.-left {
+        top: -10px;
+
+        > .shaft {
+          width: $shaft-width;
+          
+          &:before,
+          &:after {
+            width: $arrow-head-width;
+            transition-delay: 0.3s;
+            transition: all 0.5s;
+            left: -8px;
+
+          }
+
+          &:before {
+            top: 1px;
+            transform: rotate(140deg);
+          }
+
+          &:after {
+            top: -1px;
+            transform: rotate(-140deg);
+          }
+        }
+      }
+      
+      &.-right {
+
+        top: -10px;
+        
+        > .shaft {
+          width: $shaft-width;
+          transition-delay: 0.2s;
+
+          &:before,
+          &:after { 
+            width: $arrow-head-width;
+            transition-delay: 0.3s;
+            transition: all 0.5s;
+          }
+          
+          &:before {
+            transform: rotate(40deg);
+          }
+          
+          &:after {
+            transform: rotate(-40deg);
+          }
+        }
+      }
+
+      > .shaft {
+        background-color: $gray;
+        display: block;
+        height: $shaft-thickness;
+        position: relative;
+        transition: all 0.2s;
+        transition-delay: 0;
+        will-change: transform;
+
+        &:before,
+        &:after {
+          background-color: $gray;
+          content: '';
+          display: block;
+          height: $arrow-head-thickness;
+          position: absolute;
+          top: 0;
+          right: 0;
+          transition: all 0.2s;
+          transition-delay: 0;
+        }
+
+        &:before {
+          transform-origin: top right;
+        }
+
+        &:after {
+          transform-origin: bottom right;
+        }
+      }
+    }
+}
+
+
+.alert {
+  background: $red;
+  color: $white;
+  border-radius: 0;
+  border: none;
+  z-index: 9999;
+}
+.card {
+    border: none;
+    background: transparent;
+    border-radius: 0;
+}
+
+// Forms 
+
+.form-control {
+  background: transparent;
+  border: none;
+  border-bottom: solid 1px #ccc;
+  border-radius: 0;
+  margin-bottom: 0.5rem;
+}
+
+/* Nathan Lam
+   June 2, 2017
+
+   Add this css for responsive embedded videos in your .css file. */
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+.no-js img.lazyload {
+display: none;
+}
+
+.blur-up {
+filter: blur(10px);
+transition: filter 400ms;
+}
+
+.blur-up.lazyloaded {
+filter: blur(0);
+}
+
+.fade-in {
+opacity: 0;
+transition: opacity 400ms;
+}
+
+.fade-in.lazyloaded {
+opacity: 1;
+}
