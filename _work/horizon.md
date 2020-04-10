@@ -9,9 +9,9 @@ key_service: Digital
 services:
 - Web Design
 - Web Development
-hero_image: '/uploads/HZN-Horizon-2019-01.jpg'
+hero_image: "/uploads/HZN-Horizon-2019-01.jpg"
 hero_video: "/uploads/horizon-2019-video.mp4"
-teaser_image: '/uploads/HZN-Horizon-2019-01.jpg'
+teaser_image: "/uploads/HZN-Horizon-2019-01.jpg"
 sub_heading: Experience the Sunshine Coast's premier multi-arts festival.
 brand_primary_color: "#333"
 brand_secondary_color: "#FF00E6"
@@ -19,9 +19,6 @@ slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
 blocks:
-- template: video-element
-  block: video-element
-  video: "/uploads/2019/07/03/Horizon Festival – 10 arts-fuelled days.mp4"
 - template: content-feature
   block: feature-1
   media_alignment: Left
