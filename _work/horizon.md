@@ -42,8 +42,6 @@ blocks:
     image: "/uploads/2019/07/03/_HZN-Horizon-2019-02.jpg"
 
 ---
-1	113	201	
-244	154	244	
 ## Overview
 
 Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
@@ -51,5 +49,4 @@ Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the l
 ## Editions
 
 * Edition One - 2016
-
 * Edition Two - 2017
