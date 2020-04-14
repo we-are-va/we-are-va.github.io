@@ -1,15 +1,16 @@
 ---
 title: The Booking Box
-sector: Tourism
+sector: Travel Agency & Hospitality
 key_service: Digital
 services:
 - Brand Strategy
 - Brand Design
 - Print Design
-- Website Design
-- Website Development
+- Web Design + Build
+- On-site Signage
+- Digital Signage
 teaser_image: "/uploads/bookingbox/DSC8357_0.jpg"
-hero_image: "/uploads/bookingbox/DSC8357_0.jpg"
+hero_image: "/uploads/bookingbox/DSC8339.jpg"
 hero_video: ''
 sub_heading: Looking for an Adventure & Great Coffee - Start here!
 brand_primary_color: "#63ceca"
@@ -33,6 +34,4 @@ intro: "## The Wharf Mooloolaba is a Sunshine Coast icon that’s been attractin
 bookingbox: true
 
 ---
-## Overview
-
-### ddd
+### The Wharf Mooloolaba is a Sunshine Coast icon that’s been attracting visitors for generations. With the recent refurbishments, the Wharf Mooloolaba has become the place to visit for both tourists and locals alike.
