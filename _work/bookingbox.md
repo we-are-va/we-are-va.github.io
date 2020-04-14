@@ -14,7 +14,7 @@ hero_image: "/uploads/bookingbox/DSC8339.jpg"
 hero_video: ''
 sub_heading: Looking for an Adventure & Great Coffee - Start here!
 brand_primary_color: "#63ceca"
-brand_secondary_color: "#003e69"
+brand_secondary_color: "#003c69"
 slug: ''
 layout: work-single
 intro: "## The Wharf Mooloolaba is a Sunshine Coast icon that’s been attracting visitors
