@@ -27,6 +27,29 @@ blocks:
     days of visual art, music, performance, words + ideas, film and creative workshops.
   media:
     image: "/uploads/2019/07/03/876-600x800.jpg"
+  template: 1-column-text
+  block: one-column-text
+  headline: "Headline"
+  content: "blah "
+  template: 2-column-text
+  block: two-column-text
+  col_1:
+    headline: "Headline"
+    content: "blah "
+  col_2:
+    headline: "Headline"
+    content: "blah "
+  template: 3-column-text
+  block: three-column-text
+  col_1:
+    headline: "Headline"
+    content: "blah "
+  col_2:
+    headline: "Headline"
+    content: "blah "
+  col_3:
+    headline: "Headline"
+    content: "blah "
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/07/03/876-600x800.jpg"
