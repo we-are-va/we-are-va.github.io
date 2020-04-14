@@ -44,7 +44,7 @@ layout: default
 			<div class="col-sm-8">
 				
 				<h4 class="hero-color">Project</h4>
-				{{ page.intro  | markdownify }}
+				{{ page.content  | markdownify }}
 
 			</div>
 
@@ -66,11 +66,11 @@ layout: default
 
 	</div>
 	
-	 <!--{% for section in page.blocks %} 
+	 {% for section in page.blocks %} 
 		{% include block-{{ section.block }}.html %}
 	{% endfor %} 
 	
-	 {% if page.spero %}
+	 <!--{% if page.spero %}
 		{% include work-spero.html %}
 	{% endif %}
 
