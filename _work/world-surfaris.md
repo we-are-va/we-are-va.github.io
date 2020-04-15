@@ -6,7 +6,7 @@ banner_image: ''
 slug: ''
 brand_primary_color: ''
 brand_secondary_color: ''
-intro: ''
+intro: intro
 blocks: []
 
 ---
