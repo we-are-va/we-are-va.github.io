@@ -27,7 +27,7 @@ intro: "## MIC (Montessori International College) is an independent, non-denomin
 mic: true
 
 ---
-## Overview
+## **Matching a brand to a tremendous vision**
 
 MIC came to VA to help develop and create their brand vision. A recent workshop had generated a plethora of ideas which the college had honed into a fantastic vision for their future. The vision was grand, incorporating the larger community into their school and stepping beyond traditional models of educational systems into something broader and more relevant to the day and age we live in.
 
