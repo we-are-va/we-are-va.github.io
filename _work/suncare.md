@@ -22,7 +22,7 @@ intro: " ## How do you create a brand that puts people first? ### The answer is 
   their services with minimum effort. Whilst the brand needed to convey and resonate
   their core offering - Care.  Both would have to have convey Suncare’s 40-year history
   and maintain their organisation's ethos - ‘Make People’s Lives Better’"
-suncare: true
+blocks: []
 
 ---
 ## How do you create a brand that puts people first?

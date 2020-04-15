@@ -22,8 +22,7 @@ intro: "## School’s are hubs for the larger community. Places of learning wher
   tasked to provide an incarnation of the brand and its identities. One that would
   fit snugly inside the traditional brand of the school and be flexible enough to
   bring it into the future, ensuring future buy-in and engagement from all stakeholders."
-mfac: true
-
+blocks: []
 ---
 ## **Educating for Excellence in Learning and Life**
 

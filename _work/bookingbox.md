@@ -31,8 +31,7 @@ intro: "## The Wharf Mooloolaba is a Sunshine Coast icon that’s been attractin
   the user down with slow load times. That’s how VA does API’s ;) VA also was responsible
   for the entire brand and naming of Booking Box. From conception through to the custom
   hanging sign."
-bookingbox: true
-
+blocks: []
 ---
 ## It all starts here
 

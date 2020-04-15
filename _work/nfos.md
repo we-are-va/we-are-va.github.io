@@ -22,8 +22,7 @@ intro: "## The Noosa Festival of Surfing is one of the Sunshine Coast’s most r
   the event has taken on the role as event managers. \n\n### P&E Focus on results
   and navigating obstacles - It’s about striking the right balance and so our approach
   had to be similar."
-pelaw: true
-
+blocks: []
 ---
 ## **Keeping the stoke alive**
 

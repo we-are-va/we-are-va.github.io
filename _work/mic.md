@@ -24,8 +24,7 @@ intro: "## MIC (Montessori International College) is an independent, non-denomin
   the larger community into their school and stepping beyond traditional models of
   educational systems into something broader and more relevant to the day and age
   we live in."
-mic: true
-
+blocks: []
 ---
 ## **Matching a brand to a tremendous vision**
 

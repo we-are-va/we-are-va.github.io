@@ -11,7 +11,6 @@ brand_secondary_color: "#ff3eb5"
 slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
-spero: true
 blocks:
 - template: 1-column-text
   block: one-column-text
@@ -27,7 +26,6 @@ blocks:
     caption: fdsffdfdf
 - template: 3-column-text
   block: three-column-text
-
 ---
 ### Spero is the latest venture for renowned Sunshine Coast restaurateur Tony Kelly and his partners, chef Mitch Smith and restaurant manager Elyza Molloy, of Rice Boi fame. 
 
