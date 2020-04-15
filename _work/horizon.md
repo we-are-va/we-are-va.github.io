@@ -19,37 +19,22 @@ slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
 blocks:
-- template: content-feature
-  block: feature-1
+- template: 3-column-text
+  block: three-column-text
   media_alignment: Left
-  headline: Horizon Festival
-  content: Bringing local, national and international artists together for 10 arts-fuelled
-    days of visual art, music, performance, words + ideas, film and creative workshops.
+  headline: Headline
+  content: 'blah '
   media:
     image: "/uploads/2019/07/03/876-600x800.jpg"
-  template: 1-column-text
-  block: one-column-text
-  headline: "Headline"
-  content: "blah "
-  template: 2-column-text
-  block: two-column-text
   col_1:
-    headline: "Headline"
-    content: "blah "
+    headline: Headline
+    content: 'blah '
   col_2:
-    headline: "Headline"
-    content: "blah "
-  template: 3-column-text
-  block: three-column-text
-  col_1:
-    headline: "Headline"
-    content: "blah "
-  col_2:
-    headline: "Headline"
-    content: "blah "
+    headline: Headline
+    content: 'blah '
   col_3:
-    headline: "Headline"
-    content: "blah "
+    headline: Headline
+    content: 'blah '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/07/03/876-600x800.jpg"
@@ -65,11 +50,12 @@ blocks:
     image: "/uploads/2019/07/03/876-600x800.jpg"
 
 ---
-## Overview
+## **220 events, 10 days, one big party**
 
-Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
+HORIZON Festival of Arts & Culture was Sunshine Coast Council's first major region-wide arts celebration, debuting in September 2016. The event brought together 220 separate cultural events and added a few new ones that all existed in the arts space and were happening at a similar time of year.
 
-## Editions
+We were chosen in the inaugural year of HORIZON to craft a digital marketing strategy and roll out a campaign that would introduce the massive cultural extravaganza to market and garner as much interest and engagement as possible.
 
-* Edition One - 2016
-* Edition Two - 2017
+We built a website with a mobile-first user experience design including interactive event maps and program. We strategically planned and executed the social media marketing campaign including paid ads on Facebook, Instagram and Twitter; and we also put together the Google AdWords campaign and digital signage designs.
+
+In 2017 VA was again chosen to deliver the web component of the Horizon marketing strategy. Building upon the great platform from 2016 we gave the site a facelift and expanded the event listing area to provided more granular exploration of the amazingly diverse program. An entire new "artists" section was also created to showcase the talented individuals performing and exhibiting at Horizon 2017.
