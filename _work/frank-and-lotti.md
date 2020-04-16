@@ -13,6 +13,5 @@ intro: Frank and Lotti - Wine Bar and Merchants, is the new place to wine and di
   in Mooloolaba. A bold new step for restaurateurs Luke Searson and Candice Ford and
   one that promises the Sunshine Coast a new and delightfully tasteful experience.
 blocks: []
-published: false
 
 ---
