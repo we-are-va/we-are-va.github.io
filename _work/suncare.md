@@ -12,8 +12,8 @@ teaser_image: "/uploads/suncare/Suncare_TEASER.jpg"
 hero_image: "/uploads/suncare/SUNFOLIO_BANNER_CROP.jpg"
 hero_video: ''
 sub_heading: Creating A Compassionate Brand
-brand_primary_color: "#cec3ba"
-brand_secondary_color: "#ff5959"
+brand_primary_color: "#363534"
+brand_secondary_color: "#ff8f70"
 slug: ''
 layout: work-single
 intro: " ## How do you create a brand that puts people first? ### The answer is simple
