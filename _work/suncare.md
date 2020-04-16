@@ -8,6 +8,8 @@ services:
 - Print Design
 - Website Design
 - Website Development
+- Digital Marketing
+- Signage
 teaser_image: "/uploads/suncare/Suncare_TEASER.jpg"
 hero_image: "/uploads/suncare/SUNFOLIO_BANNER_CROP.jpg"
 hero_video: ''
