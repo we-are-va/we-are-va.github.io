@@ -27,13 +27,13 @@ blocks:
   media:
     image: "/uploads/2019/07/03/876-600x800.jpg"
   col_1:
-    headline: Headline
+    headline: 1/3
     content: 'blah '
   col_2:
-    headline: Headline
+    headline: 2/3
     content: 'blah '
   col_3:
-    headline: Headline
+    headline: 3/3
     content: 'blah '
 - template: full-width-media-element
   block: media-1
@@ -46,7 +46,7 @@ blocks:
   block: media-2
   image_1:
     image: "/uploads/2019/07/03/876-600x800.jpg"
-  image_2:
+  image_2: 
 
 ---
 ## 220 events, 10 days, one big party
