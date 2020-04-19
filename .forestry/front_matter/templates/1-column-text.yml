@@ -10,4 +10,4 @@ fields:
 - type: include
   name: column
   label: Column
-  template: text-column
+  template: 1-column-text
