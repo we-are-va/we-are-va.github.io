@@ -7,7 +7,7 @@ banner_image: ''
 slug: ''
 brand_primary_color: ''
 brand_secondary_color: ''
-intro:
+intro: ''
 page_sections:
 - template: 1-column-text
   block: one-column-1
@@ -32,5 +32,16 @@ page_sections:
   col_3:
     headline: 3/3
     content: x
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/bookingbox/DSC8339.jpg"
+  - "/uploads/campaign-creators-qCi_MzVODoU-unsplash.jpg"
+  - "/uploads/HZN-Horizon-2019-03.jpg"
+  - "/uploads/HZN-Horizon-2019-04.jpg"
+  - "/uploads/HZN-Horizon-2019-07.jpg"
+  - "/uploads/Frank-Lotti-1600-x-1000px.jpg"
+  - "/uploads/Common-Ground-1600-x-1000px.jpg"
+  - "/uploads/Argon_Law-1600-x-1000px.jpg"
 
 ---
