@@ -6,8 +6,8 @@ fields:
   hidden: true
   label: block
   name: block
-  default: one-column-text
+  default: one-column-1
 - type: include
   name: column
   label: Column
-  template: 1-column-text
+  template: text-column
