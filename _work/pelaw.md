@@ -16,12 +16,7 @@ brand_primary_color: "#615d59"
 brand_secondary_color: "#e57200"
 slug: ''
 layout: work-single
-intro: "## Planning and Environmental law is a complex area of the law and often fueled
-  by passionate parties - it requires a calm demure, professional approach and thorough
-  understanding of the law to negotiate the best result for all. P&E certainly ticks
-  those boxes and with VA’s latest brand roll out, they look the part too. \n\n###
-  P&E Focus on results and navigating obstacles - It’s about striking the right balance
-  and so our approach had to be similar."
-blocks: []
+intro:
+page_sections: []
 
 ---

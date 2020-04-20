@@ -7,7 +7,7 @@ banner_image: ''
 slug: ''
 brand_primary_color: ''
 brand_secondary_color: ''
-intro: intro
+intro:
 page_sections:
 - template: 1-column-text
   block: one-column-1
