@@ -18,32 +18,7 @@ brand_secondary_color: "#FF00E6"
 slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
-blocks:
-- template: 3-column-text
-  block: three-column-text
-  media_alignment: Left
-  headline: Headline
-  content: 'blah '
-  media:
-    image: "/uploads/2019/07/03/876-600x800.jpg"
-  col_1:
-    headline: 1/3
-    content: 'blah '
-  col_2:
-    headline: 2/3
-    content: 'blah '
-  col_3:
-    headline: 3/3
-    content: 'blah '
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2019/07/03/876-600x800.jpg"
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2019/07/03/876-600x800.jpg"
-  image_2: 
+blocks: []
 
 ---
 ## 220 events, 10 days, one big party
