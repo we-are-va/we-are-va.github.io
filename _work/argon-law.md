@@ -12,6 +12,6 @@ slug: ''
 brand_primary_color: "#002A42"
 brand_secondary_color: "#869100"
 intro:
-page_sections: []
+page_sections:
 
 ---
