@@ -13,4 +13,4 @@ fields:
   type: image_gallery
   config: {}
   label: Gallery
-  hidden: true
+  hidden: false
