@@ -25,7 +25,7 @@ page_sections:
   content: "<strong>some more content left aligned</strong>"
   media:
     image: "/uploads/HZN-Horizon-2019-01.jpg"
-    media_alignment: Left
+  media_alignment: Left
 - template: 1-column-text
   block: one-column-1
   headline: 1/2
