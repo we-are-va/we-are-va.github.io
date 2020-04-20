@@ -21,5 +21,16 @@ page_sections:
   col_2:
     headline: 2/2
     content: 2/2 content
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: 1/3
+    content: x
+  col_2:
+    headline: ''
+    content: ''
+  col_3:
+    headline: ''
+    content: ''
 
 ---
