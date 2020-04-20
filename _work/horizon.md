@@ -23,6 +23,30 @@ page_sections:
   block: one-column-1
   headline: 1/2
   content: "<strong>some more content</strong>"
+- template: 2-column-media-element
+  block: media-2
+  image_1: 
+    image: "/uploads/HZN-Horizon-2019-01.jpg"
+    caption: caption
+  image_2: 
+    image: "/uploads/HZN-Horizon-2019-01.jpg"
+    caption: caption
+- template: video-element
+  block: video-element
+  video: "/uploads/horizon-2019-video.mp4"
+  caption: caption
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: 1/2
+    content: "<strong>some more content</strong>"
+  col_2:
+    headline: 1/2
+    content: "<strong>some more content</strong>"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/HZN-Horizon-2019-01.jpg"
+  caption: caption
 
 ---
 ## 220 events, 10 days, one big party
