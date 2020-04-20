@@ -35,10 +35,6 @@ blocks:
   col_3:
     headline: 3/3
     content: 'blah '
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2019/07/03/876-600x800.jpg"
-  headline: Headline for Full Width Element
 - template: 2-column-media-element
   block: media-2
   image_1:
