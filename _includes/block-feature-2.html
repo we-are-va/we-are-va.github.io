@@ -1,18 +1,13 @@
-<section class="block block-feature-2">
-  <div class="container py-4 d-flex" data-aos="fade-in">
-    
-      
-      
-      <div class="col-md-6">
-        <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
+<section id="features" class="block block-feature-2">
+  <div class="container">
+    <div class="columns">
+      <div class="column media">
+          <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
       </div>
-
-
-      <div class="col-md-6 text">
-        <h2><span class="light">{{ section.headline }}</span></h2>
-        <p>{{ section.content }}</p>
-      </div>
-    
-    </div>      
-  
+      <div class="column text">
+          <h2><span class="light">{{ section.headline }}</span></h2>
+          <p>{{ section.content }}</p>
+      </div>  
+    </div>
+  </div>
 </section>

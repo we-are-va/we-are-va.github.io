@@ -59,6 +59,8 @@ fields:
   - full-width-media-element
   - 2-column-media-element
   - video-element
+  - content-feature
+  - gallery
 pages:
 - _work/argon-law.md
 - _work/common-ground-community-cafe.md

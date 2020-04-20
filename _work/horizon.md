@@ -19,6 +19,8 @@ slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
 page_sections:
+- template: media-gallery
+  block: gallery
 - template: 1-column-text
   block: one-column-1
   headline: 1/2
