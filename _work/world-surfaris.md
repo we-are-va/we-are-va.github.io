@@ -27,10 +27,10 @@ page_sections:
     headline: 1/3
     content: x
   col_2:
-    headline: ''
-    content: ''
+    headline: 2/3
+    content: x
   col_3:
-    headline: ''
-    content: ''
+    headline: 3/3
+    content: x
 
 ---
