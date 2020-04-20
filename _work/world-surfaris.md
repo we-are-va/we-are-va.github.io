@@ -1,5 +1,6 @@
 ---
 services: []
+layout: work-single
 title: World Surfaris
 sub_heading: We keep World Surfaris pumping
 banner_image: ''
@@ -7,7 +8,6 @@ slug: ''
 brand_primary_color: ''
 brand_secondary_color: ''
 intro: intro
-blocks: []
 page_sections:
 - template: 1-column-text
   block: one-column-1
@@ -28,7 +28,7 @@ page_sections:
     content: x
   col_2:
     headline: 2/3
-    content: x
+    content: xx
   col_3:
     headline: 3/3
     content: x
