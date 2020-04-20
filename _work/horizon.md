@@ -19,8 +19,13 @@ slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
 page_sections:
-- template: media-gallery
-  block: gallery
+- template: content-feature
+  block: feature-1
+  headline: 1/2
+  content: "<strong>some more content left aligned</strong>"
+  media:
+    image: "/uploads/HZN-Horizon-2019-01.jpg"
+    media_alignment: Left
 - template: 1-column-text
   block: one-column-1
   headline: 1/2
