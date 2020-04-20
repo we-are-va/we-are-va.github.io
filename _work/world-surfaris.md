@@ -13,5 +13,13 @@ page_sections:
   block: one-column-1
   headline: 1/2
   content: "<strong>some more content</strong>"
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: 1/2
+    content: 1/2 content
+  col_2:
+    headline: 2/2
+    content: 2/2 content
 
 ---
