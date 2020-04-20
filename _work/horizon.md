@@ -18,7 +18,7 @@ brand_secondary_color: "#FF00E6"
 slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
-blocks: []
+page_sections: []
 
 ---
 ## 220 events, 10 days, one big party

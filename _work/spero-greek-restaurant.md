@@ -11,7 +11,7 @@ brand_secondary_color: "#ff3eb5"
 slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
-blocks:
+page_sections:
 - template: 1-column-text
   block: one-column-text
   content: test

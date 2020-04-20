@@ -49,9 +49,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- name: blocks
-  type: blocks
-  label: blocks
+- type: blocks
+  name: page_sections
+  label: Page Sections
   template_types:
   - 1-column-text
   - 2-column-text
@@ -59,11 +59,3 @@ fields:
   - full-width-media-element
   - 2-column-media-element
   - video-element
-  config:
-    min: 
-    max: 
-pages:
-- _work/argon-law.md
-- _work/common-ground-community-cafe.md
-- _work/frank-and-lotti.md
-- _work/world-surfaris.md
