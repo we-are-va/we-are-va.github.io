@@ -59,3 +59,8 @@ fields:
   - full-width-media-element
   - 2-column-media-element
   - video-element
+pages:
+- _work/argon-law.md
+- _work/common-ground-community-cafe.md
+- _work/frank-and-lotti.md
+- _work/world-surfaris.md
