@@ -1,9 +1,7 @@
 <section class="block block-gallery">
   <div class="container ">
-    
-      {{section.gallery}}
-         
-
-      
+      {% for img in section.gallery %} 
+          <img class="" src="{{ img | relative_url }}" alt="">
+      {% endfor %}  
     </div>
 </section>
