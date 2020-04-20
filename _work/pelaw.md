@@ -17,6 +17,10 @@ brand_secondary_color: "#e57200"
 slug: ''
 layout: work-single
 intro:
-page_sections: []
+page_sections:
+- template: 1-column-text
+  block: one-column-1
+  headline: 1/2
+  content: "<strong>some more content</strong>"
 
 ---

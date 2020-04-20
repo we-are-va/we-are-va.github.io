@@ -18,7 +18,11 @@ brand_secondary_color: "#003c69"
 slug: ''
 layout: work-single
 intro:
-page_sections: []
+page_sections:
+- template: 1-column-text
+  block: one-column-1
+  headline: 1/2
+  content: "<strong>some more content</strong>"
 
 ---
 ## It all starts here
