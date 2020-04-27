@@ -43,5 +43,9 @@ page_sections:
   - "/uploads/Frank-Lotti-1600-x-1000px.jpg"
   - "/uploads/Common-Ground-1600-x-1000px.jpg"
   - "/uploads/Argon_Law-1600-x-1000px.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2019/07/03/876-600x800.jpg"
+  caption: caption for full width image
 
 ---
