@@ -59,5 +59,21 @@ page_sections:
   block: video-element
   caption: caption for video element
   video: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Healine for content feature
+  content: content blurb with right alignment of image
+  media:
+    image: "/uploads/Frank-Lotti-1600-x-1000px.jpg"
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Headline for content feature
+  content: this is left aligned
+  media:
+    image: "/uploads/campaign-creators-qCi_MzVODoU-unsplash.jpg"
+    alt_text: ''
 
 ---
