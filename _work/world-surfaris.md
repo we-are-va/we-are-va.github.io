@@ -11,7 +11,7 @@ intro: ''
 page_sections:
 - template: 1-column-text
   block: one-column-1
-  headline: 1/2
+  headline: 1/1
   content: "<strong>some more content</strong>"
 - template: 2-column-text
   block: two-column-1
