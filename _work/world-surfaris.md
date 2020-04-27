@@ -55,5 +55,9 @@ page_sections:
   image_2:
     image: "/uploads/Frank-Lotti-1600-x-1000px.jpg"
     caption: 2/2 Caption for 2 media element
+- template: video-element
+  block: video-element
+  caption: caption for video element
+  video: ''
 
 ---
