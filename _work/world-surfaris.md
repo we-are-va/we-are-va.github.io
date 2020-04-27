@@ -32,17 +32,6 @@ page_sections:
   col_3:
     headline: 3/3
     content: x
-- template: gallery
-  block: gallery
-  gallery:
-  - "/uploads/bookingbox/DSC8339.jpg"
-  - "/uploads/campaign-creators-qCi_MzVODoU-unsplash.jpg"
-  - "/uploads/HZN-Horizon-2019-03.jpg"
-  - "/uploads/HZN-Horizon-2019-04.jpg"
-  - "/uploads/HZN-Horizon-2019-07.jpg"
-  - "/uploads/Frank-Lotti-1600-x-1000px.jpg"
-  - "/uploads/Common-Ground-1600-x-1000px.jpg"
-  - "/uploads/Argon_Law-1600-x-1000px.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/07/03/876-600x800.jpg"
@@ -75,5 +64,16 @@ page_sections:
   media:
     image: "/uploads/campaign-creators-qCi_MzVODoU-unsplash.jpg"
     alt_text: ''
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/bookingbox/DSC8339.jpg"
+  - "/uploads/campaign-creators-qCi_MzVODoU-unsplash.jpg"
+  - "/uploads/HZN-Horizon-2019-03.jpg"
+  - "/uploads/HZN-Horizon-2019-04.jpg"
+  - "/uploads/HZN-Horizon-2019-07.jpg"
+  - "/uploads/Frank-Lotti-1600-x-1000px.jpg"
+  - "/uploads/Common-Ground-1600-x-1000px.jpg"
+  - "/uploads/Argon_Law-1600-x-1000px.jpg"
 
 ---
