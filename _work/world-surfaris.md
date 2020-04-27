@@ -47,5 +47,13 @@ page_sections:
   block: media-1
   image: "/uploads/2019/07/03/876-600x800.jpg"
   caption: caption for full width image
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/Argon_Law-1600-x-1000px.jpg"
+    caption: Caption for 1/2 media elements
+  image_2:
+    image: "/uploads/Frank-Lotti-1600-x-1000px.jpg"
+    caption: 2/2 Caption for 2 media element
 
 ---
