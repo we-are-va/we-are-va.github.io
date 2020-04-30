@@ -104,14 +104,14 @@ layout: default
 				<div class="PageNavigation" id="pagetransition">
 
 				  {% if page.next.url %}
-				  <style>
+				  <!-- <style>
 					.next-work:before {
 					   background-color: {{ page.next.brand_primary_color }};
 					}
 					.next-work:after {
 						background-image: url('{{ page.next.hero_image | relative_url }}');
 					}
-					</style>
+					</style> -->
 					<div class="next-work">
 				  		{% capture next_url %}{{ page.next.url }}{% endcapture %}
 				    	{% include arrow-link.html url=next_url direction="right" text='Next' %}

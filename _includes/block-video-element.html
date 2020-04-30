@@ -9,6 +9,16 @@
 				<video class="video" autoplay="" muted="">
 				        <source src="{{ section.video | relative_url }}" type="video/mp4">
 				</video>
+
+			  
+			    {% if section.youtube_id != '' %}
+			   		{% include youtubePlayer.html id=section.youtube_id %}
+				{% endif %}
+
+				{% if section.vimeo_id %}
+			   		{% include vimeoPlayer.html id=section.vimeo_id %}
+				{% endif %}
+
 				{% if section.caption %}
 			     <figcaption>{{ section.caption }}</figcaption>
 			    {% endif %}
