@@ -1,9 +1,10 @@
 <section class="block block-media-2">
+
   <div class="container py-4 d-flex">
     
       <div class="col-md-6 ">
         <figure>
-          <img class="" src="{{ section.image_1.image | relative_url }}" alt="{{ section.image_1.caption }}">
+          <img class="w-100 d-block" src="{{ section.image_1.image | relative_url }}" alt="{{ section.image_1.caption }}">
           {% if section.image_1.caption %}
           <figcaption>{{ section.image_1.caption }}</figcaption>
           {% endif %}
@@ -12,7 +13,7 @@
 
       <div class="col-md-6 ">
         <figure>
-            <img class="" src="{{ section.image_2.image | relative_url }}" alt="{{ section.image_2.caption }}">
+            <img class="w-100 d-block" src="{{ section.image_2.image | relative_url }}" alt="{{ section.image_2.caption }}">
             {% if section.image_2.caption %}
             <figcaption>{{ section.image_2.caption }}</figcaption>
             {% endif %}

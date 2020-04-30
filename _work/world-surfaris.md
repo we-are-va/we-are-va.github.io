@@ -58,7 +58,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Headline for content feature
   content: this is left aligned
   media:

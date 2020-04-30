@@ -1,7 +1,11 @@
 <section class="block block-gallery">
-  <div class="container ">
-      {% for img in section.gallery %} 
-          <img class="" src="{{ img | relative_url }}" alt="">
-      {% endfor %}  
-    </div>
+  <div class="container">
+  		<div class="py-4 card-columns">
+	      {% for img in section.gallery %}
+		      <div class="card mb-1">
+		          <img class="w-100" src="{{ img | relative_url }}" alt="">
+		      </div>
+	      {% endfor %}  
+    	</div>
+	</div>
 </section>

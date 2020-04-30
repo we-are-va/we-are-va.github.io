@@ -1,10 +1,10 @@
 <section id="features" class="block block-feature-2">
   <div class="container">
-    <div class="columns">
-      <div class="column media">
-          <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
+    <div class="py-4 d-flex">
+      <div class="col-md-8 media">
+          <img class="w-100 d-block" src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
       </div>
-      <div class="column text">
+      <div class="col-md-4 text">
           <h2><span class="light">{{ section.headline }}</span></h2>
           <p>{{ section.content }}</p>
       </div>  
