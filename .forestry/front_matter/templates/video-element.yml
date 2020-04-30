@@ -1,6 +1,6 @@
 ---
 label: video-element
-hide_body: false
+hide_body: true
 fields:
 - type: text
   hidden: true
