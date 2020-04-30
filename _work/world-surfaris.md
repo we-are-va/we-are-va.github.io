@@ -48,6 +48,8 @@ page_sections:
   block: video-element
   caption: caption for video element
   video: ''
+  youtube_id: ''
+  vimeo_id: "380637680"
 - template: content-feature
   block: feature-1
   media_alignment: Right
