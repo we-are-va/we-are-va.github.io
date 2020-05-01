@@ -20,16 +20,16 @@
                 <div class="col-md-9">
                     
                     <div class="row d-flex justify-content-left">
-                        {% assign people = site.people | sample:10 %}
+                        {% assign people = site.people | shuffle %}
                         {% for person in people %}
                             <div class="col-md-4 mb-3">
                                 <div class="post row">
                                     <div class="post-header col-md-12 mb-1">
                                     {% if person.thumbnail %}
-{% responsive_image_block %}
-path: {{ person.thumbnail | remove_first:'/' }}
-alt: {{ person.title }}
-{% endresponsive_image_block %} 
+                                        {% responsive_image_block %}
+                                        path: {{ person.thumbnail | remove_first:'/' }}
+                                        alt: {{ person.title }}
+                                        {% endresponsive_image_block %} 
                                     {% else %}
                                         <img class="rounded-circle" alt="{{ person.title }}" src="{{ "/img/placeholder.png" | absolute_url }}>
                                     {% endif %}
@@ -40,7 +40,7 @@ alt: {{ person.title }}
                                         <div class="subtitle">
                                             {{ person.sub_heading }}
                                         </div>{% endif %}
-                                        <div class="d-none">
+                                        <div class="d-block">
                                             {{ person.content }}
                                         </div>
                                     </div>

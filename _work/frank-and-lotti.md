@@ -10,6 +10,7 @@ slug: frankandlotti
 brand_primary_color: "#F8F6D6"
 brand_secondary_color: "#000000"
 intro: ''
+layout: work-single
 page_sections:
 - template: 1-column-text
   block: one-column-1

@@ -6,6 +6,7 @@ services:
 - Web Design + Build
 - Print Design
 title: Argon Law
+layout: work-single
 sub_heading: The Counsel You Keep
 banner_image: "/uploads/Argon_Law-1600-x-1000px.jpg"
 slug: ''
