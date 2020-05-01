@@ -10,7 +10,7 @@ services:
 - Digital Marketing
 banner_image: "/uploads/MFAC_primary-photo-02.jpg"
 hero_video: ''
-teaser_image: "/uploads/MIC-handbook-covers (1).gif"
+teaser_image: "/uploads/MFAC_primary-photo-01.jpg"
 sub_heading: Educating for Excellence in Learning and Life
 slug: ''
 brand_primary_color: "#0c9191"
