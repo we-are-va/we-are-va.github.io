@@ -6,15 +6,15 @@ services:
 - Print Design
 - Website Design
 - Website Development
-hero_image: ""
+hero_image: ''
 hero_video: ''
-teaser_image: ""
+teaser_image: ''
 sub_heading: Welcome, please come in.
 brand_primary_color: "#05bab0"
-brand_secondary_color: "#0471a5"
+brand_secondary_color: "#ffffff"
 slug: ''
 layout: work-single
-intro:
+intro: 
 page_sections:
 - template: 1-column-text
   block: one-column-1
