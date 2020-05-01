@@ -66,6 +66,13 @@ fields:
   - video-element
   - content-feature
   - gallery
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: work-single
 pages:
 - _work/argon-law.md
 - _work/common-ground-community-cafe.md
