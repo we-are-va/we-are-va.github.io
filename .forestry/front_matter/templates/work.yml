@@ -3,6 +3,12 @@ label: work
 hide_body: false
 display_field: title
 fields:
+- name: client_logo
+  type: file
+  config:
+    maxSize: 64
+  label: Client Logo
+  description: Upload an SVG of the client logo
 - type: text
   name: title
   label: Title
