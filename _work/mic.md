@@ -10,18 +10,19 @@ services:
 - Website Development
 banner_image: "/uploads/mic/160061-0448.jpg"
 hero_video: ''
-teaser_image: "/uploads/mic/160061-0267.jpg"
+teaser_image: "/uploads/MIC-handbook-covers (1)-1.gif"
 sub_heading: Freedom within limits
 brand_primary_color: "#063325"
 brand_secondary_color: "#cc6216"
 slug: ''
 layout: work-single
-intro:
+intro: 
 page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 1/2
   content: "<strong>some more content</strong>"
+client_logo: "/uploads/miclogo.svg"
 
 ---
 ## **Matching a brand to a tremendous vision**
