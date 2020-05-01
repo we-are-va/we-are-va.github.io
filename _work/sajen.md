@@ -9,8 +9,9 @@ services:
 - Website Design
 - Website Development
 banner_image: "/uploads/SAJ_BANNER3.jpg"
+client_logo: "/uploads/logo-white-sajen.svg"
 hero_video: ''
-teaser_image: "/uploads/Sajen_Logo3_0.png"
+teaser_image: "/uploads/sajenteaser.png"
 sub_heading: For when its all on the line
 brand_primary_color: "#004953"
 brand_secondary_color: "#9a8419"
