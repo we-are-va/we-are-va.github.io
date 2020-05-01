@@ -8,7 +8,7 @@ services:
 - Environmental Signage
 - Sub-brand Web Design & Build
 - Digital Marketing
-hero_image: "/uploads/MFAC_primary-photo-02.jpg"
+banner_image: "/uploads/MFAC_primary-photo-02.jpg"
 hero_video: ''
 teaser_image: "/uploads/MFAC_primary-photo-02.jpg"
 sub_heading: Educating for Excellence in Learning and Life

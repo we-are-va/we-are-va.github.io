@@ -8,7 +8,7 @@ services:
 - Print Design
 - Website Design
 - Website Development
-hero_image: "/uploads/pelaw/pelaw-hero.jpg"
+banner_image: "/uploads/pelaw/pelaw-hero.jpg"
 hero_video: ''
 teaser_image: "/uploads/pelaw/pelaw-hero.jpg"
 sub_heading: The right balance

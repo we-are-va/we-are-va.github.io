@@ -11,7 +11,7 @@ services:
 - Digital Marketing
 - Signage
 teaser_image: "/uploads/suncare/Suncare_TEASER.jpg"
-hero_image: "/uploads/suncare/SUNFOLIO_BANNER_CROP.jpg"
+banner_image: "/uploads/suncare/SUNFOLIO_BANNER_CROP.jpg"
 hero_video: ''
 sub_heading: Creating A Compassionate Brand
 brand_primary_color: "#363534"

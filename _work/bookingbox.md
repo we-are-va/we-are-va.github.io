@@ -10,7 +10,7 @@ services:
 - On-site Signage
 - Digital Signage
 teaser_image: "/uploads/bookingbox/DSC8357_0.jpg"
-hero_image: "/uploads/bookingbox/DSC8339.jpg"
+banner_image: "/uploads/bookingbox/DSC8339.jpg"
 hero_video: ''
 sub_heading: Looking for an Adventure & Great Coffee - Start here!
 brand_primary_color: "#63ceca"

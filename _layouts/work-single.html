@@ -19,8 +19,8 @@ layout: default
 	{% if page.hero_video and page.hero_video != "" %}
 		<div class="hero-video" data-vide-bg="{{ page.hero_video | relative_url }}" data-vide-options="position: 0% 0%"></div>
 	{% else %}
-		{% if page.hero_image and page.hero_image != "" %}
-		<img class="d-block w-100" src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
+		{% if page.banner_image and page.banner_image != "" %}
+		<img class="d-block w-100" src="{{ page.banner_image | relative_url }}" alt="{{ page.title }}">
 		{% endif %}
 	{% endif %}
 	 

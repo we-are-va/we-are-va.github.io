@@ -8,7 +8,7 @@ services:
 - Print Design
 - Website Design
 - Website Development
-hero_image: ""
+banner_image: ""
 hero_video: ''
 teaser_image: ""
 sub_heading: For when its all on the line

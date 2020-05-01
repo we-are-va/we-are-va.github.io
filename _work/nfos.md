@@ -9,7 +9,7 @@ services:
 - Website Design
 - Website Development
 teaser_image: "/uploads/nfos/nfos-hero.jpg"
-hero_image: "/uploads/nfos/nfos-hero.jpg"
+banner_image: "/uploads/nfos/nfos-hero.jpg"
 hero_video: ''
 sub_heading: Get swept up in the romance and living art of longboarding.
 brand_primary_color: "#0073cf"
