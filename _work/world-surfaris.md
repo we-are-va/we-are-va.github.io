@@ -3,10 +3,10 @@ services: []
 layout: work-single
 title: World Surfaris
 sub_heading: We keep World Surfaris pumping
-banner_image: ''
+banner_image: "/uploads/_MG_3110.jpg"
 slug: ''
-brand_primary_color: ''
-brand_secondary_color: ''
+brand_primary_color: "#007AC9"
+brand_secondary_color: "#FFFFFF"
 intro: ''
 page_sections:
 - template: 1-column-text
@@ -77,5 +77,6 @@ page_sections:
   - "/uploads/Frank-Lotti-1600-x-1000px.jpg"
   - "/uploads/Common-Ground-1600-x-1000px.jpg"
   - "/uploads/Argon_Law-1600-x-1000px.jpg"
+teaser_image: "/uploads/VA_Web-folio_WorldSurf_Hero.jpg"
 
 ---
