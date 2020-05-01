@@ -3,7 +3,7 @@ services: []
 layout: work-single
 title: World Surfaris
 sub_heading: We keep World Surfaris pumping
-banner_image: "/uploads/_MG_3110.jpg"
+banner_image: "/uploads/_MG_3110-1.jpg"
 slug: ''
 brand_primary_color: "#007AC9"
 brand_secondary_color: "#FFFFFF"
