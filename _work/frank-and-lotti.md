@@ -11,10 +11,46 @@ brand_primary_color: "#F8F6D6"
 brand_secondary_color: "#000000"
 layout: work-single
 page_sections:
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Frank-Lotti-1200-x-750px-01.jpg"
+  caption: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Frank-Lotti-1200-x-750px-02.jpg"
+  caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 1/2
-  content: "<strong>some more content</strong>"
+  headline: Lorem Ipsum
+  content: Lorem ipsum dolor sit amet, consectetueradipiscing elit, sed diam nonummy
+    nibh euismodtincidunt ut laoreet dolore magna aliquam erat.
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Frank-Lotti-1200-x-750px-04.jpg"
+  caption: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: Lorem ipsum dolor sit amet,consectetuer adipiscing elised diamnonummy nibh
+    euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud exerci
+    tation.
+  media:
+    image: "/uploads/Frank-Lotti-700-x-1000px.jpg"
+    alt_text: Frank and Lotti menu
+  headline: ''
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/Frank-Lotti-style-guide-01.jpg"
+  - "/uploads/Frank-Lotti-style-guide-02.jpg"
+  - "/uploads/Frank-Lotti-style-guide-04.jpg"
+  - "/uploads/Frank-Lotti-style-guide-05.jpg"
+  - "/uploads/Frank-Lotti-style-guide-06.jpg"
 teaser_image: "/uploads/FAL_logo_0.png"
+client_logo: ''
+hero_video: ''
+sector: ''
+key_service: ''
 
 ---
+Frank and Lotti - Wine Bar and Merchants, is the new place to wine and dine in Mooloolaba. A bold new step for restaurateurs Luke Searson and Candice Ford and one that promises the Sunshine Coast a new and delightfully tasteful experience.
