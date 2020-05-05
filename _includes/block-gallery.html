@@ -1,5 +1,9 @@
 <section class="block block-gallery">
-  <div class="container">
+	{% if section.full_width %}
+  	<div class="container-full">12
+  	{% else %}
+	<div class="container">
+  	{% endif %}
   		<div class="py-4">
 			
 			<div class="carousel" data-flickity='{ "wrapAround": true, "imagesLoaded": true, "percentPosition": false }'>
