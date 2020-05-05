@@ -13,10 +13,48 @@ slug: ''
 brand_primary_color: "#002A42"
 brand_secondary_color: "#869100"
 page_sections:
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Argon_Law_01.jpg"
+  caption: ''
+- template: 2-column-text
+  block: two-column-1
+  col_2:
+    headline: Website Design + Build
+    content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, seddiam nonummy
+      nibh euismodlorem ipsum dolor sit amet. Utwisi enim ad minim veniam, quisnostrud
+      exerci tation.
+  col_1:
+    headline: ''
+    content: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Argon_Law_02.jpg"
+  caption: ''
 - template: 1-column-text
   block: one-column-1
   headline: 1/2
-  content: "<strong>some more content</strong>"
+  content: "<strong>THE COUNSEL YOU KEEP</strong>"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Argon_Law_06.jpg"
+  caption: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Brand Manual
+  content: Ut wisi enim ad minim veniam, quis nostrudexerci tation ullamcorper suscipit
+    lobortis.
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Argon_Law_08.jpg"
+  caption: ''
 teaser_image: "/uploads/_Argon_Law_02.jpg"
+client_logo: ''
+hero_video: ''
+sector: Law
+key_service: ''
 
 ---
+Argon Law is a commercial law firm based in Maroochydore on the Sunshine Coast. Their experienced lawyers add value as both trusted commercial advisers and accomplished legal advisers on a broad range of business, property, employment and estate matters.
+
+VA was tasked to complete a brand evolution, modernising the company's identity without loosing equity.
