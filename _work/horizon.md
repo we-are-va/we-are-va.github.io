@@ -1,9 +1,6 @@
 ---
 title: Horizon
 horizon: false
-intro: "## Horizon Festival connects artists, industries, communities and audiences
-  through an award-winning celebration of arts and culture.\n\n## With a 4 year relationship,
-  VA had the pleasure of refreshing the website design and functionality. "
 sector: Arts / Events
 key_service: Digital
 services:

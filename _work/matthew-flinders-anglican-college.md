@@ -16,7 +16,6 @@ slug: ''
 brand_primary_color: "#0c9191"
 brand_secondary_color: "#0a3261"
 layout: work-single
-intro: 
 page_sections:
 - template: 1-column-text
   block: one-column-1

@@ -18,12 +18,6 @@ brand_primary_color: "#363534"
 brand_secondary_color: "#ff8f70"
 slug: ''
 layout: work-single
-intro: " ## How do you create a brand that puts people first? ### The answer is simple
-  really, by putting their needs above your own. Suncare came to VA in need of a brand
-  refresh and a new, updated website. The website would need to connect clients to
-  their services with minimum effort. Whilst the brand needed to convey and resonate
-  their core offering - Care.  Both would have to have convey Suncare’s 40-year history
-  and maintain their organisation's ethos - ‘Make People’s Lives Better’"
 page_sections:
 - template: 1-column-text
   block: one-column-1

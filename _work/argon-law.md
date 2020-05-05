@@ -12,7 +12,6 @@ banner_image: "/uploads/Argon_Law-1600-x-1000px.jpg"
 slug: ''
 brand_primary_color: "#002A42"
 brand_secondary_color: "#869100"
-intro: ''
 page_sections:
 - template: 1-column-text
   block: one-column-1

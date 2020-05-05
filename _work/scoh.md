@@ -13,10 +13,6 @@ brand_primary_color: "#05bab0"
 brand_secondary_color: "#ffffff"
 slug: ''
 layout: work-single
-intro: Sunshine Coast Open House is a free event, which provides visitors with the
-  rare opportunity to tour architecturally diverse, well-designed and historic buildings
-  across the region. We Are VA were delighted to provide a range of creative collateral
-  for the inaugural event.
 page_sections:
 - template: 1-column-text
   block: one-column-1

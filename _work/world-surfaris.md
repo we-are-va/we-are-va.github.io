@@ -7,7 +7,6 @@ banner_image: "/uploads/MG_3110.jpg"
 slug: ''
 brand_primary_color: "#007AC9"
 brand_secondary_color: "#FFFFFF"
-intro: ''
 page_sections:
 - template: 1-column-text
   block: one-column-1

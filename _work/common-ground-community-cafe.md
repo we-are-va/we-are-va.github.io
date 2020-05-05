@@ -11,7 +11,6 @@ banner_image: "/uploads/CG_BANNER.png"
 slug: commonground
 brand_primary_color: "#0B1C2A"
 brand_secondary_color: "#CC8341"
-intro: ''
 layout: work-single
 page_sections:
 - template: 1-column-text
