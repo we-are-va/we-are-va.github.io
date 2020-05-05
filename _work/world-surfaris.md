@@ -78,5 +78,11 @@ page_sections:
   - "/uploads/Common-Ground-1600-x-1000px.jpg"
   - "/uploads/Argon_Law-1600-x-1000px.jpg"
 teaser_image: "/uploads/VA_Web-folio_WorldSurf_Hero.jpg"
+client_logo: ''
 
 ---
+### World Surfaris is a full service international travel agency that specialises in surfing holidays, and represents a diverse range of “unique surf adventures” catering to all standards of surfers and budgets. 
+
+VA has worked with World Surfaris for many years providing web design and maintenance, email and press ads.
+
+Online, World Surfaris have a system of displaying indicative prices and inclusion upon a user providing an email address. This “quick quote” is easily converted to an “enquiry” and auto-emails used as a mechanism for the World Surfaris agents to contact prospective customers and finalise the finer details of their enquiries.
