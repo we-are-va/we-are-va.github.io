@@ -2,7 +2,6 @@
 services:
 - Branding
 - Web Design + Build
-- Menu design
 title: Frank and Lotti
 sub_heading: A brand for any palette
 banner_image: "/uploads/Frank-Lotti-1600-x-1000px.jpg"

@@ -38,7 +38,7 @@ page_sections:
   caption: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: "/uploads/Common-Ground-1200-x-750px-03_2.jpg"
     alt_text: ''
