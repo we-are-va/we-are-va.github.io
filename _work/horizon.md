@@ -9,7 +9,7 @@ key_service: Digital
 services:
 - Web Design
 - Web Development
-banner_image: "/uploads/HZN-Horizon-2019-01.jpg"
+hero_image: "/uploads/HZN-Horizon-2019-01.jpg"
 hero_video: "/uploads/horizon-2019-video.mp4"
 teaser_image: "/uploads/HZN-Horizon-2019-01.jpg"
 sub_heading: Experience the Sunshine Coast's premier multi-arts festival.
@@ -19,23 +19,16 @@ slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
 page_sections:
-- template: content-feature
-  block: feature-1
-  headline: 1/2
-  content: "<strong>some more content left aligned</strong>"
-  media:
-    image: "/uploads/HZN-Horizon-2019-01.jpg"
-  media_alignment: Left
 - template: 1-column-text
   block: one-column-1
   headline: 1/2
   content: "<strong>some more content</strong>"
 - template: 2-column-media-element
   block: media-2
-  image_1: 
+  image_1:
     image: "/uploads/HZN-Horizon-2019-01.jpg"
     caption: caption
-  image_2: 
+  image_2:
     image: "/uploads/HZN-Horizon-2019-01.jpg"
     caption: caption
 - template: video-element
@@ -54,6 +47,7 @@ page_sections:
   block: media-1
   image: "/uploads/HZN-Horizon-2019-01.jpg"
   caption: caption
+banner_image: "/uploads/HZN-Horizon-2019-01.jpg"
 
 ---
 ## 220 events, 10 days, one big party
