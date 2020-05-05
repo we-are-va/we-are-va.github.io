@@ -3,24 +3,59 @@ title: Matthew Flinders Anglican College
 sector: Education
 key_service: Brand Strategy
 services:
-- Brand Strategy
+- Brand Strategy & Development
 - Print Design
-- Environmental Signage
+- Signage
 - Sub-brand Web Design & Build
-- Digital Marketing
 banner_image: "/uploads/MFAC_primary-photo-02.jpg"
 hero_video: ''
 teaser_image: "/uploads/MFAC_primary-photo-01.jpg"
 sub_heading: Educating for Excellence in Learning and Life
-slug: ''
-brand_primary_color: "#0c9191"
-brand_secondary_color: "#0a3261"
+slug: matthewflinders
+brand_primary_color: "#008675"
+brand_secondary_color: "#002855"
 layout: work-single
 page_sections:
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/MFAC_folder-1.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/MFAC_seondary-photo-02-1.jpg"
+  headline: Brand Development
+  content: With a solid foundation to work with,Matthew Flinders were looking to expand
+    their current branding to elevate the school, have greater design flexibility
+    and encourage future engagement (student + internal /external stakeholders).
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/MFAC_investigator-2018-01-1.jpg"
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/MFAC_prospectus-01-1.jpg"
+  - "/uploads/MFAC_prospectus-02-1.jpg"
+  - "/uploads/MFAC_prospectus-03-1.jpg"
 - template: 1-column-text
   block: one-column-1
-  headline: 1/2
-  content: "<strong>some more content</strong>"
+  headline: Brand Guideines
+  content: Comprehensive brand guidelines were updated toreflect the new dolor sit
+    amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod dolor sit.Brand
+    GuideinesAlly Walburn, Director of Community Engagement, MFA‘ VA lorem ipsum dolor
+    sit amet,consectetuer adipiscing elised diamnonummy nibh euismod lorem ipsumdolor
+    sit amet.Ut wisi enim ad minim veniam, quisnostrud exerci tation.’x 3 slidesProspectusx
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/MFAC_stationery-1.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  content: VA lorem ipsum dolor sit amet,consectetuer adipiscing elised diamnonummy
+    nibh euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud
+    exercitation.’<br><br><em>Ally Walburn, Director of Community Engagement</em>
+  media:
+    image: "/uploads/MFAC_seondary-photo-03-1.jpg"
 
 ---
 ## **Educating for Excellence in Learning and Life**
