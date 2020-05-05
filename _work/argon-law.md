@@ -31,10 +31,10 @@ page_sections:
   block: media-1
   image: "/uploads/Argon_Law_02.jpg"
   caption: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: 1/2
-  content: "<strong>THE COUNSEL YOU KEEP</strong>"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Argon_Law_09.png"
+  caption: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Argon_Law_06.jpg"
