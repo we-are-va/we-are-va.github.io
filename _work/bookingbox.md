@@ -18,10 +18,32 @@ brand_secondary_color: "#003c69"
 slug: ''
 layout: work-single
 page_sections:
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/TBB-01-1200px.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Branding
+  content: The branding represents…Trendy restaurants, a plethora of activities, great
+    bars, arcades, shops. How about a great coffee and a place to book all those activities?
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/TBB-02-1200px.jpg"
 - template: 1-column-text
   block: one-column-1
-  headline: 1/2
-  content: "<strong>some more content</strong>"
+  headline: Website Design
+  content: Easy to use, functional and categorically sensical the site makes the most
+    of the booking facilitators that power the activities on the site, without bogging
+    the user down with slow load times. <br><br>That’s how VA does API’s!
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/TBB-Style-Guide-1.png"
+  - "/uploads/TBB-Style-Guide-2.png"
+  - "/uploads/TBB-Style-Guide-3.png"
+  - "/uploads/TBB-Style-Guide-4.png"
+  - "/uploads/TBB-Style-Guide-5.png"
 
 ---
 ## It all starts here
