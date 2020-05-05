@@ -1,11 +1,19 @@
 <section class="block block-gallery">
   <div class="container">
-  		<div class="py-4 card-columns">
-	      {% for img in section.gallery %}
-		      <div class="card mb-1">
-		          <img class="w-100" src="{{ img | relative_url }}" alt="">
-		      </div>
-	      {% endfor %}  
+  		<div class="py-4">
+			
+			<div class="carousel" data-flickity='{ "wrapAround": true, "imagesLoaded": true, "percentPosition": false }'>
+
+			      {% for img in section.gallery %}
+				     <div class="carousel-cell">
+				     	<div class="carousel-inner">
+				          <img class="w-100 d-block mx-1" src="{{ img | relative_url }}" alt="">
+				      	</div>
+				      </div>
+			      {% endfor %}
+
+			 </div>
+
     	</div>
 	</div>
 </section>

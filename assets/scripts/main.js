@@ -4,9 +4,6 @@ $(function() {
   var $form         = $("#contact-form");
   var $navbarLayout = $("#navbarLayout");
 
-  
-
-
   // Mobile menu
   $navbarLayout.on('hidden.bs.collapse', function () {
     $("#toggle-main-menu").removeClass('is-active');
@@ -19,23 +16,23 @@ $(function() {
     $navbarLayout.collapse('hide');
   });
 
-  const options = {
-    direction: 'vertical', // string horizontal & vertical
-    width: 700, // integer defaults to max-width: 100%; via CSS
-    height: 450, // integer defaults to height: auto; via CSS
-    initial: 30, // integer default = 30px (initial position for slider in px)
-    filter: {
-      active: true, // boolean
-      effect:
-        'grayscale(200%)' /* url, blur, brightness, contrast, drop-shadow, grayscale, hue-rotate, invert, opacity, saturate, sepia */,
-    },
-  }
+  // const options = {
+  //   direction: 'vertical', // string horizontal & vertical
+  //   width: 700, // integer defaults to max-width: 100%; via CSS
+  //   height: 450, // integer defaults to height: auto; via CSS
+  //   initial: 30, // integer default = 30px (initial position for slider in px)
+  //   filter: {
+  //     active: true, // boolean
+  //     effect:
+  //       'grayscale(200%)' /* url, blur, brightness, contrast, drop-shadow, grayscale, hue-rotate, invert, opacity, saturate, sepia */,
+  //   },
+  // }
 
-  const container = document.getElementById('img-comparison')
+  // const container = document.getElementById('img-comparison')
 
-  const mySlider = new Cato(options, container)
+  // const mySlider = new Cato(options, container)
 
-  mySlider.createSlider()
+  // mySlider.createSlider()
 
   //  var aniNextLink = function(callback) {
     
