@@ -7,6 +7,5 @@ sub_heading: ''
 thumbnail: "/uploads/0.jpg"
 email: ''
 linkedin: ''
-published: false
 
 ---
