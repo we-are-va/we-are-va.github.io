@@ -28,6 +28,11 @@ fields:
   description: Dimensions work best at 1200 pixels by 400 pixels
   hidden: false
   default: ''
+- name: sector
+  type: text
+  config:
+    required: false
+  label: Sector
 - name: services
   label: Services
   type: tag_list
