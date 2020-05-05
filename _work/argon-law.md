@@ -52,6 +52,7 @@ page_sections:
   - "/uploads/Argon-Law-Style-guide-03.jpg"
   - "/uploads/Argon-Law-Style-guide-04.jpg"
   - "/uploads/Argon-Law-Style-guide-05.jpg"
+  full_width: true
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Argon_Law_08.jpg"
