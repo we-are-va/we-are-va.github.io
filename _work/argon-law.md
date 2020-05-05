@@ -44,6 +44,14 @@ page_sections:
   headline: Brand Manual
   content: Ut wisi enim ad minim veniam, quis nostrudexerci tation ullamcorper suscipit
     lobortis.
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/Argon-Law-Style-guide-01.jpg"
+  - "/uploads/Argon-Law-Style-guide-02.jpg"
+  - "/uploads/Argon-Law-Style-guide-03.jpg"
+  - "/uploads/Argon-Law-Style-guide-04.jpg"
+  - "/uploads/Argon-Law-Style-guide-05.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Argon_Law_08.jpg"
