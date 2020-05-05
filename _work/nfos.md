@@ -9,7 +9,7 @@ services:
 - Website Design
 - Website Development
 teaser_image: "/uploads/nfos/nfos-hero.jpg"
-banner_image: "/uploads/nfos/nfos-hero.jpg"
+banner_image: "/uploads/NFOS-1600-x-1000px-Hero.jpg"
 hero_video: ''
 sub_heading: Get swept up in the romance and living art of longboarding.
 brand_primary_color: "#0073cf"
@@ -17,13 +17,41 @@ brand_secondary_color: "#ed2939"
 slug: ''
 layout: work-single
 page_sections:
-- template: 1-column-text
-  block: one-column-1
-  headline: 1/2
-  content: "<strong>some more content</strong>"
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/nfos-web-1.jpg"
+  - "/uploads/nfos-web-2.jpg"
+  - "/uploads/nfos-web-3.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Event Advertising
+  content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diamnonummy
+    nibh euismod lorem ipsumdolor sit amet. Ut wisi enim ad minimveniam, quis nostrud
+    exerci tationullamcorper suscipit lobortis.
+  media:
+    image: "/uploads/nfos-press-ad-1.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/nfos-comp-bag-1.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/nfos-program-cov-1.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/nfos-program-pullout-1.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/nfos-program-spreads-1.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/nfos-competitor-shirt-1.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/nfos-crew-shirt-1.jpg"
 
 ---
-
 ## **Keeping the stoke alive**
 
 The Noosa Festival of Surfing is one of the Sunshine Coast’s most renown events. An eight-day celebration of the art of longboarding. Catching the wave for the 28th year was longtime VA client World Surfaris who after years of sponsoring the event has taken on the role as event managers.
