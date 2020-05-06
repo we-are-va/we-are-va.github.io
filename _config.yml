@@ -21,6 +21,7 @@ plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-responsive-image
+  - jekyll-seo-tag
 
 # Responsive images
 responsive_image:
