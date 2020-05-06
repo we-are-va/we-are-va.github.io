@@ -76,8 +76,12 @@ page_sections:
   - "/uploads/Frank-Lotti-1600-x-1000px.jpg"
   - "/uploads/Common-Ground-1600-x-1000px.jpg"
   - "/uploads/Argon_Law-1600-x-1000px.jpg"
+  full_width: false
 teaser_image: "/uploads/VA_Web-folio_WorldSurf_Hero.jpg"
-client_logo: ''
+client_logo: "/uploads/ws.svg"
+hero_video: ''
+sector: ''
+key_service: ''
 
 ---
 ### World Surfaris is a full service international travel agency that specialises in surfing holidays, and represents a diverse range of “unique surf adventures” catering to all standards of surfers and budgets. 
