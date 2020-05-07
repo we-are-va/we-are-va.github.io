@@ -17,6 +17,9 @@ brand_secondary_color: "#ed2939"
 slug: ''
 layout: work-single
 page_sections:
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/NFOS-Logo-Animation-1200px.gif"
 - template: gallery
   block: gallery
   gallery:
