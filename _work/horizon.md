@@ -8,7 +8,7 @@ services:
 - Web Development
 hero_image: "/uploads/HZN-Horizon-2019-01.jpg"
 hero_video: "/uploads/horizon-2019-video.mp4"
-teaser_image: "/uploads/HZN-Horizon-2019-01.jpg"
+teaser_image: "/uploads/Horizon2019.jpg"
 sub_heading: Experience the Sunshine Coast's premier multi-arts festival.
 brand_primary_color: "#151515"
 brand_secondary_color: "#FF00E6"
@@ -16,38 +16,46 @@ slug: ''
 layout: work-single
 youtubeId: lDi9uFcD7XI
 page_sections:
-- template: 1-column-text
-  block: one-column-1
-  headline: 1/2
-  content: "<strong>some more content</strong>"
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/HZN-Horizon-2019-01.jpg"
-    caption: caption
-  image_2:
-    image: "/uploads/HZN-Horizon-2019-01.jpg"
-    caption: caption
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/resized/480/HZN-Horizon-2019-01.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/HZN-Horizon-2019-700px-01.jpg"
+  headline: Horizon Festival
+  content: Bringing local, national andinternational artists together for10 arts-fuelled
+    days of visual art,music, performance, words +ideas, film and creativeworkshops.
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/HZN-Horizon-2019-05-1.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/HZN-Horizon-2019-700px-02.jpg"
 - template: video-element
   block: video-element
   video: "/uploads/horizon-2019-video.mp4"
   caption: caption
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: 1/2
-    content: "<strong>some more content</strong>"
-  col_2:
-    headline: 1/2
-    content: "<strong>some more content</strong>"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/HZN-Horizon-2019-01.jpg"
-  caption: caption
-banner_image: "/uploads/HZN-Horizon-2019-01.jpg"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/HZN-Horizon-2019-700px-03.jpg"
+    caption: caption
+  image_2:
+    image: "/uploads/HZN-Horizon-2019-700px-04.jpg"
+    caption: caption
+banner_image: "/uploads/Horizon2019_hero.jpg"
+client_logo: "/uploads/horizon-date-logo.svg"
 
 ---
-## 220 events, 10 days, one big party
+## Horizon Festival connects artists, industries, communities and audiences through an award-winning celebration of arts and culture. 
+
+## With a 4 year relationship, VA had the pleasure of refreshing the website design and functionality.
+
+### 220 events, 10 days, one big party
 
 HORIZON Festival of Arts & Culture was Sunshine Coast Council's first major region-wide arts celebration, debuting in September 2016. The event brought together 220 separate cultural events and added a few new ones that all existed in the arts space and were happening at a similar time of year.
 

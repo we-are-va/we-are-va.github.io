@@ -8,25 +8,47 @@ services:
 - Print Design
 - Website Design
 - Website Development
-banner_image: "/uploads/mic/160061-0448.jpg"
+banner_image: "/uploads/MIC-1600-x-1000px-Hero.jpg"
 hero_video: ''
-teaser_image: "/uploads/MIC-handbook-covers (1)-1.gif"
+teaser_image: "/uploads/MIC.jpg"
 sub_heading: Freedom within limits
 brand_primary_color: "#063325"
 brand_secondary_color: "#cc6216"
 slug: ''
 layout: work-single
 page_sections:
-- template: 1-column-text
-  block: one-column-1
-  headline: 1/2
-  content: "<strong>some more content</strong>"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/MIC-1200-x-750px-06.jpg"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/MIC-1200-x-750px-01.jpg"
+  image_2:
+    image: "/uploads/MIC-1200-x-750px-01.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/MIC-animation-1200-x-750px.gif"
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/MIC-Brand-Guidelines-01.jpg"
+  - "/uploads/MIC-Brand-Guidelines-02.jpg"
+  - "/uploads/MIC-Brand-Guidelines-03.jpg"
+  - "/uploads/MIC-Brand-Guidelines-04.jpg"
+  - "/uploads/MIC-Brand-Guidelines-05.jpg"
+  - "/uploads/MIC-Brand-Guidelines-06.jpg"
+  - "/uploads/MIC-Brand-Guidelines-07.jpg"
+  - "/uploads/MIC-Brand-Guidelines-08.jpg"
+  - "/uploads/MIC-Brand-Guidelines-09.jpg"
+  - "/uploads/MIC-Brand-Guidelines-10.jpg"
+  full_width: true
 client_logo: "/uploads/miclogo.svg"
 
 ---
-## **Matching a brand to a tremendous vision**
+#### Montessori International College Re-brand
 
-MIC came to VA to help develop and create their brand vision. A recent workshop had generated a plethora of ideas which the college had honed into a fantastic vision for their future. The vision was grand, incorporating the larger community into their school and stepping beyond traditional models of educational systems into something broader and more relevant to the day and age we live in.
+## MIC came to VA to help develop and create their brand vision. A recent workshop had generated a plethora of ideas which the college had honed into a fantastic vision for their future. The vision was grand, incorporating the larger community into their school and stepping beyond traditional models of educational systems into something broader and more relevant to the day and age we live in.
 
 Imperative to the vision was a brand that not only catered to the existing advocates of the school but also incorporated and welcomed the larger community. Creating an experience that left an impression and a marked point of difference that the school could adopt from the brand’s inception, through the years of growth and into the dazzling future that the vision delivers.
 

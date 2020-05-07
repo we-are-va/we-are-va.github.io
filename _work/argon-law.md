@@ -57,8 +57,8 @@ page_sections:
   block: media-1
   image: "/uploads/Argon_Law_08.jpg"
   caption: ''
-teaser_image: "/uploads/_Argon_Law_02.jpg"
-client_logo: ''
+teaser_image: "/uploads/Argon_main.jpg"
+client_logo: "/uploads/ArgonLaw_logo.svg"
 hero_video: ''
 sector: Law
 key_service: ''

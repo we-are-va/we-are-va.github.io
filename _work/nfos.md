@@ -17,6 +17,9 @@ brand_secondary_color: "#ed2939"
 slug: ''
 layout: work-single
 page_sections:
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/NFOS-Logo-Animation-1200px.gif"
 - template: gallery
   block: gallery
   gallery:
@@ -50,6 +53,13 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/nfos-crew-shirt-1.jpg"
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: "<em>Testimonial here. Lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit, sed diamnonummy nibh euismod lorem ipsumdolor sit amet. Ut wisi enim ad
+      minimveniam, quis nostrud exerci tationullamcorper suscipit lobortis.<br><br>Name,
+      title</em>"
 
 ---
 ## **Keeping the stoke alive**
