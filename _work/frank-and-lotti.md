@@ -50,8 +50,8 @@ page_sections:
   - "/uploads/Frank-Lotti-style-guide-05.jpg"
   - "/uploads/Frank-Lotti-style-guide-06.jpg"
   full_width: true
-teaser_image: "/uploads/FAL_logo_0.png"
-client_logo: ''
+teaser_image: "/uploads/frankandlotti.jpg"
+client_logo: "/uploads/Frank&Lotti_Logo.svg"
 hero_video: ''
 sector: ''
 key_service: ''
