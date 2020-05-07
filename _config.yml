@@ -22,7 +22,10 @@ plugins:
   - jekyll-feed
   - jekyll-responsive-image
   - jekyll-seo-tag
-
+  - jekyll-inline-svg
+# svg Optimise
+svg:
+  optimize: true  
 # Responsive images
 responsive_image:
   # [Required]
