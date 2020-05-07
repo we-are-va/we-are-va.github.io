@@ -11,4 +11,4 @@ menu:
     weight: 1
 
 ---
-## 22A2 team committed to technical and aesthetic excellence, curiosity and the sharing of ideas.
+## 333A team committed to technical and aesthetic excellence, curiosity and the sharing of ideas.
