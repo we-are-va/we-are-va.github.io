@@ -29,6 +29,20 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MIC-animation-1200-x-750px.gif"
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/MIC-Brand-Guidelines-01.jpg"
+  - "/uploads/MIC-Brand-Guidelines-02.jpg"
+  - "/uploads/MIC-Brand-Guidelines-03.jpg"
+  - "/uploads/MIC-Brand-Guidelines-04.jpg"
+  - "/uploads/MIC-Brand-Guidelines-05.jpg"
+  - "/uploads/MIC-Brand-Guidelines-06.jpg"
+  - "/uploads/MIC-Brand-Guidelines-07.jpg"
+  - "/uploads/MIC-Brand-Guidelines-08.jpg"
+  - "/uploads/MIC-Brand-Guidelines-09.jpg"
+  - "/uploads/MIC-Brand-Guidelines-10.jpg"
+  full_width: true
 client_logo: "/uploads/miclogo.svg"
 
 ---
