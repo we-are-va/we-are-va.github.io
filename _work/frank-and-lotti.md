@@ -23,10 +23,14 @@ page_sections:
   headline: Lorem Ipsum
   content: Lorem ipsum dolor sit amet, consectetueradipiscing elit, sed diam nonummy
     nibh euismodtincidunt ut laoreet dolore magna aliquam erat.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/Frank-Lotti-1200-x-750px-04.jpg"
-  caption: ''
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/FAL_website04.png"
+  - "/uploads/FAL_website03.png"
+  - "/uploads/FAL_website02.png"
+  - "/uploads/FAL_website01.png"
+  full_width: false
 - template: content-feature
   block: feature-1
   media_alignment: Right
