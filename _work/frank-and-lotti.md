@@ -6,7 +6,7 @@ title: Frank and Lotti
 sub_heading: A brand for any palette
 banner_image: "/uploads/Frank-Lotti-1600-x-1000px.jpg"
 slug: frankandlotti
-brand_primary_color: "#333333"
+brand_primary_color: "#000000"
 brand_secondary_color: "#F8F6D6"
 layout: work-single
 page_sections:
@@ -45,6 +45,7 @@ page_sections:
   - "/uploads/Frank-Lotti-style-guide-04.jpg"
   - "/uploads/Frank-Lotti-style-guide-05.jpg"
   - "/uploads/Frank-Lotti-style-guide-06.jpg"
+  full_width: false
 teaser_image: "/uploads/FAL_logo_0.png"
 client_logo: ''
 hero_video: ''
