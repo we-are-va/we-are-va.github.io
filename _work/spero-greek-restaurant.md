@@ -29,7 +29,7 @@ page_sections:
   image_2:
     image: "/uploads/Spero-550-x-750px02.jpg"
   image_1:
-    image: "/uploads/h3a1953.jpg"
+    image: "/uploads/h3a1953-1.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
