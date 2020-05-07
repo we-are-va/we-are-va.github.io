@@ -27,6 +27,8 @@ page_sections:
   headline: Branding
   content: The branding represents…Trendy restaurants, a plethora of activities, great
     bars, arcades, shops. How about a great coffee and a place to book all those activities?
+  media:
+    image: "/uploads/TheBookingBox_Logo-Reverse-01.png"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/TBB-02-1200px.jpg"
@@ -36,6 +38,16 @@ page_sections:
   content: Easy to use, functional and categorically sensical the site makes the most
     of the booking facilitators that power the activities on the site, without bogging
     the user down with slow load times. <br><br>That’s how VA does API’s!
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Website.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/TBB_PromotionScreen_MockUp.gif"
+  content: Testimonial here. Lorem ipsum dolor sit amet, con sectetuer adipiscing
+    elit, sed diam nonummy nibh euismod  lorem ipsum dolor sit.<br><br><em>Name, title</em>
 - template: gallery
   block: gallery
   gallery:
@@ -44,6 +56,8 @@ page_sections:
   - "/uploads/TBB-Style-Guide-3.png"
   - "/uploads/TBB-Style-Guide-4.png"
   - "/uploads/TBB-Style-Guide-5.png"
+  full_width: true
+client_logo: "/uploads/TheBookingBox_Logo.svg"
 
 ---
 ## It all starts here
