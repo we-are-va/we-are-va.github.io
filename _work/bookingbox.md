@@ -46,8 +46,8 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/TBB_PromotionScreen_MockUp.gif"
-  content: Testimonial here. Lorem ipsum dolor sit amet, con sectetuer adipiscing
-    elit, sed diam nonummy nibh euismod  lorem ipsum dolor sit.<br><br><em>Name, title</em>
+  content: "## Testimonial here. Lorem ipsum dolor sit amet, con sectetuer adipiscing
+    elit, sed diam nonummy nibh euismod lorem ipsum dolor sit.<br><br><em>Name, title</em>"
 - template: gallery
   block: gallery
   gallery:
