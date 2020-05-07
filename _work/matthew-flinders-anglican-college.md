@@ -48,14 +48,18 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MFAC_stationery-1.jpg"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  content: VA lorem ipsum dolor sit amet,consectetuer adipiscing elised diamnonummy
-    nibh euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud
-    exercitation.’<br><br><em>Ally Walburn, Director of Community Engagement</em>
-  media:
-    image: "/uploads/MFAC_seondary-photo-03-1.jpg"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/MFA-700px-03.jpg"
+  image_2:
+    image: "/uploads/MFA-700px-02.jpg"
+- template: 2-column-text
+  block: two-column-1
+  col_2:
+    content: VA lorem ipsum dolor sit amet,consectetuer adipiscing elised diamnonummy
+      nibh euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud
+      exercitation.’<br><br><em>Ally Walburn, Director of Community Engagement</em>
 
 ---
 ## **Educating for Excellence in Learning and Life**
