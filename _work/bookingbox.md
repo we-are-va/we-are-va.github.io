@@ -56,7 +56,7 @@ page_sections:
   - "/uploads/TBB-Style-Guide-3.png"
   - "/uploads/TBB-Style-Guide-4.png"
   - "/uploads/TBB-Style-Guide-5.png"
-  full_width: true
+  full_width: false
 client_logo: "/uploads/TheBookingBox_Logo.svg"
 
 ---
