@@ -8,7 +8,7 @@ services:
 - Print Design
 - Website Design
 - Website Development
-banner_image: "/uploads/MIC-1600-x-1000px-Hero.jpg"
+banner_image: "/uploads/MIC_hero.jpg"
 hero_video: ''
 teaser_image: "/uploads/MIC.jpg"
 sub_heading: Freedom within limits
@@ -20,12 +20,9 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MIC-1200-x-750px-06.jpg"
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/MIC-1200-x-750px-01.jpg"
-  image_2:
-    image: "/uploads/MIC-1200-x-750px-01.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/MIC-1200-x-750px-01.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MIC-animation-1200-x-750px.gif"
