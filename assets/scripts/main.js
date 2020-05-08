@@ -17,8 +17,6 @@ $(function() {
   });
 
 
-  const svgPath = document.querySelectorAll('.path');
-
   const svgText = anime({
     targets: '#animated path',
     strokeDashoffset: [anime.setDashoffset, 0],
@@ -27,6 +25,18 @@ $(function() {
     delay: function(el, i) { return i * 250 },
     direction: 'alternate',
     loop: true
+  });
+
+  const svgPath = document.querySelectorAll('.ani');
+
+  const svgText = anime({
+    targets: svgPath,
+    loop: true,
+    direction: 'alternate',
+    strokeDashoffset: [anime.setDashoffset, 0],
+    easing: 'easeInOutSine',
+    duration: 700,
+    delay: function(el, i) { return i * 500 }
   });
 
   // const options = {
