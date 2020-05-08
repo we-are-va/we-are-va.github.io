@@ -19,7 +19,7 @@ layout: work-single
 page_sections:
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/pandelaw_logo-03.jpg"
+  image: "/uploads/pande_logo-03.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/paelaw_web.jpg"
