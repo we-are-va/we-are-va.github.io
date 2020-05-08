@@ -31,6 +31,12 @@ layout: default
 		</div>
 	</div>
 
+	{% if page.title == "Spero Greek Restaurant" %}       
+		<div class="animated-logo d-flex justify-content-center align-items-center">				
+			{% svg 'uploads/spero-test.svg' width='500' id='animated' class='logo-ani' %}
+		</div>
+	{% endif %}
+
 <button class="btn-scroll"><span class="text">Scroll</span></button>
 
 </section>
@@ -44,8 +50,11 @@ layout: default
 			<div class="col-sm-8">
 				
 				{% if page.client_logo and page.client_logo != "" %}         
-				{% svg "{{ page.client_logo }}" width='200' class='project-logo' %}
+				  {% svg "{{ page.client_logo }}" width='200' id='ani-svg' class='project-logo' %}
 		        {% endif %}
+
+				
+				  
 				
 				<h4 class="hero-color">Project</h4>
 				{{ page.content  | markdownify }}

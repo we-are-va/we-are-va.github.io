@@ -127,6 +127,7 @@ header {
     width: 100%;
     background: rgb(0,0,0);
     background: linear-gradient(0deg, rgba(0,0,0,0.49763655462184875) 0%, rgba(0,0,0,0) 100%);
+    z-index: 5;
   }
   .hero-video {
     height: 100vh;
@@ -148,10 +149,22 @@ video::-webkit-media-controls {
   height: auto;
 }
 .project-logo {
-  width: 200px;
-  background: $white;
-}
+  width: 300px;
 
+  path, circle, polygon, rect {
+    fill: $white;
+  }
+}
+.animated-logo {
+  background: rgba($dark,.5);
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  width: 100%;
+  text-align: center;
+  height: 100%;
+  z-index: 4;
+}
 .next-work {
   // &:before {
   //   content: " ";
