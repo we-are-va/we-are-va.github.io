@@ -10,8 +10,8 @@ services:
 - Website Development
 - Digital Marketing
 - Signage
-teaser_image: "/uploads/suncare/Suncare_TEASER.jpg"
-banner_image: "/uploads/suncare/SUNFOLIO_BANNER_CROP.jpg"
+teaser_image: "/uploads/suncare_tile.jpg"
+banner_image: "/uploads/suncare_hero.jpg"
 hero_video: ''
 sub_heading: Creating A Compassionate Brand
 brand_primary_color: "#363534"
@@ -23,6 +23,7 @@ page_sections:
   block: one-column-1
   headline: 1/2
   content: "<strong>some more content</strong>"
+client_logo: "/uploads/Suncare_Logo_White.svg"
 
 ---
 ## How do you create a brand that puts people first?
