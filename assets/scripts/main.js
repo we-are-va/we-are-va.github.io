@@ -16,6 +16,19 @@ $(function() {
     $navbarLayout.collapse('hide');
   });
 
+
+  const svgPath = document.querySelectorAll('.path');
+
+  const svgText = anime({
+    targets: svgPath,
+    loop: true,
+    direction: 'alternate',
+    strokeDashoffset: [anime.setDashoffset, 0],
+    easing: 'easeInOutSine',
+    duration: 5000,
+    //delay: (el, i) => { return i * 500 }
+  });
+
   // const options = {
   //   direction: 'vertical', // string horizontal & vertical
   //   width: 700, // integer defaults to max-width: 100%; via CSS
