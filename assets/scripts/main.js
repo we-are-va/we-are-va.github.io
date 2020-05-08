@@ -20,13 +20,13 @@ $(function() {
   const svgPath = document.querySelectorAll('.path');
 
   const svgText = anime({
-    targets: svgPath,
-    loop: true,
-    direction: 'alternate',
+    targets: '#animated path',
     strokeDashoffset: [anime.setDashoffset, 0],
     easing: 'easeInOutSine',
-    duration: 5000,
-    //delay: (el, i) => { return i * 500 }
+    duration: 1800,
+    delay: function(el, i) { return i * 250 },
+    direction: 'alternate',
+    loop: true
   });
 
   // const options = {
