@@ -40,6 +40,10 @@ page_sections:
   - "/uploads/MIC-Brand-Guidelines-09.jpg"
   - "/uploads/MIC-Brand-Guidelines-10.jpg"
   full_width: true
+- template: 2-column-media-element
+  block: media-2
+  image_2:
+    image: "/uploads/mic-handbook-covers.gif"
 client_logo: "/uploads/miclogo.svg"
 
 ---
