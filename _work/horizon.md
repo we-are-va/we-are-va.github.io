@@ -18,7 +18,7 @@ youtubeId: lDi9uFcD7XI
 page_sections:
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/resized/480/HZN-Horizon-2019-01.jpg"
+  image: "/uploads/Horizon_web.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
