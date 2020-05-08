@@ -1,10 +1,10 @@
 <div class="logo-teaser">
 	
 	<a href="{{ project.url | absolute_url }}" title="{{ project.title }}">
-		<figure>
+	
+			{% if project.client_logo and project.client_logo != "" %}         
+				{% svg "{{ project.client_logo }}" width='200' class='project-logo-teaser' %}
+		    {% endif %}
 
-				<img class="w-100 d-block" src="{{ project.client_logo }}" alt="{{ project.title }}">
-
-		</figure>
 	</a>
 </div>

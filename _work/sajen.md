@@ -9,7 +9,7 @@ services:
 - Website Design
 - Website Development
 banner_image: "/uploads/SAJ_BANNER3.jpg"
-client_logo: "/uploads/logo-white-sajen.svg"
+client_logo: "/uploads/logo-sajen-legal.svg"
 hero_video: ''
 teaser_image: "/uploads/sajenteaser.png"
 sub_heading: For when its all on the line
