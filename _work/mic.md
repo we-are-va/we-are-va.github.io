@@ -45,6 +45,7 @@ page_sections:
   image_2:
     image: "/uploads/mic-handbook-covers.gif"
 client_logo: "/uploads/miclogo.svg"
+order: 1
 
 ---
 #### Montessori International College Re-brand
