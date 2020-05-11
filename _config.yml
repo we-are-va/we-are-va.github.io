@@ -15,6 +15,9 @@ collections:
   work:
     output: true
     permalink: "/work/:path/"
+  landing_page:
+    output: true
+    permalink: "/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 plugins:
