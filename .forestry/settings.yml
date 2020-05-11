@@ -13,19 +13,19 @@ sections:
 - type: directory
   path: _work
   label: Work
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - work
 - type: directory
   path: _people
   label: People
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: _landingpage
   label: Landing Page
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - landing-page
