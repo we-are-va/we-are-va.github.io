@@ -60,6 +60,7 @@ page_sections:
       elit, sed diamnonummy nibh euismod lorem ipsumdolor sit amet. Ut wisi enim ad
       minimveniam, quis nostrud exerci tationullamcorper suscipit lobortis.<br><br>Name,
       title</em>"
+order: 25
 
 ---
 ## **Keeping the stoke alive**
