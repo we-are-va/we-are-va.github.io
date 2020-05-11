@@ -12,6 +12,17 @@ fields:
 - type: text
   name: title
   label: Title
+- name: order
+  type: number
+  label: Order
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  description: Add order weight to this work. <br>(1 is at top list, 99 is at the
+    bottom of list)
 - name: sub_heading
   label: Sub Heading
   type: text
