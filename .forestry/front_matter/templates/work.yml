@@ -88,6 +88,7 @@ fields:
   - video-element
   - content-feature
   - gallery
+  - before-after-element
 - name: layout
   type: text
   config:

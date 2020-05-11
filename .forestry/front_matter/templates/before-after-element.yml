@@ -9,7 +9,7 @@ fields:
   default: before-after
 - type: field_group
   name: before
-  label: "Before Image"
+  label: Before Image
   fields:
   - type: file
     name: image
@@ -19,7 +19,7 @@ fields:
     label: Caption
 - type: field_group
   name: after
-  label: Second Image
+  label: After Image
   fields:
   - type: file
     name: image
