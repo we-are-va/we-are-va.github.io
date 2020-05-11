@@ -38,6 +38,19 @@ page_sections:
   - "/uploads/suncare_website_3.jpg"
   - "/uploads/suncare_website_4.jpg"
   - "/uploads/suncare_website_5.jpg"
+- template: 2-column-media-element
+  block: media-2
+  image_2:
+    image: "/uploads/suncare_handbook_2.jpg"
+  image_1:
+    image: "/uploads/suncare_handbook_1-1.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/suncare_handbook_3.jpg"
+  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
+    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam.
 - template: gallery
   block: gallery
   gallery:
