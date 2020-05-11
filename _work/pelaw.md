@@ -48,5 +48,6 @@ page_sections:
       diam nonummy nibh euismod  lorem ipsum dolor sit amet.\tUt wisi enim ad minim
       veniam, quis nostrud exercitation.<br><br><em>Name, title</em>"
 client_logo: "/uploads/pandelaw_logo.svg"
+order: 99
 
 ---

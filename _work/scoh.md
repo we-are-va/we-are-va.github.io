@@ -19,6 +19,7 @@ page_sections:
   headline: 1/2
   content: "<strong>some more content</strong>"
 banner_image: "/uploads/OHSC_LandingPage_Bannerimages_2019_caloundraLighthouse.jpg"
+order: 99
 
 ---
 Sunshine Coast Open House is a free event, which provides visitors with the rare opportunity to tour architecturally diverse, well-designed and historic buildings across the region. We Are VA were delighted to provide a range of creative collateral for the inaugural event.

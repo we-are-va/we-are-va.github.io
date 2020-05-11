@@ -58,6 +58,7 @@ page_sections:
   - "/uploads/TBB-Style-Guide-5.png"
   full_width: false
 client_logo: "/uploads/TheBookingBox_Logo.svg"
+order: 90
 
 ---
 ## The Wharf Mooloolaba is a Sunshine Coast icon that’s been attracting visitors for generations. With the recent refurbishments, the Wharf Mooloolaba has become the place to visit for both tourists and locals alike. Trendy restaurants, a plethora of activities, great bars, arcades, shops and more, what more could you want? How about a great coffee and a place to book all those activities?

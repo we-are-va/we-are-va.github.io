@@ -54,6 +54,7 @@ client_logo: "/uploads/CG_logo_tagline_NAVY.svg"
 hero_video: ''
 sector: Hospitality
 key_service: ''
+order: 99
 
 ---
 ## The Common Ground Cafe supports local charities and not-for-profit (NPO's) across the Sunshine Coast. The Common Ground aims to become just that, Common Ground. Using food as the catalyst for change, they put the community in touch with organisations that need the support. Making it damn tasty at the same time!

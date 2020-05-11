@@ -10,10 +10,10 @@ layout: default
 
 		
 		<div class="row-work row d-flex align-items-end py-3">
-		{% for project in site.work %}
+		{% assign projects = site.work | sort: "order" %}
+		{% for project in projects %}
 			
 					<div class="col-work work-{% increment column %} mb-6" data-aos="fade-in">
-						<h1>{% increment column %}</h1>
 						{% include work-teaser.html %}
 					</div>
 
