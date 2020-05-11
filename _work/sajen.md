@@ -22,5 +22,6 @@ page_sections:
   block: one-column-1
   headline: 1/2
   content: "<strong>some more content</strong>"
+order: 20
 
 ---

@@ -60,6 +60,7 @@ page_sections:
     content: VA lorem ipsum dolor sit amet,consectetuer adipiscing elised diamnonummy
       nibh euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud
       exercitation.’<br><br><em>Ally Walburn, Director of Community Engagement</em>
+order: 15
 
 ---
 ## **Educating for Excellence in Learning and Life**

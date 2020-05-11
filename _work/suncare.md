@@ -24,6 +24,7 @@ page_sections:
   headline: 1/2
   content: "<strong>some more content</strong>"
 client_logo: "/uploads/Suncare_Logo_White.svg"
+order: 25
 
 ---
 ## How do you create a brand that puts people first?
