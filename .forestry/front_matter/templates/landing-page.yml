@@ -1,4 +1,31 @@
 ---
 label: Landing Page
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: landing-page
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - 1-column-text
+  - 2-column-text
+  - 3-column-text
+  - full-width-media-element
+  - 2-column-media-element
+  - video-element
+  - content-feature
+  - gallery
+  config:
+    min: 
+    max: 
