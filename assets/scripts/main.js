@@ -17,7 +17,7 @@ $(function() {
   });
 
 
-  const svgText = anime({
+  const svgText2 = anime({
     targets: '#animated path',
     strokeDashoffset: [anime.setDashoffset, 0],
     easing: 'easeInOutSine',
@@ -29,7 +29,7 @@ $(function() {
 
   const svgPath = document.querySelectorAll('.ani');
 
-  const svgText = anime({
+  const svgText1 = anime({
     targets: svgPath,
     loop: true,
     direction: 'alternate',
@@ -37,6 +37,11 @@ $(function() {
     easing: 'easeInOutSine',
     duration: 700,
     delay: function(el, i) { return i * 500 }
+  });
+
+
+  document.querySelectorAll('.cocoen').forEach(function(element){
+    new Cocoen(element);
   });
 
   // const options = {
