@@ -22,7 +22,7 @@ page_sections:
   image: "/uploads/mic_information_booklet.jpg"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/MIC-1200-x-750px-01.jpg"
+  image: "/uploads/mic-1200-x-750px-07_v2.png"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MIC-animation-1200-x-750px.gif"
