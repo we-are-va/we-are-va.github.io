@@ -26,11 +26,8 @@
                                 <div class="post row">
                                     <div class="post-header col-md-12 mb-1">
                                     {% if person.thumbnail %}
-                                        {% responsive_image_block %}
-                                        path: {{ person.thumbnail | remove_first:'/' }}
-                                        alt: {{ person.title }}
-                                        {% endresponsive_image_block %} 
-                                    {% else %}
+                                        {% picture small {{ person.thumbnail }}  class="w-100" --alt {{ person.title }} %}
+                                    {% else %} 
                                         <img class="rounded-circle" alt="{{ person.title }}" src="{{ "/img/placeholder.png" | absolute_url }}>
                                     {% endif %}
                                     </div>

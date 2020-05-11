@@ -1,4 +1,4 @@
-<div class="card work-teaser">
+<div class="card work-teaser work-teaser-alt">
 	<h3>{{ project.title }}</h3>
 	<a href="{{ project.url | absolute_url }}" title="{{ project.title }}">
 		<figure>
@@ -11,6 +11,11 @@
 				<h4 class="mb-0 h3">{{ project.sub_heading }}</h4>
 				<span class="text-uppercase">{{ project.key_service }}</span>
 			</figcaption>
+			{% if project.client_logo and project.client_logo != "" %}
+			<span class="logo d-flex justify-content-center align-items-center">
+				{% svg "{{ project.client_logo }}" width='250' class='logo-teaser' %}
+			</span>
+		    {% endif %}
 		</figure>
 	</a>
 </div>

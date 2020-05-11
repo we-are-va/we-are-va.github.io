@@ -7,9 +7,9 @@ group :jekyll_plugins do
   gem "jekyll-menus"
   gem "jekyll-tagging"
   gem "jekyll-archives"
-  gem "jekyll-responsive-image"
-  gem 'jekyll-seo-tag'
-  gem 'jekyll-sitemap'
+  gem "jekyll_picture_tag"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

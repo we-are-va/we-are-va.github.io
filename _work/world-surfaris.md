@@ -89,7 +89,7 @@ teaser_image: "/uploads/VA_Web-folio_WorldSurf_Hero.jpg"
 client_logo: "/uploads/ws.svg"
 hero_video: ''
 sector: ''
-key_service: ''
+key_service: 'Full Service'
 order: 30
 related_landing_page: ''
 

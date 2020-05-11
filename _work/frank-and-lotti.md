@@ -54,7 +54,7 @@ teaser_image: "/uploads/frankandlotti.jpg"
 client_logo: "/uploads/Frank&Lotti_Logo.svg"
 hero_video: ''
 sector: ''
-key_service: ''
+key_service: 'Branding'
 order: 99
 
 ---

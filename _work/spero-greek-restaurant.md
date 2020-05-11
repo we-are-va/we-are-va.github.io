@@ -1,7 +1,7 @@
 ---
 title: Spero Greek Restaurant
 date: '2016-04-20T00:00:00.000+00:00'
-key_service: ''
+key_service: 'Branding'
 banner_image: "/uploads/h3a1823.jpg"
 hero_video: ''
 teaser_image: "/uploads/spero/Spero_9.jpg"
