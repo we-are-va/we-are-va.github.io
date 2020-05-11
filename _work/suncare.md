@@ -19,10 +19,9 @@ brand_secondary_color: "#ff8f70"
 slug: ''
 layout: work-single
 page_sections:
-- template: 1-column-text
-  block: one-column-1
-  headline: 1/2
-  content: "<strong>some more content</strong>"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Suncare-stationery_1400.jpg"
 - template: gallery
   block: gallery
   gallery:
