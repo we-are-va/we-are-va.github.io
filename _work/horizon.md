@@ -49,6 +49,7 @@ page_sections:
     caption: caption
 banner_image: "/uploads/Horizon2019_hero.jpg"
 client_logo: "/uploads/horizon-date-logo.svg"
+order: 10
 
 ---
 ## Horizon Festival connects artists, industries, communities and audiences through an award-winning celebration of arts and culture. 
