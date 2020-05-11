@@ -27,6 +27,8 @@ sections:
   label: Landing Page
   create: all
   match: "**/*"
+  templates:
+  - landing-page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
