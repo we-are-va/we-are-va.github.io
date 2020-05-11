@@ -22,6 +22,22 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Suncare-stationery_1400.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/suncare_pullupbanners.jpg"
+  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
+    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud
+    exerci tation ullamcorper suscipit lobortis.
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/suncare_website_1.jpg"
+  - "/uploads/suncare_website_2.jpg"
+  - "/uploads/suncare_website_3.jpg"
+  - "/uploads/suncare_website_4.jpg"
+  - "/uploads/suncare_website_5.jpg"
 - template: gallery
   block: gallery
   gallery:
