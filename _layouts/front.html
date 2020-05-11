@@ -69,46 +69,20 @@ layout: default
 
     </div>
 	
-	 <div class="row d-flex align-items-center py-3 logos-row" data-aos="fade-in">
 
-		    <div class="col-md-3">
-		        {% for project in site.work %}
-		          {% if project.title == "Sajen Legal" %}       
-		            {% include logo-teaser.html %}
-		          {% endif %}
-		        {% endfor %}
-		      </div>
-
-		      <div class="col-md-3">
-		        {% for project in site.work %}
-		          {% if project.title == "Spero Greek Restaurant" %}       
-		            {% include logo-teaser.html %}
-		          {% endif %}
-		        {% endfor %}
-		      </div>
-
-		      <div class="col-md-3">
-		        {% for project in site.work %}
-		          {% if project.title == "MIC (Montessori International College)" %}       
-		            {% include logo-teaser.html %}
-		          {% endif %}
-		        {% endfor %}
-		      </div>
-
-		      <div class="col-md-3">
-		        {% for project in site.work %}
-		          {% if project.title == "Common Ground Community Cafe" %}       
-		            {% include logo-teaser.html %}
-		          {% endif %}
-		        {% endfor %}
-		      </div>
-
-  	</div>
 	
 
     <div class="row d-flex align-items-end py-3" data-aos="fade-in">
 			
-			<div class="col-md-4">
+			 <div class="col-md-4">
+        {% for project in site.work %}
+          {% if project.title == "Spero Greek Restaurant" %}        
+            {% include work-teaser.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
+
+      <div class="col-md-8">
 				{% for project in site.work %}
 					{% if project.title == "MIC (Montessori International College)" %}	      
 						{% include work-teaser.html %}
@@ -116,15 +90,30 @@ layout: default
 				{% endfor %}
 			</div>
 
-			<div class="col-md-8">
-				{% for project in site.work %}
-					{% if project.title == "Spero Greek Restaurant" %}	      
-						{% include work-teaser.html %}
-					{% endif %}
-				{% endfor %}
-			</div>
+		
 
     </div>
+
+     <div class="row d-flex align-items-end py-3" data-aos="fade-in">
+      
+      <div class="col-md-8">
+        {% for project in site.work %}
+          {% if project.title == "World Surfaris" %}        
+            {% include work-teaser.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
+
+      <div class="col-md-4">
+        {% for project in site.work %}
+          {% if project.title == "Frank and Lotti" %}        
+            {% include work-teaser.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
+
+    </div>
+
 
     <div class="row d-flex align-items-end py-3" data-aos="fade-in">
 			
@@ -138,55 +127,22 @@ layout: default
 
 			<div class="col-md-4">
 				 {% for project in site.work %}
-		          {% if project.title == "Sajen Legal" %}       
+		          {% if project.title == "Suncare" %}       
 		            {% include work-teaser.html %}
 		          {% endif %}
 		        {% endfor %}
 			</div>
 
 			<div class="col-md-4">
-				<h2 class="text-muted">We work to ensure your brand not only looks great but makes sense.</h2>
+				<h2 class="text-muted">We can help you <span class="create">create</span> a brand that looks great and works well.</h2>
 			</div>
 
     </div>
 
-	
-	    <div class="row d-flex align-items-center py-3 logos-row" data-aos="fade-in">
 
-		    <div class="col-md-3">
-		        {% for project in site.work %}
-		          {% if project.title == "The Booking Box" %}       
-		            {% include logo-teaser.html %}
-		          {% endif %}
-		        {% endfor %}
-		      </div>
 
-		      <div class="col-md-3">
-		        {% for project in site.work %}
-		          {% if project.title == "The Booking Box" %}       
-		            {% include logo-teaser.html %}
-		          {% endif %}
-		        {% endfor %}
-		      </div>
-
-		      <div class="col-md-3">
-		        {% for project in site.work %}
-		          {% if project.title == "The Booking Box" %}       
-		            {% include logo-teaser.html %}
-		          {% endif %}
-		        {% endfor %}
-		      </div>
-
-		      <div class="col-md-3">
-		        {% for project in site.work %}
-		          {% if project.title == "World Surfaris" %}       
-		            {% include logo-teaser.html %}
-		          {% endif %}
-		        {% endfor %}
-		      </div>
-
-		  </div>
-
+	<hr />
+	 
 
 	
 	<div class="row d-flex align-items-end py-3" data-aos="fade-in">
@@ -201,14 +157,84 @@ layout: default
 
 		<div class="col-md-6">
 			{% for project in site.work %}
-					{% if project.title == "Horizon" %}	      
+					{% if project.title == "P&E Law" %}	      
 						{% include work-teaser.html %}
 					{% endif %}
 			{% endfor %}
 		</div>
 
 	</div>
+  <div class="row d-flex align-items-end py-3" data-aos="fade-in">
+    <div class="col-md-4">
+        <h2 class="text-muted">For the last 10 years we have been helping organisation like yours <span class="grow">grow</span> their audience and client base.</h2>
+    </div>
+
+    <div class="col-md-4">
+      {% for project in site.work %}
+          {% if project.title == "Sajen Legal" %}       
+            {% include work-teaser.html %}
+          {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="col-md-4">
+      {% for project in site.work %}
+          {% if project.title == "Horizon" %}       
+            {% include work-teaser.html %}
+          {% endif %}
+      {% endfor %}
+    </div>
+     
+
+  </div>
+  <div class="row d-flex align-items-end py-3" data-aos="fade-in">
+    
+     <div class="col-md-4">
+     
+    </div>
+
+    <div class="col-md-4">
+      {% for project in site.work %}
+          {% if project.title == "World Surfaris" %}       
+            {% include work-teaser.html %}
+          {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="col-md-4">
+      {% for project in site.work %}
+          {% if project.title == "MIC (Montessori International College)" %}       
+            {% include work-teaser.html %}
+          {% endif %}
+      {% endfor %}
+    </div>
+
+    
+  </div>
 	
+  <div class="row d-flex align-items-end py-3" data-aos="fade-in">
+    
+     <div class="col-md-4">
+     
+    </div>
+
+    
+
+    <div class="col-md-4">
+      {% for project in site.work %}
+          {% if project.title == "The Booking Box" %}       
+            {% include work-teaser.html %}
+          {% endif %}
+      {% endfor %}
+    </div>
+    <div class="col-md-4">
+      {% for project in site.work %}
+          {% if project.title == "Argon Law" %}       
+            {% include work-teaser.html %}
+          {% endif %}
+      {% endfor %}
+    </div>
+  </div>
 	
 
 	<div class="row py-3 text-right" data-aos="fade-in">
