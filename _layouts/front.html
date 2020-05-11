@@ -16,7 +16,7 @@ layout: default
 
 	<div class="hero-copy">
       	
-      		<h1 class="text-primary">We are VA</h1>
+      		<h1 class="text-primary">We Are VA</h1>
 
       		<h2>A team committed to technical and aesthetic excellence, curiosity and the sharing of ideas.</h2>
 		
@@ -61,11 +61,13 @@ layout: default
       	
       	<div class="col-sm-7">
       	
-      		<h2 class="h1 text-primary">Some other headline here</h2>
+      		<h2 class="h1 text-primary">Create, Build and Grow</h2>
 
-      		<h3 class="h2">Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</h3>
+      		<h3 class="h2">Since 2010 VA have provided branding, graphic design, web design, web development and digital marketing services to businesses in a range of industries.</h3>
+
+
 		
-		</div>
+		    </div>
 
     </div>
 	
@@ -74,39 +76,35 @@ layout: default
 
     <div class="row d-flex align-items-end py-3" data-aos="fade-in">
 			
-			 <div class="col-md-4">
+			 
+       <div class="col-md-8">
+        {% for project in site.work %}
+          {% if project.title == "MIC (Montessori International College)" %}        
+            {% include work-teaser.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
+       <div class="col-md-4">
         {% for project in site.work %}
           {% if project.title == "Spero Greek Restaurant" %}        
             {% include work-teaser.html %}
           {% endif %}
         {% endfor %}
       </div>
-
-      <div class="col-md-8">
-				{% for project in site.work %}
-					{% if project.title == "MIC (Montessori International College)" %}	      
-						{% include work-teaser.html %}
-					{% endif %}
-				{% endfor %}
-			</div>
-
-		
-
     </div>
 
      <div class="row d-flex align-items-end py-3" data-aos="fade-in">
-      
-      <div class="col-md-8">
+      <div class="col-md-4">
         {% for project in site.work %}
-          {% if project.title == "World Surfaris" %}        
+          {% if project.title == "Frank and Lotti" %}        
             {% include work-teaser.html %}
           {% endif %}
         {% endfor %}
       </div>
 
-      <div class="col-md-4">
+      <div class="col-md-8">
         {% for project in site.work %}
-          {% if project.title == "Frank and Lotti" %}        
+          {% if project.title == "World Surfaris" %}        
             {% include work-teaser.html %}
           {% endif %}
         {% endfor %}
