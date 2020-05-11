@@ -19,7 +19,7 @@ layout: work-single
 page_sections:
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/MIC-1200-x-750px-06.jpg"
+  image: "/uploads/mic_information_booklet.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MIC-1200-x-750px-01.jpg"
