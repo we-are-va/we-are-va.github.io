@@ -95,6 +95,18 @@ fields:
   label: layout
   hidden: true
   default: work-single
+- name: related_landing_page
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: landing-page
+      file: 
+      path: 
+  label: Related Landing Page
 pages:
 - _work/argon-law.md
 - _work/common-ground-community-cafe.md
