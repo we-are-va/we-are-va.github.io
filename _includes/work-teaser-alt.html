@@ -3,7 +3,13 @@
 	<a href="{{ project.url | absolute_url }}" title="{{ project.title }}">
 		<figure>
 			{% if project.teaser_image and project.teaser_image != "" %}
-				{% picture teasers {{ project.teaser_image | remove_first:'/'}} class="w-100" --alt {{ project.title }} %}
+				{% responsive_image_block %}
+				  path: {{ project.teaser_image | remove_first:'/'}}
+				  alt: {{ project.title }}
+				  {% if title %}
+				  title: {{ project.title }}
+				  {% endif %}
+				{% endresponsive_image_block %}
 			{% else %} 
 				<img class="w-100 d-block" src="https://www.fillmurray.com/640/360" alt="{{ project.title }}">
 			{% endif %}

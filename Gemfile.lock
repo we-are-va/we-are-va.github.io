@@ -4,7 +4,6 @@ GEM
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
-    fastimage (2.1.7)
     ffi (1.9.25)
     forwardable-extended (2.6.0)
     jekyll (3.6.3)
@@ -27,6 +26,9 @@ GEM
       svg_optimizer (= 0.1.0)
     jekyll-menus (0.6.0)
       jekyll (~> 3.1)
+    jekyll-responsive-image (1.5.5)
+      jekyll (>= 2.0, < 5.0)
+      rmagick (>= 2.0, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
@@ -37,12 +39,6 @@ GEM
       nuggets
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    jekyll_picture_tag (1.6.0)
-      fastimage (~> 2)
-      jekyll (< 5)
-      mime-types (~> 3)
-      mini_magick (~> 4)
-      objective_elements (~> 1.1)
     kramdown (1.17.0)
     liquid (4.0.1)
     listen (3.1.5)
@@ -50,21 +46,17 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    mime-types (3.3.1)
-      mime-types-data (~> 3.2015)
-    mime-types-data (3.2020.0425)
-    mini_magick (4.10.1)
     mini_portile2 (2.4.0)
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     nuggets (1.5.0)
-    objective_elements (1.1.2)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
+    rmagick (4.1.2)
     rouge (2.2.1)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
@@ -85,10 +77,10 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-inline-svg (~> 0.0.1)
   jekyll-menus
+  jekyll-responsive-image
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tagging
-  jekyll_picture_tag
   tzinfo-data
 
 BUNDLED WITH

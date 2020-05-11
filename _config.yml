@@ -23,7 +23,7 @@ collections:
 plugins:
   - jekyll-menus
   - jekyll-feed
-  - jekyll_picture_tag
+  - jekyll-responsive-image
   - jekyll-seo-tag
   - jekyll-inline-svg
   - jekyll-sitemap
@@ -31,10 +31,10 @@ plugins:
 svg:
   optimize: true  
 # Responsive images
-picture:
+#picture:
  # source: "uploads"
   #output: "uploads/resized"
-  ignore_missing_images: true
+ # ignore_missing_images: true
 
 responsive_image:
   # [Required]
