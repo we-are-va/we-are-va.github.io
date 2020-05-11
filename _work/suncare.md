@@ -23,6 +23,17 @@ page_sections:
   block: one-column-1
   headline: 1/2
   content: "<strong>some more content</strong>"
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/suncare_brand_guidelines_1.jpg"
+  - "/uploads/suncare_brand_guidelines_2.jpg"
+  - "/uploads/suncare_brand_guidelines_3.jpg"
+  - "/uploads/suncare_brand_guidelines_4.jpg"
+  - "/uploads/suncare_brand_guidelines_5.jpg"
+  - "/uploads/suncare_brand_guidelines_6.jpg"
+  - "/uploads/suncare_brand_guidelines_7.jpg"
+  full_width: true
 client_logo: "/uploads/Suncare_Logo_White.svg"
 order: 25
 
