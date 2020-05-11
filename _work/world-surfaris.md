@@ -82,6 +82,8 @@ client_logo: "/uploads/ws.svg"
 hero_video: ''
 sector: ''
 key_service: ''
+order: 30
+related_landing_page: ''
 
 ---
 ### World Surfaris is a full service international travel agency that specialises in surfing holidays, and represents a diverse range of “unique surf adventures” catering to all standards of surfers and budgets. 
