@@ -77,6 +77,14 @@ page_sections:
   - "/uploads/Common-Ground-1600-x-1000px.jpg"
   - "/uploads/Argon_Law-1600-x-1000px.jpg"
   full_width: false
+- template: before-after-element
+  block: before-after
+  before:
+    image: "/uploads/Screen Shot 2020-05-11 at 4.22.05 pm.png"
+    caption: before
+  after:
+    image: "/uploads/Screen Shot 2020-05-11 at 4.22.10 pm.png"
+    caption: after
 teaser_image: "/uploads/VA_Web-folio_WorldSurf_Hero.jpg"
 client_logo: "/uploads/ws.svg"
 hero_video: ''
