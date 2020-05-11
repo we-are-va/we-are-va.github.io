@@ -8,7 +8,7 @@ title: 10 Toes Brewery
 sub_heading: ''
 teaser_image: ''
 banner_image: ''
-hero_video: ''
+hero_video: "/uploads/video-1588940235.mp4"
 sector: ''
 key_service: ''
 slug: ''
