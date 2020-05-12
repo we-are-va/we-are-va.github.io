@@ -63,6 +63,9 @@ page_sections:
     image: "/uploads/suncorp_img.jpg"
   content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
     nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam.
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/suncare-brochures.jpg"
 - template: gallery
   block: gallery
   gallery:
