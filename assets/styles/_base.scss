@@ -12,6 +12,7 @@ body {
   font-family: $primary-font;
   color: $white;
   background: $dark;
+//  cursor: url('/dist/images/arrow-dark.png'), auto;
 }
 
 .hover {
@@ -48,6 +49,9 @@ body {
 a {
   transition: all 0.2s ease-out;
   color: $primary-color;
+  &:hover {
+    //cursor: url('/dist/images/arrow-link.png'), auto;
+  }
 }
 
 
