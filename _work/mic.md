@@ -8,8 +8,8 @@ services:
 - Print Design
 - Website Design
 - Website Development
-banner_image: "/uploads/mic_hero_1600x1000.jpg"
-hero_video: "/uploads/mic_hero_1600x1000-1.jpg"
+banner_image: "/uploads/mic_hero_1600x1000-2.jpg"
+hero_video: ''
 teaser_image: "/uploads/mic_teaser_1400x963.jpg"
 sub_heading: Freedom within limits
 brand_primary_color: "#063325"
@@ -19,26 +19,22 @@ layout: work-single
 page_sections:
 - template: full-width-media-element
   block: media-1
+  image: "/uploads/MIC-animation-1200-x-750px.gif"
+- template: full-width-media-element
+  block: media-1
   image: "/uploads/mic_information_booklet.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/mic-1200-x-750px-07_v2.png"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/MIC-animation-1200-x-750px.gif"
 - template: content-feature
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/resized/480/MIC-handbook-covers (1)-1.gif"
+    image: "/uploads/MIC-handbook-covers.gif"
   headline: Heading
   content: "Lorem ipsum dolor sit amet, consectetuer adipis cing elit, sed diam nonummy
     nibh euismod  lorem ipsum dolor sit amet.Ut wisi enim ad minim veniam, quis nostrud
     \x03exerci tation ullamcorper suscipit lobortis."
-- template: 2-column-media-element
-  block: media-2
-  image_2:
-    image: "/uploads/mic-handbook-covers.gif"
 - template: gallery
   block: gallery
   gallery:
