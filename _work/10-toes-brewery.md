@@ -3,9 +3,9 @@ order: 5
 services: []
 layout: work-single
 related_landing_page: []
-client_logo: ''
+client_logo: "/uploads/10toes_logo.svg"
 title: 10 Toes Brewery
-sub_heading: ''
+sub_heading: Uniting all walks of life for a chin wag over a knock off frothy
 teaser_image: ''
 banner_image: ''
 hero_video: "/uploads/video-1588940235.mp4"
