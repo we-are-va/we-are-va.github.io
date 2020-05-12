@@ -33,12 +33,53 @@ fields:
   config:
     maxSize: 64
   label: Teaser image
+- name: svg_for_animation
+  type: file
+  config:
+    maxSize: 64
+  label: SVG for Animation
+  description: Add an SVG for animation in header
 - name: banner_image
   label: Banner Image
   type: file
   description: Dimensions work best at 1200 pixels by 400 pixels
   hidden: false
   default: ''
+- name: banner_animation_
+  type: field_group
+  config: {}
+  fields:
+  - name: animation_style
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - zoom
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Animation Style
+  - name: animation_size
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - '100'
+      - '80'
+      - '60'
+      - '40'
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Animation Size
+    description: Size is in width of the SVG
+  label: 'Banner Animation '
 - name: hero_video
   type: file
   config:
