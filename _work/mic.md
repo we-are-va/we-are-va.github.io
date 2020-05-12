@@ -8,9 +8,9 @@ services:
 - Print Design
 - Website Design
 - Website Development
-banner_image: "/uploads/MIC_hero.jpg"
-hero_video: ''
-teaser_image: "/uploads/MIC.jpg"
+banner_image: "/uploads/mic_hero_1600x1000.jpg"
+hero_video: "/uploads/mic_hero_1600x1000-1.jpg"
+teaser_image: "/uploads/mic_teaser_1400x963.jpg"
 sub_heading: Freedom within limits
 brand_primary_color: "#063325"
 brand_secondary_color: "#cc6216"
