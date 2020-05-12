@@ -19,13 +19,19 @@ layout: work-single
 page_sections:
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/MIC-animation-1200-x-750px.gif"
-- template: full-width-media-element
-  block: media-1
   image: "/uploads/mic_information_booklet.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/mic-1200-x-750px-07_v2.png"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/MIC-animation-1200-x-750px.gif"
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/MIC-1200-x-750px-02.jpg"
+  - "/uploads/MIC-1200-x-750px-03.jpg"
+  - "/uploads/MIC-1200-x-750px-04.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -35,12 +41,6 @@ page_sections:
   content: "Lorem ipsum dolor sit amet, consectetuer adipis cing elit, sed diam nonummy
     nibh euismod  lorem ipsum dolor sit amet.Ut wisi enim ad minim veniam, quis nostrud
     \x03exerci tation ullamcorper suscipit lobortis."
-- template: gallery
-  block: gallery
-  gallery:
-  - "/uploads/MIC-1200-x-750px-02.jpg"
-  - "/uploads/MIC-1200-x-750px-03.jpg"
-  - "/uploads/MIC-1200-x-750px-04.jpg"
 - template: 1-column-text
   block: one-column-1
   headline: Heading
