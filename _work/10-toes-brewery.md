@@ -10,7 +10,7 @@ teaser_image: ''
 banner_image: ''
 hero_video: "/uploads/video-1588940235.mp4"
 sector: ''
-key_service: ''
+key_service: Design
 slug: ''
 brand_primary_color: ''
 brand_secondary_color: ''
