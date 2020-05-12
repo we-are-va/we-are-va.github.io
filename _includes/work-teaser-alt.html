@@ -1,4 +1,4 @@
-<div class="card work-teaser work-teaser-alt">
+<div class="card work-teaser work-teaser-alt" style="background-color: {{ project.brand_primary_color }}">
 	<h3>{{ project.title }}</h3>
 	<a href="{{ project.url | absolute_url }}" title="{{ project.title }}">
 		<figure>
@@ -13,10 +13,10 @@
 			{% else %} 
 				<img class="w-100 d-block" src="https://www.fillmurray.com/640/360" alt="{{ project.title }}">
 			{% endif %}
-			<figcaption>
+			<!-- <figcaption>
 				<h4 class="mb-0 h3">{{ project.sub_heading }}</h4>
 				<span class="text-uppercase">{{ project.key_service }}</span>
-			</figcaption>
+			</figcaption> -->
 			{% if project.client_logo and project.client_logo != "" %}
 			<span class="logo d-flex justify-content-center align-items-center">
 				{% svg "{{ project.client_logo }}" width='250' class='logo-teaser' %}

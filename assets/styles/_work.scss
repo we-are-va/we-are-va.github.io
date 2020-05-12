@@ -59,7 +59,7 @@
   }
   h3 {
 	font-family: $headings-font;
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -68,14 +68,14 @@
 	transition: all 0.3s ease;
   }
   figure {
-  	h4 {
-  		display: none;
-  	}
+  	
     &:hover {
       &:before {
-        opacity: 0.8;
+        //opacity: 0.8;
       }
-      
+      img {
+      	transition: all 0.3s ease;
+      }
       figcaption {
         opacity: 1;
         transform: translateY(-40px);
@@ -88,6 +88,9 @@
   }
 
   &.work-teaser-alt {
+  	h4 {
+  		display: none;
+  	}
   	.logo {	
   		position: absolute;
   		top: 0;
@@ -108,7 +111,12 @@
   		}
   	}
   	&:hover {
-  		
+  		img {
+  			opacity: 0;
+  		}
+  		h3 {
+			opacity: 0;
+		}
   		.logo svg { 
   			opacity: 1;
   			transform: translateY(0);
@@ -117,12 +125,6 @@
   	}
   }
 
-  &:hover {
-	
-	h3 {
-		opacity: 0;
-	}
-  }
 }
 
 
