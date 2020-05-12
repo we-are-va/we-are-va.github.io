@@ -8,10 +8,10 @@ services:
 - Print Design
 - Website Design
 - Website Development
-banner_image: "/uploads/SAJ_BANNER3.jpg"
+banner_image: "/uploads/sajen_hero.jpg"
 client_logo: "/uploads/SajenLegal_White.svg"
 hero_video: ''
-teaser_image: "/uploads/sajenteaser.png"
+teaser_image: "/uploads/sajen_teaser.jpg"
 sub_heading: For when its all on the line
 brand_primary_color: "#004953"
 brand_secondary_color: "#9a8419"
