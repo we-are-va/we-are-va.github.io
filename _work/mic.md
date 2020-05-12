@@ -26,6 +26,15 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MIC-animation-1200-x-750px.gif"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/resized/480/MIC-handbook-covers (1)-1.gif"
+  headline: Heading
+  content: "Lorem ipsum dolor sit amet, consectetuer adipis cing elit, sed diam nonummy
+    nibh euismod  lorem ipsum dolor sit amet.Ut wisi enim ad minim veniam, quis nostrud
+    \x03exerci tation ullamcorper suscipit lobortis."
 - template: 2-column-media-element
   block: media-2
   image_2:
