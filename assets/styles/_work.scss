@@ -110,11 +110,12 @@
   	}
   	img {
      	transition: all 0.3s ease;
+     	opacity: 1;
      }
   	&:hover {
   		img {
-  			opacity: 0.2;
-  			mix-blend-mode: multiply;
+  			opacity: 0.05;
+  			//mix-blend-mode: multiply;
   		}
   		h3 {
 			opacity: 0;

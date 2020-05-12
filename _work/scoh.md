@@ -7,8 +7,9 @@ services:
 - Website Design
 - Website Development
 hero_video: ''
-teaser_image: "/uploads/open_house_tent_pg.jpg"
+teaser_image: "/uploads/scoh_lighthouse.jpg"
 sub_heading: Welcome, please come in.
+client_logo: "/uploads/scoh_logo.svg"
 brand_primary_color: "#05bab0"
 brand_secondary_color: "#ffffff"
 slug: ''
