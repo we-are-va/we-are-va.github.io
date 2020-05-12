@@ -8,7 +8,7 @@ services:
 - Print Design
 - Website Design
 - Website Development
-teaser_image: "/uploads/NFOS_teaser.jpg"
+teaser_image: "/uploads/nfos_teaser.jpg"
 banner_image: "/uploads/NFOS-1600-x-1000px-Hero.jpg"
 hero_video: ''
 sub_heading: Get swept up in the romance and living art of longboarding.
