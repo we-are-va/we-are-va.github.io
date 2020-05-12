@@ -60,6 +60,13 @@ page_sections:
     content: VA lorem ipsum dolor sit amet,consectetuer adipiscing elised diamnonummy
       nibh euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud
       exercitation.’<br><br><em>Ally Walburn, Director of Community Engagement</em>
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: H
+  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
+    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud
+    exerci tation ullamcorper suscipit lobortis.
 order: 15
 client_logo: "/uploads/matthew_flinders_logo.svg"
 
