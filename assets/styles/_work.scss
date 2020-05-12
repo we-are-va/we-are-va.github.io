@@ -73,9 +73,7 @@
       &:before {
         //opacity: 0.8;
       }
-      img {
-      	transition: all 0.3s ease;
-      }
+      
       figcaption {
         opacity: 1;
         transform: translateY(-40px);
@@ -110,9 +108,13 @@
     		fill: $white;
   		}
   	}
+  	img {
+     	transition: all 0.3s ease;
+     }
   	&:hover {
   		img {
-  			opacity: 0;
+  			opacity: 0.2;
+  			mix-blend-mode: multiply;
   		}
   		h3 {
 			opacity: 0;
