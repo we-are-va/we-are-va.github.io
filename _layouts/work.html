@@ -13,10 +13,9 @@ layout: default
 		{% assign projects = site.work | sort: "order" %}
 		{% for project in projects %}
 			
-					<div class="col-work work-{% increment column %} mb-6" data-aos="fade-in">
+					<div class="col-work col-md-6 p-3" data-aos-delay="{% increment column %}0" data-aos="fade-up">
 						{% include work-teaser-alt.html %}
 					</div>
-
 		
 		{% endfor %}
 	</div>
