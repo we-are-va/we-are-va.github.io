@@ -26,6 +26,18 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MIC-animation-1200-x-750px.gif"
+- template: 1-column-text
+  block: one-column-1
+  content: "Lorem ipsum dolor sit amet, consectetuer adipis cing elit, sed diam nonummy
+    nibh euismod  lorem ipsum dolor sit amet.Ut wisi enim ad minim veniam, quis nostrud
+    \x03exerci tation ullamcorper suscipit lobortis."
+  headline: Heading
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/MIC-1200-x-750px-02.jpg"
+  - "/uploads/MIC-1200-x-750px-03.jpg"
+  - "/uploads/MIC-1200-x-750px-04.jpg"
 - template: gallery
   block: gallery
   gallery:
