@@ -1,7 +1,7 @@
 ---
 title: Spero Greek Restaurant
 date: '2016-04-20T00:00:00.000+00:00'
-key_service: 'Branding'
+key_service: Branding
 banner_image: "/uploads/h3a1823.jpg"
 hero_video: ''
 teaser_image: "/uploads/spero/Spero_9.jpg"
@@ -55,6 +55,10 @@ services:
 - Illustration
 client_logo: "/uploads/spero_logo.svg"
 order: 35
+svg_for_animation: "/uploads/spero-test-strongarm.svg"
+banner_animation_:
+  animation_style: zoom
+  animation_size: '80'
 
 ---
 ## Spero is the latest venture for renowned Sunshine Coast restaurateur Tony Kelly and his partners, chef Mitch Smith and restaurant manager Elyza Molloy, of Rice Boi fame.
