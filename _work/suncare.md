@@ -22,6 +22,12 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/suncare_logo.jpg"
+- template: 1-column-text
+  block: one-column-1
+  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
+    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud
+    exerci tation ullamcorper suscipit lobortis.
+  headline: Heading
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Suncare-stationery_1400.jpg"
