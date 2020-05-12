@@ -60,7 +60,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/suncare_handbook_3.jpg"
+    image: "/uploads/suncorp_img.jpg"
   content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
     nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam.
 - template: gallery
