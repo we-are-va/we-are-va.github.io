@@ -61,6 +61,7 @@ page_sections:
       minimveniam, quis nostrud exerci tationullamcorper suscipit lobortis.<br><br>Name,
       title</em>"
 order: 25
+client_logo: "/uploads/noosa-festival-of-surf-logo.svg"
 
 ---
 ## **Keeping the stoke alive**
