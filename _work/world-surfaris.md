@@ -3,7 +3,7 @@ services: []
 layout: work-single
 title: World Surfaris
 sub_heading: We keep World Surfaris pumping
-banner_image: "/uploads/MG_3110.jpg"
+banner_image: "/uploads/World-Surf-1600-x-1000px-Hero.jpg"
 slug: ''
 brand_primary_color: "#007AC9"
 brand_secondary_color: "#FFFFFF"
@@ -85,11 +85,11 @@ page_sections:
   - "/uploads/Common-Ground-1600-x-1000px.jpg"
   - "/uploads/Argon_Law-1600-x-1000px.jpg"
   full_width: false
-teaser_image: "/uploads/VA_Web-folio_WorldSurf_Hero.jpg"
+teaser_image: "/uploads/world-surfaris-teaser.jpg"
 client_logo: "/uploads/ws.svg"
 hero_video: ''
 sector: ''
-key_service: 'Full Service'
+key_service: Full Service
 order: 30
 related_landing_page: ''
 
