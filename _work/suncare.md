@@ -21,6 +21,9 @@ layout: work-single
 page_sections:
 - template: full-width-media-element
   block: media-1
+  image: "/uploads/suncare_logo.jpg"
+- template: full-width-media-element
+  block: media-1
   image: "/uploads/Suncare-stationery_1400.jpg"
 - template: content-feature
   block: feature-1
@@ -38,6 +41,9 @@ page_sections:
   - "/uploads/suncare_website_3.jpg"
   - "/uploads/suncare_website_4.jpg"
   - "/uploads/suncare_website_5.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/suncare_tagline.png"
 - template: 2-column-media-element
   block: media-2
   image_2:
