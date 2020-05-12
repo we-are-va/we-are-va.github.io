@@ -64,8 +64,6 @@ layout: default
       		<h2 class="h1 text-primary">Create, Build and Grow</h2>
 
       		<h3 class="h2">Since 2010 VA have provided branding, graphic design, web design, web development and digital marketing services to businesses in a range of industries.</h3>
-
-
 		
 		    </div>
 
@@ -94,7 +92,7 @@ layout: default
     </div>
 
      <div class="row d-flex align-items-end py-3" data-aos="fade-in">
-      <div class="col-md-4">
+      <div class="col-md-5">
         {% for project in site.work %}
           {% if project.title == "Frank and Lotti" %}        
             {% include work-teaser-alt.html %}
@@ -102,10 +100,10 @@ layout: default
         {% endfor %}
       </div>
 
-      <div class="col-md-8">
+      <div class="col-md-7">
         {% for project in site.work %}
           {% if project.title == "World Surfaris" %}        
-            {% include work-teaser.html %}
+            {% include work-teaser-alt.html %}
           {% endif %}
         {% endfor %}
       </div>
@@ -113,7 +111,7 @@ layout: default
     </div>
 
 
-    <div class="row d-flex align-items-end py-3" data-aos="fade-in">
+    <div class="row d-flex align-items-end py-3">
 			
 			<div class="col-md-4">
 				{% for project in site.work %}
@@ -126,14 +124,14 @@ layout: default
 			<div class="col-md-4">
 				 {% for project in site.work %}
 		          {% if project.title == "Suncare" %}       
-		            {% include work-teaser.html %}
+		            {% include work-teaser-alt.html %}
 		          {% endif %}
 		        {% endfor %}
 			</div>
 
 			<div class="col-md-4">
-				<h2 class="mb-0">We can help you <span class="create">create</span> a brand that looks great and works well.</h2>
-			</div>
+				<h2 class="mb-0 animate"><span class="text-wrapper">We can help you <span class="create">create</span> a brand that looks great and works well.</span></h2>
+ 			</div>
 
     </div>
 
@@ -148,7 +146,7 @@ layout: default
 		<div class="col-md-6">
 			{% for project in site.work %}
 					{% if project.title == "Matthew Flinders Anglican College" %}	      
-						{% include work-teaser.html %}
+						{% include work-teaser-alt.html %}
 					{% endif %}
 			{% endfor %}
 		</div>
@@ -178,7 +176,7 @@ layout: default
     <div class="col-md-4">
       {% for project in site.work %}
           {% if project.title == "Horizon" %}       
-            {% include work-teaser.html %}
+            {% include work-teaser-alt.html %}
           {% endif %}
       {% endfor %}
     </div>
@@ -194,7 +192,7 @@ layout: default
     <div class="col-md-4">
       {% for project in site.work %}
           {% if project.title == "World Surfaris" %}       
-            {% include work-teaser.html %}
+            {% include work-teaser-alt.html %}
           {% endif %}
       {% endfor %}
     </div>
@@ -202,7 +200,7 @@ layout: default
     <div class="col-md-4">
       {% for project in site.work %}
           {% if project.title == "MIC (Montessori International College)" %}       
-            {% include work-teaser.html %}
+            {% include work-teaser-alt.html %}
           {% endif %}
       {% endfor %}
     </div>
@@ -221,14 +219,14 @@ layout: default
     <div class="col-md-4">
       {% for project in site.work %}
           {% if project.title == "The Booking Box" %}       
-            {% include work-teaser.html %}
+            {% include work-teaser-alt.html %}
           {% endif %}
       {% endfor %}
     </div>
     <div class="col-md-4">
       {% for project in site.work %}
           {% if project.title == "Argon Law" %}       
-            {% include work-teaser.html %}
+            {% include work-teaser-alt.html %}
           {% endif %}
       {% endfor %}
     </div>

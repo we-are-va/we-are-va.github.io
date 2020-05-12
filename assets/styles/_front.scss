@@ -24,3 +24,41 @@
 		fill: $white;
 	}
 }
+
+h1,h2,h3,h4,h5 {
+
+  	.create, .grow, .build {
+  		color: $primary-color;
+  		display: inline-block;
+  		position: relative;
+
+  		&:before,
+	    &:after {
+	        content: "";
+	        position: absolute;
+	        bottom: 7px;
+	        right: 0;
+	        left: auto;
+	        width: 0;
+	        height: 2px;
+	        z-index: -1;
+	      }
+	      &:before {
+	
+	        background-color: $primary-color;
+	        transition: all .25s cubic-bezier(.694,.048,.335,1) .15s;
+	      }
+	      &:after {
+	        background-color: $white;
+	        transition: all .25s cubic-bezier(.694,.048,.335,1);
+	      }
+  	
+  		&:hover {
+	        text-decoration: none;
+	        &:after, &:before { 
+	          width: 100%;
+	          left: 0;
+	        }
+      	}
+     }
+}
