@@ -10,7 +10,7 @@ services:
 - Website Development
 - Digital Marketing
 - Signage
-teaser_image: "/uploads/suncare_tile.jpg"
+teaser_image: "/uploads/suncare_teaser.jpg"
 banner_image: "/uploads/suncare_hero.jpg"
 hero_video: ''
 sub_heading: Creating A Compassionate Brand
