@@ -73,6 +73,15 @@
       }
     }
   }
+  h3 {
+	font-family: $headings-font;
+	font-size: 1.2rem;
+	position: absolute;
+	left: 0;
+	top: 0;
+	padding: 1em;
+	z-index: 99;
+  }
   &.work-teaser-alt {
   	.logo {	
   		position: absolute;
