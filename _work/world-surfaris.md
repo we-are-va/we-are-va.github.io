@@ -85,7 +85,7 @@ page_sections:
   - "/uploads/Common-Ground-1600-x-1000px.jpg"
   - "/uploads/Argon_Law-1600-x-1000px.jpg"
   full_width: false
-teaser_image: "/uploads/world-surfaris-teaser.jpg"
+teaser_image: "/uploads/world-surfaris-teaser-1.jpg"
 client_logo: "/uploads/ws.svg"
 hero_video: ''
 sector: ''
