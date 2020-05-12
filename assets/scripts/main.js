@@ -40,6 +40,12 @@ $(function() {
   });
 
 
+  $('.row-work .work-teaser').matchHeight();
+
+
+//  restart.addEventListener("click", () => logoAnimation.restart());
+
+
 
   // Wrap every letter in a span
   // var textWrapper = document.querySelector('.animate .create');
