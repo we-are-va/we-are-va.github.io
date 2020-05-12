@@ -61,6 +61,7 @@ page_sections:
       nibh euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud
       exercitation.’<br><br><em>Ally Walburn, Director of Community Engagement</em>
 order: 15
+client_logo: "/uploads/matthew_flinders_logo.svg"
 
 ---
 ## **Educating for Excellence in Learning and Life**
