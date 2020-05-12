@@ -7,12 +7,11 @@ hero_video: ''
 show_staff: false
 
 ---
-
 ## Overview
 
 Upon project commencement it is expressly understood by The Various Artists (VA) that the client has agreed to the terms and conditions outlined below.
 
-## Estimate
+## Estimate 
 
 The estimate is valid for a period of thirty(30) days from the date of issue. The estimate has been provided according to an initial client brief. Unless an item has been explicitly listed in this estimate it is not included in the price. Alterations to this brief or specifications will incur further costs. VA reserves the right to alter the estimate should they believe the scope of works falls outside of what was estimated. Please contact the account manager prior to estimate approval should items within the estimate require clarification. All estimates require signed or email approval and order numbers (if an ordering system is in use) prior to commencement of work.
 
@@ -68,9 +67,9 @@ VA will ensure the project is tested correctly however we do require our clients
 
 VA may use the client’s name for the purpose of promotional activities involving the works carried out for the client unless otherwise specified.
 
-## Website – Search engine optimisation 
+## Website – Search engine optimisation
 
-Website estimate do not include a SEO (search engine optimisation) plan, unless specified in the estimate. 
+Website estimate do not include a SEO (search engine optimisation) plan, unless specified in the estimate.
 
 ## Client’s obligation
 
