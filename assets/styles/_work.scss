@@ -138,6 +138,7 @@
 
 .section-hero {
   height: 100vh;
+  overflow: hidden;
   img {
     height: 100vh;
     object-fit: cover;
@@ -163,6 +164,7 @@
 	  text-align: center;
 	  height: 100%;
 	  z-index: 4;
+	  overflow: hidden;
 	}
 }
 
