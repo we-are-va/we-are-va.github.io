@@ -45,7 +45,7 @@ fields:
   description: Dimensions work best at 1200 pixels by 400 pixels
   hidden: false
   default: ''
-- name: banner_animation_
+- name: banner_animation
   type: field_group
   config: {}
   fields:
