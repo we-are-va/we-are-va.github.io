@@ -57,7 +57,7 @@ client_logo: "/uploads/spero_logo.svg"
 order: 35
 svg_for_animation: "/uploads/spero-test-strongarm.svg"
 banner_animation:
-  animation_style: 'zoom'
+  animation_style: draw
   animation_size: '80'
 
 ---
