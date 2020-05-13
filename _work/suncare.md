@@ -66,6 +66,12 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/suncare-brochures.jpg"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/flyer-mockup.jpg"
+  image_2:
+    image: "/uploads/suncare_posters.gif"
 - template: gallery
   block: gallery
   gallery:
