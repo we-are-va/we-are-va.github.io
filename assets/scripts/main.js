@@ -17,8 +17,9 @@ $(function() {
   });
 
 
-  const svgText2 = anime({
-    targets: '#animated path',
+
+  const svgDraw = anime({
+    targets: '#draw #animated  path',
     strokeDashoffset: [anime.setDashoffset, 0],
     easing: 'easeInOutSine',
     duration: 1800,
@@ -27,18 +28,19 @@ $(function() {
     loop: true
   });
 
-  const svgPath = document.querySelectorAll('.ani');
-
-  const svgText1 = anime({
-    targets: svgPath,
-    loop: true,
-    direction: 'alternate',
-    strokeDashoffset: [anime.setDashoffset, 0],
-    easing: 'easeInOutSine',
-    duration: 700,
-    delay: function(el, i) { return i * 500 }
+  const svgZoom = anime({
+    targets: '#zoom #animated path',
+    scale: {
+      value: 2,
+      duration: 1600,
+      delay: 800,
+      easing: 'easeInOutQuart'
+    }
   });
 
+  
+
+ 
 
   $('.row-work .work-teaser').matchHeight();
 

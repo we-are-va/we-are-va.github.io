@@ -31,17 +31,16 @@ layout: default
 		</div>
 	</div>
 
-	{% if page.title == "Spero Greek Restaurant" %}       
-		<div class="animated-logo d-flex justify-content-center align-items-center">				
-			{% svg 'uploads/spero-test-strongarm.svg' width='800' id='animated' class='logo-ani' %}
+
+
+
+
+
+	{% if page.svg_for_animation and page.svg_for_animation != "" %}
+		<div  id="{{ page.banner_animation.animation_style }}" class="animated-logo d-flex justify-content-center align-items-center {{ page.banner_animation.animation_size }}">				
+			{% svg '{{ page.svg_for_animation}}' width='800' id='animated' class='logo-ani' %}
 		</div>
-	{% endif %}
-	{% if page.title == "Argon Law" %}       
-		<div class="animated-logo d-flex justify-content-center align-items-center">				
-			{% svg 'uploads/argon_logo_stroke.svg' width='600' id='animated-path' class='logo-ani' %}
-		</div>
-	{% endif %}
-	
+	   {% endif %}
 
 <button class="btn-scroll"><span class="text">Scroll</span></button>
 
@@ -59,7 +58,7 @@ layout: default
 				  {% svg "{{ page.client_logo }}" width='200' id='ani-svg' class='project-logo' %}
 		        {% endif %} -->
 
-				
+			
 				  
 				
 				<h4 class="hero-color">Project</h4>
