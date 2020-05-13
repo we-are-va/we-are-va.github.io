@@ -29,13 +29,13 @@ $(function() {
   });
 
   const svgZoom = anime({
-    targets: '#zoom #animated path',
-    scale: {
-      value: 2,
-      duration: 1600,
-      delay: 800,
-      easing: 'easeInOutQuart'
-    }
+    targets: '#zoom #animated',
+    scaleX:1.05,
+    scaleY:1.05,
+    duration: 1600,
+    easing: 'easeInOutSine',
+    direction: 'alternate',
+    loop: true
   });
 
   
