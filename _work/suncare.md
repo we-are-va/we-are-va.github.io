@@ -24,10 +24,16 @@ page_sections:
   image: "/uploads/suncare_logo.jpg"
 - template: 1-column-text
   block: one-column-1
-  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
-    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud
-    exerci tation ullamcorper suscipit lobortis.
-  headline: Heading
+  content: VA began the journey of site building as we always do - by looking at the
+    evidence. <br><br>How was the site being used?<br>What information is valuable
+    to browsers? And; what role does it play in the overarching business now and into
+    the future? <br><br>From there we began charting user flow and organising information
+    by relevancy.<br><br>Suncare.org.au is now a modern website that ties closely
+    to their brand. The site provides an easy to use platform that firstly connects
+    browsers with much-needed information and secondly nurtures users by encouraging
+    brand engagement by providing a longer ‘user-opted’ click journey that develops
+    brand confidence.
+  headline: Web Design
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Suncare-stationery_1400.jpg"
@@ -61,8 +67,13 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/suncorp_img.jpg"
-  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
-    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam.
+  content: Regular communication and transparency sums up our relationship with Suncare.
+    The awesome Suncare team advises VA on goals and objectives, together we build
+    a strategy and VA roll out the tactical elements. Both teams stay in contact and
+    overview data to ensure efforts are yielding results, if not we discuss and try
+    things, then repeat until we get the formula right. It’s a pretty straightforward
+    way of getting things done... and it works.<br>
+  headline: Digital Marketing<br>
 - template: full-width-media-element
   block: media-1
   image: "/uploads/suncare-brochures.jpg"
@@ -87,19 +98,7 @@ client_logo: "/uploads/Suncare_Logo_White.svg"
 order: 25
 
 ---
-## How do you create a brand that puts people first?
-
-The answer is simple really, by putting their needs above your own. Suncare came to VA in need of a brand refresh and a new, updated website. The website would need to connect clients to their services with minimum effort. Whilst the brand needed to convey and resonate their core offering - **_Care_**. Both would have to have convey Suncare’s 40-year history and maintain their organisation's ethos - ‘Make People’s Lives Better’
-
-### The Site
-
-VA began the journey of site building as we always do - by looking at the evidence. How was the site being used? What information is valuable to browsers? And; what role does it play in the overarching business now and into the future? From there we began charting user flow and organising information by relevancy.
-
-Suncare.org.au is now a modern website that ties closely to their brand. The site provides an easy to use platform that firstly connects browsers with much-needed information and secondly nurtures users by encouraging brand engagement by providing a longer ‘user-opted’ click journey that develops brand confidence.
-
-### We’re Not Done Yet
-
-VA is nothing if not agile in our approach. More than a few heads in VA belong to programmers and savvy web developers, as such, we’re no strangers to agile development. You see, we believe in the permanent beta, we suggest that even a live site is an entity that should be regularly engaged with, critiqued, improved and tested just as modern businesses need to scale and adapt to meet their clients’ needs. VA considers the new Suncare.org.au to be version 0.0.9 with further iterations to be made as the business’ needs, clients’ expectations and technologies evolve - **_Watch this space_**.
+## Suncare’s core business is to understand community needs and develop innovative responses for people who are ageing, living with a disability or mental illness. Every brand interaction regardless of platform had to reflect this value - VA was set to work.
 
 ### The Brand Refresh
 
