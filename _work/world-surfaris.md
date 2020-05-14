@@ -35,10 +35,15 @@ page_sections:
   - "/uploads/world_surfaris_website_5.jpg"
   - "/uploads/world_surfaris_website_4.jpg"
   full_width: true
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/WS_FOLIO_Mockup.png"
-  caption: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Headline for content feature
+  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
+    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam.
+  media:
+    image: "/uploads/world_surfaris_pullupbanner.jpg"
+    alt_text: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -50,29 +55,29 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Healine for content feature
-  content: content blurb with right alignment of image
   media:
-    image: "/uploads/Frank-Lotti-1600-x-1000px.jpg"
+    image: "/uploads/world-surfaris_img_maldives.jpg"
     alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: Headline for content feature
-  content: this is left aligned
-  media:
-    image: "/uploads/campaign-creators-qCi_MzVODoU-unsplash.jpg"
-    alt_text: ''
+  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
+    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam.
+  headline: Heading
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/WS_FOLIO_Mockup.png"
+  caption: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Heading
+  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
+    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud
+    exerci tation ullamcorper suscipit lobortis.
 - template: gallery
   block: gallery
   gallery:
   - "/uploads/world_surfaris_styleguide_1.jpg"
   - "/uploads/world_surfaris_styleguide_2.jpg"
-  - "/uploads/world_surfaris_styleguide_3.jpg"
   - "/uploads/world_surfaris_styleguide_4.jpg"
-  - "/uploads/world_surfaris_styleguide_5.jpg"
   - "/uploads/world_surfaris_styleguide_7.jpg"
-  - "/uploads/world_surfaris_styleguide_6.jpg"
   - "/uploads/world_surfaris_styleguide_8.jpg"
   - "/uploads/world_surfaris_styleguide_9.jpg"
   - "/uploads/world_surfaris_styleguide_10.jpg"
