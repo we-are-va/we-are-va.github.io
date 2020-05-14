@@ -38,6 +38,7 @@ page_sections:
   content: '"Sexy greek with large biceps and has no form and is awkwardly good in
     carless and clumsy way and is a great lover tends to be the best you ever have"<br><br><strong>Urban
     Dictionary</strong>'
+  headline: Definition
 - template: gallery
   block: gallery
   gallery:
