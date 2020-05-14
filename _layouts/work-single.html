@@ -17,7 +17,7 @@ layout: default
 <section class="section section-hero">
 	
 	{% if page.hero_video and page.hero_video != "" %}
-		<div class="hero-video" data-vide-bg="{{ page.hero_video | relative_url }}" data-vide-options="position: 0% 0%"></div>
+		<div class="hero-video" data-vide-bg="mp4: {{ page.hero_video | relative_url }}, poster: {{ page.teaser_image | relative_url }}"data-vide-options="posterType: jpg, position: 0% 0%"></div>
 	{% else %}
 		{% if page.banner_image and page.banner_image != "" %}
 		<img class="d-block w-100" src="{{ page.banner_image | relative_url }}" alt="{{ page.title }}">

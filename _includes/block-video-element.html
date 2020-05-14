@@ -5,18 +5,21 @@
 		<div class="row py-4 d-flex justify-content-center" data-aos="fade-in">
 			
 			<div class="col-md-8">
+				
+				{% if section.video and section.video != "" %}
+					<video class="video" autoplay="" muted="">
+					        <source src="{{ section.video | relative_url }}" type="video/mp4">
+					</video>
+				{% else %} 
+				
+					{% if section.youtube_id and section.youtube_id != "" %}
+				   		{% include youtubePlayer.html id=section.youtube_id %}
+					{% endif %}
 
-				<video class="video" autoplay="" muted="">
-				        <source src="{{ section.video | relative_url }}" type="video/mp4">
-				</video>
-
-			  
-			    {% if section.youtube_id != '' %}
-			   		{% include youtubePlayer.html id=section.youtube_id %}
-				{% endif %}
-
-				{% if section.vimeo_id %}
-			   		{% include vimeoPlayer.html id=section.vimeo_id %}
+					{% if section.vimeo_id %} vimeo
+				   		{% include vimeoPlayer.html id=section.vimeo_id %}
+					{% endif %}
+				
 				{% endif %}
 
 				{% if section.caption %}

@@ -14,7 +14,6 @@ brand_primary_color: "#151515"
 brand_secondary_color: "#FF00E6"
 slug: ''
 layout: work-single
-youtubeId: lDi9uFcD7XI
 page_sections:
 - template: full-width-media-element
   block: media-1
@@ -41,8 +40,8 @@ page_sections:
   headline: "<strong>Digital Marketing</strong>"
 - template: video-element
   block: video-element
-  video: "/uploads/horizon-2019-video.mp4"
-  caption: ''
+  video: "/uploads/horizon-2019-video-inline.mp4"
+  caption: 'test'
 - template: 2-column-media-element
   block: media-2
   image_1:
