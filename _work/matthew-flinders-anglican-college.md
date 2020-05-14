@@ -52,22 +52,6 @@ page_sections:
     image: "/uploads/MFA-700px-03.jpg"
   image_2:
     image: "/uploads/MFA-700px-02.jpg"
-- template: 2-column-text
-  block: two-column-1
-  col_2:
-    content: Always on or campaign specific - VA works consistently alongside the
-      Matthew Flinders marketing team to ensure that their messages are broadcast
-      to the right audiences and that their goals are converting. Using a marketing
-      by numbers strategy and remaining in close communication we confidently help
-      the team promote their fantastic school.
-    headline: 'Digital Marketing '
-  col_1:
-    headline: Web Design
-    content: "<strong>(30-year site) </strong>With the school approaching its 30-year
-      anniversary, VA was tasked to provide an incarnation of the brand and its identities.
-      One that would fit snugly inside the traditional brand of the school and be
-      flexible enough to bring it into the future, ensuring future buy-in and engagement
-      from all stakeholders.<br>"
 - template: gallery
   block: gallery
   media:
