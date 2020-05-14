@@ -24,12 +24,8 @@ page_sections:
   media_alignment: Left
   media:
     image: "/uploads/HZN-Horizon-2019-700px-01.jpg"
-  headline: Horizon Festival
-  content: "<strong>Web Design <br></strong><br>A website that truly catered to the
-    ‘mobile-first’ user to help capture in-region users. The experience and design
-    is focused on conversion, including interactive event maps, programs, themes and
-    ticket purchases. VA’s creativity and technical attention to detail ensured the
-    first Horizon website looked and worked great - we’ve only improved since then."
+  headline: ''
+  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/HZN-Horizon-2019-05-1.jpg"
@@ -51,10 +47,10 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/HZN-Horizon-2019-700px-03.jpg"
-    caption: caption
+    caption: ''
   image_2:
     image: "/uploads/HZN-Horizon-2019-700px-04.jpg"
-    caption: caption
+    caption: ''
 banner_image: "/uploads/Horizon2019_hero.jpg"
 client_logo: "/uploads/horizon-date-logo.svg"
 order: 10
