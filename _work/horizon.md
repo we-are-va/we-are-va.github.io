@@ -60,7 +60,6 @@ client_logo: "/uploads/horizon-date-logo.svg"
 order: 10
 
 ---
-## **220 events, 10 days, one big party.** HORIZON Festival of Arts & Culture was Sunshine Coast Council's first major region-wide arts celebration, debuting in September 2016 and we’ve been with them ever since.
+## 220 events, 10 days, one big party. HORIZON Festival of Arts & Culture was Sunshine Coast Council's first major region-wide arts celebration, debuting in September 2016 and we’ve been with them ever since.
 
-  
 Over our 4 year relationship, VA has had the pleasure of refreshing the website design and functionality and helping the Horizon team with their digital marketing.
