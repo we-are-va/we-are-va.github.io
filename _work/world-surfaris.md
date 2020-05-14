@@ -11,10 +11,10 @@ page_sections:
 - template: before-after-element
   block: before-after
   before:
-    image: "/uploads/Screen Shot 2020-05-11 at 4.22.05 pm.png"
+    image: "/uploads/world_surfaris_logo_before.jpg"
     caption: before
   after:
-    image: "/uploads/Screen Shot 2020-05-11 at 4.22.10 pm.png"
+    image: "/uploads/world_surfaris_logo_after.jpg"
     caption: after
 - template: full-width-media-element
   block: media-1
