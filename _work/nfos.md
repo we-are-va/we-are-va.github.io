@@ -30,9 +30,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Event Advertising
-  content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diamnonummy
-    nibh euismod lorem ipsumdolor sit amet. Ut wisi enim ad minimveniam, quis nostrud
-    exerci tationullamcorper suscipit lobortis.
+  content: "<em>“Having a long-standing relationship with the team at VA has ensured
+    trust. I trust the VA crew to deliver on outstanding creative time and time again.
+    Not only does it look great but the technical attention detail is there as well,
+    so it’s seamless! No last-minute panic with printers and suppliers. Great creative,
+    hassle-free service and reliable delivery.”<br></em><strong><em>Josh Allen.</em></strong>"
   media:
     image: "/uploads/nfos-press-ad-1.jpg"
 - template: full-width-media-element
@@ -53,21 +55,8 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/nfos-crew-shirt-1.jpg"
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    content: "<em>Testimonial here. Lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit, sed diamnonummy nibh euismod lorem ipsumdolor sit amet. Ut wisi enim ad
-      minimveniam, quis nostrud exerci tationullamcorper suscipit lobortis.<br><br>Name,
-      title</em>"
 order: 25
 client_logo: "/uploads/noosa-festival-of-surf-logo.svg"
 
 ---
-## **Keeping the stoke alive**
-
-The Noosa Festival of Surfing is one of the Sunshine Coast’s most renown events. An eight-day celebration of the art of longboarding. Catching the wave for the 28th year was longtime VA client World Surfaris who after years of sponsoring the event has taken on the role as event managers.
-
-VA has had the extreme pleasure of building upon the festivals' existing brand to make something that parallels its 28-year history. We helped to keep the stoke alive by creating and implementing a comprehensive suite of collateral; website, merchandise, competitor bags, wayfinding devices, rash vests, press ads, online banners, programs, guides and two oversized novelty cheques!
-
-The new look and feel of the Noosa Festival of Surfing brand tips it's hat to the existing brand and boldly ushers it into its new place within modern surfing culture.
+## **Get swept up in the romance and living art of longboarding**. The Noosa Festival of Surfing is one of the Sunshine Coast’s most renowned events. An eight-day celebration of the art of longboarding.
