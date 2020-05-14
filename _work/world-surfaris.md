@@ -67,7 +67,6 @@ page_sections:
   - "/uploads/world_surfaris_pressad_1.jpg"
   - "/uploads/world_surfaris_pressad_2.jpg"
   - "/uploads/world_surfaris_pressad_3.jpg"
-  - "/uploads/world_surfaris_pressad_5.jpg"
   - "/uploads/world_surfaris_pressad_4.jpg"
   full_width: false
 - template: full-width-media-element
