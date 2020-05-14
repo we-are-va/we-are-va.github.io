@@ -24,15 +24,11 @@ page_sections:
   image: "/uploads/suncare_logo.jpg"
 - template: 1-column-text
   block: one-column-1
-  content: VA began the journey of site building as we always do - by looking at the
-    evidence. <br><br>How was the site being used?<br>What information is valuable
-    to browsers? And; what role does it play in the overarching business now and into
-    the future? <br><br>From there we began charting user flow and organising information
-    by relevancy.<br><br>Suncare.org.au is now a modern website that ties closely
-    to their brand. The site provides an easy to use platform that firstly connects
-    browsers with much-needed information and secondly nurtures users by encouraging
-    brand engagement by providing a longer ‘user-opted’ click journey that develops
-    brand confidence.
+  content: Suncare.org.au is now a modern website that ties closely to their brand.
+    <br><br>The site provides an easy to use platform that firstly connects browsers
+    with much-needed information and secondly nurtures users by encouraging brand
+    engagement by providing a longer ‘user-opted’ click journey that develops brand
+    confidence.
   headline: Web Design
 - template: full-width-media-element
   block: media-1
@@ -42,9 +38,9 @@ page_sections:
   media_alignment: Left
   media:
     image: "/uploads/suncare_pullupbanners.jpg"
-  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
-    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud
-    exerci tation ullamcorper suscipit lobortis.
+  content: The refreshed Suncare brand and site help to create a message that doesn't
+    pitch, shout or sell. Rather it puts the user's needs in focus and asks permission.
+  headline: "\"How Can we help you?"
 - template: gallery
   block: gallery
   gallery:
