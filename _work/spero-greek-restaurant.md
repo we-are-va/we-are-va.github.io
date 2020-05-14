@@ -35,9 +35,8 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/Spero-550-x-750px-03.jpg"
-  content: '"Sexy greek with large biceps and has no form and is awkwardly good in
-    carless and clumsy way and is a great lover tends to be the best you ever have"<br><br><strong>Urban
-    Dictionary</strong>'
+  content: '"Sexy greek with large biceps but little form. Often awkward and careless
+    but may be the greatest lover you ever have"<br><br><strong>Urban Dictionary</strong>'
   headline: Definition
 - template: gallery
   block: gallery
