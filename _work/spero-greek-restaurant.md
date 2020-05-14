@@ -5,7 +5,8 @@ key_service: Branding
 banner_image: "/uploads/h3a1823.jpg"
 hero_video: ''
 teaser_image: "/uploads/spero/Spero_9.jpg"
-sub_heading: Greek for male 'Bimbo’
+sub_heading: Spero is the kind of family-owned beach style eatery that you might find
+  in Cofu Town
 brand_primary_color: "#0072ce"
 brand_secondary_color: "#ff3eb5"
 slug: sperogreek
@@ -21,9 +22,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Lorem Ipsum
-  content: "“Halloumi Chips”… garlic breadcrumbs, beetroothummus, tzatziki, parsley,
-    fresh lemon… drool!Ut wisi enim ad minim veniam, quis nostrudexerci tation ullamcorper
-    suscipit lobortis."
+  content: <strong>“We couldn’t have been happier with the work you and your team
+    have done for us."</strong><br>Tony Kelly
 - template: 2-column-media-element
   block: media-2
   image_2:
@@ -35,9 +35,9 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/Spero-550-x-750px-03.jpg"
-  content: Lorem ipsum dolor sit amet,consectetuer adipiscing elised diamnonummy nibh
-    euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud exercitation.’<em><br><br>Name,
-    Title</em>
+  content: '"Sexy greek with large biceps and has no form and is awkwardly good in
+    carless and clumsy way and is a great lover tends to be the best you ever have"<br><br><strong>Urban
+    Dictionary</strong>'
 - template: gallery
   block: gallery
   gallery:
@@ -62,5 +62,3 @@ banner_animation:
 
 ---
 ## Spero is the latest venture for renowned Sunshine Coast restaurateur Tony Kelly and his partners, chef Mitch Smith and restaurant manager Elyza Molloy, of Rice Boi fame.
-
-### VA xxxxxx xxxx
