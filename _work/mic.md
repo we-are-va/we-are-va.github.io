@@ -38,20 +38,8 @@ page_sections:
   media:
     image: "/uploads/MIC-handbook-covers.gif"
   headline: Brand Creation<br>
-  content: Imperative to the vision was a brand that not only catered to the existing
-    advocates of the school but also incorporated and welcomed the larger community.
-    <br><br>Creating an experience that left an impression and a marked point of difference
-    that the school could adopt from the brand’s inception, through the years of growth
-    and into the dazzling future that the vision delivers.<br><br>For our part - It
-    was both a tremendous opportunity and challenge. With the vision to guide us and
-    access to staff, students and the school’s thought leaders, VA started with design
-    thinking workshops, developing users and honing in on brand archetypes. <br><br>The
-    culmination of this deep thinking and insights from the school community, allowed
-    us to lay a logical but also imaginative framework with which to create four concepts
-    for presentation. Each concept had it's own relevant story and catered to the
-    history of the school as well as offering flexibility to carry it into the future.<br><br>Once
-    MIC had chosen a concept We Are VA were able to create the practical applications
-    that would display and incorporate the new brand.
+  content: 'Imperative to the vision was a brand that not only catered to the existing
+    advocates of the school but also incorporated and welcomed the larger community. '
 - template: 1-column-text
   block: one-column-1
   headline: Heading
