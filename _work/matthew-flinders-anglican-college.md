@@ -25,9 +25,10 @@ page_sections:
   media:
     image: "/uploads/MFAC_seondary-photo-02-1.jpg"
   headline: Brand Development
-  content: With a solid foundation to work with,Matthew Flinders were looking to expand
-    their current branding to elevate the school, have greater design flexibility
-    and encourage future engagement (student + internal /external stakeholders).
+  content: Comprehensive brand guidelines were updated to reflect the new elements
+    and ensure that any future brand bearer could confidently navigate the brand with
+    ease and ensure consistency and continuity. VA were also responsible for designing
+    a myriad of sub-logos that paid homage to the parent brand.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MFAC_investigator-2018-01-1.jpg"
@@ -57,9 +58,19 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_2:
-    content: VA lorem ipsum dolor sit amet,consectetuer adipiscing elised diamnonummy
-      nibh euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud
-      exercitation.’<br><br><em>Ally Walburn, Director of Community Engagement</em>
+    content: Always on or campaign specific - VA works consistently alongside the
+      Matthew Flinders marketing team to ensure that their messages are broadcast
+      to the right audiences and that their goals are converting. Using a marketing
+      by numbers strategy and remaining in close communication we confidently help
+      the team promote their fantastic school.
+    headline: 'Digital Marketing '
+  col_1:
+    headline: Web Design
+    content: "<strong>(30-year site) </strong>With the school approaching its 30-year
+      anniversary, VA was tasked to provide an incarnation of the brand and its identities.
+      One that would fit snugly inside the traditional brand of the school and be
+      flexible enough to bring it into the future, ensuring future buy-in and engagement
+      from all stakeholders.<br>"
 - template: gallery
   block: gallery
   media:
@@ -72,17 +83,13 @@ order: 15
 client_logo: "/uploads/matthew_flinders_logo.svg"
 
 ---
-## **Educating for Excellence in Learning and Life**
+## One of the leading Prep to Grade 12 school’s across the Sunshine Coast. Matthew Flinders Anglican College embodies the values of courage, respect, compassion and integrity.
 
-School’s are hubs for the larger community. Places of learning where the minds of the future are moulded, refined and cultivated. As one of the most exceptional schools on the Sunshine Coast, Matthew Flinders Anglican College, has built a track record of excellence and lived its values 'Courage, respect, integrity, compassion'.
+##   
+Web Design
 
-With the school approaching, its 30-year anniversary, VA was tasked to provide an incarnation of the brand and its identities. One that would fit snugly inside the traditional brand of the school and be flexible enough to bring it into the future, ensuring future buy-in and engagement from all stakeholders.
+**(30-year site)** With the school approaching its 30-year anniversary, VA was tasked to provide an incarnation of the brand and its identities. One that would fit snugly inside the traditional brand of the school and be flexible enough to bring it into the future, ensuring future buy-in and engagement from all stakeholders.
 
-**We did this by looking at the following items:**
+## Digital Marketing
 
-* Colour exploration
-* Supporting typography and imagery
-* Illustration style
-* Application to key pieces
-
-From its expansion, we were able to build specific collateral that reflected the updated brand. Prospectus, Presentation Folder, The Investigator 2018, Stationery, Strategic Plan, Report Templates, Certificates, ID Cards, Pull-up Banners, Posters, Sub-Entity Logos, and more.
+Always on or campaign specific - VA works consistently alongside the Matthew Flinders marketing team to ensure that their messages are broadcast to the right audiences and that their goals are converting. Using a marketing by numbers strategy and remaining in close communication we confidently help the team promote their fantastic school.
