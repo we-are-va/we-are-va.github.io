@@ -30,11 +30,10 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Event Advertising
-  content: "<em>“I trust the VA crew to deliver on outstanding creative time and time
-    again. Not only does it look great but the technical attention detail is there
-    as well, so it’s seamless! No last-minute panic with printers and suppliers. Great
-    creative, hassle-free service and reliable delivery.”<br></em><strong><em>Josh
-    Allen.</em></strong>"
+  content: "<em>“I trust VA to deliver on outstanding creative time and time again.
+    Not only does it look great but the technical attention detail is there as well,
+    so it’s seamless! No last-minute panic with printers and suppliers. Great creative,
+    hassle-free service and reliable delivery.”<br></em><strong><em>Josh Allen.</em></strong>"
   media:
     image: "/uploads/nfos-press-ad-1.jpg"
 - template: full-width-media-element
@@ -59,6 +58,4 @@ order: 25
 client_logo: "/uploads/noosa-festival-of-surf-logo.svg"
 
 ---
-## Get swept up in the romance and living art of longboarding. 
-
 ## The Noosa Festival of Surfing is one of the Sunshine Coast’s most renowned events. An eight-day celebration of the art of longboarding.
