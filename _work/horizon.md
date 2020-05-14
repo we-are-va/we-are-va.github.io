@@ -42,7 +42,7 @@ page_sections:
 - template: video-element
   block: video-element
   video: "/uploads/horizon-2019-video.mp4"
-  caption: caption
+  caption: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
