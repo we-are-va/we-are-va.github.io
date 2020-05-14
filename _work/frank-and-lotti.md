@@ -18,11 +18,6 @@ page_sections:
   block: media-1
   image: "/uploads/Frank-Lotti-1200-x-750px-02.jpg"
   caption: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Lorem Ipsum
-  content: Lorem ipsum dolor sit amet, consectetueradipiscing elit, sed diam nonummy
-    nibh euismodtincidunt ut laoreet dolore magna aliquam erat.
 - template: gallery
   block: gallery
   gallery:
@@ -34,13 +29,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: Lorem ipsum dolor sit amet,consectetuer adipiscing elised diamnonummy nibh
-    euismod lorem ipsumdolor sit amet.Ut wisi enim ad minim veniam, quisnostrud exerci
-    tation.
   media:
     image: "/uploads/Frank-Lotti-700-x-1000px.jpg"
     alt_text: Frank and Lotti menu
   headline: ''
+  content: ''
 - template: gallery
   block: gallery
   gallery:
@@ -54,8 +47,13 @@ teaser_image: "/uploads/frankandlotti.jpg"
 client_logo: "/uploads/Frank&Lotti_Logo.svg"
 hero_video: ''
 sector: ''
-key_service: 'Branding'
+key_service: Branding
 order: 99
+svg_for_animation: ''
+banner_animation:
+  animation_style: ''
+  animation_size: ''
+related_landing_page: ''
 
 ---
 ## Frank and Lotti - Wine Bar and Merchants, is the new place to wine and dine in Mooloolaba. A bold new step for restaurateurs Luke Searson and Candice Ford and one that promises the Sunshine Coast a new and delightfully tasteful experience.
