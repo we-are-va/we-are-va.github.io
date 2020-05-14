@@ -40,12 +40,18 @@ page_sections:
   headline: Brand Creation<br>
   content: 'Imperative to the vision was a brand that not only catered to the existing
     advocates of the school but also incorporated and welcomed the larger community. '
-- template: 1-column-text
-  block: one-column-1
-  headline: Heading
-  content: "Lorem ipsum dolor sit amet, consectetuer adipis cing elit, sed diam nonummy
-    nibh euismod  lorem ipsum dolor sit amet.Ut wisi enim ad minim veniam, quis nostrud
-    \x03exerci tation ullamcorper suscipit lobortis."
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: Creating an experience that left an impression and a marked point of
+      difference that the school could adopt from the brand’s inception, through the
+      years of growth and into the dazzling future that the vision delivers.<br><br>The
+      culmination of this deep thinking and insights from the school community, allowed
+      us to lay a logical but also imaginative framework with which to create four
+      concepts for presentation. Each concept had it's own relevant story and catered
+      to the history of the school as well as offering flexibility to carry it into
+      the future.<br><br>Once MIC had chosen a concept We Are VA were able to create
+      the practical applications that would display and incorporate the new brand.
 - template: gallery
   block: gallery
   gallery:
