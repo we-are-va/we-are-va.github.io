@@ -29,3 +29,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- _landingpage/build.md
