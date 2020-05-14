@@ -61,6 +61,14 @@ page_sections:
   content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
     nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam.
   headline: Heading
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/world_surfaris_pressad_1.jpg"
+  - "/uploads/world_surfaris_pressad_2.jpg"
+  - "/uploads/world_surfaris_pressad_3.jpg"
+  - "/uploads/world_surfaris_pressad_4.jpg"
+  full_width: false
 - template: full-width-media-element
   block: media-1
   image: "/uploads/WS_FOLIO_Mockup.png"
