@@ -65,10 +65,7 @@ page_sections:
     image: "/uploads/suncorp_img.jpg"
   content: Regular communication and transparency sums up our relationship with Suncare.
     The awesome Suncare team advises VA on goals and objectives, together we build
-    a strategy and VA roll out the tactical elements. Both teams stay in contact and
-    overview data to ensure efforts are yielding results, if not we discuss and try
-    things, then repeat until we get the formula right. It’s a pretty straightforward
-    way of getting things done... and it works.<br>
+    a strategy and VA roll out the tactical elements ... and it works.<br>
   headline: Digital Marketing<br>
 - template: full-width-media-element
   block: media-1
