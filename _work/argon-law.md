@@ -17,16 +17,6 @@ page_sections:
   block: media-1
   image: "/uploads/Argon_Law_01.jpg"
   caption: ''
-- template: 2-column-text
-  block: two-column-1
-  col_2:
-    headline: Website Design + Build
-    content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, seddiam nonummy
-      nibh euismodlorem ipsum dolor sit amet. Utwisi enim ad minim veniam, quisnostrud
-      exerci tation.
-  col_1:
-    headline: ''
-    content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Argon_Law_02.jpg"
@@ -39,11 +29,6 @@ page_sections:
   block: media-1
   image: "/uploads/Argon_Law_06.jpg"
   caption: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Brand Manual
-  content: Ut wisi enim ad minim veniam, quis nostrudexerci tation ullamcorper suscipit
-    lobortis.
 - template: gallery
   block: gallery
   gallery:
