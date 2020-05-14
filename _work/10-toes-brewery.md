@@ -15,5 +15,12 @@ slug: ''
 brand_primary_color: ''
 brand_secondary_color: ''
 page_sections: []
+svg_for_animation: ''
+banner_animation:
+  animation_style: ''
+  animation_size: ''
 
 ---
+## We love a beer with our neighbours! Uniting all walks of life from a chin wag over a knock off frothy to wooing Mr/Mrs Right. No matter what you do 10 Toes have the developed brew for you.
+
+## 
