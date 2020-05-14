@@ -62,4 +62,10 @@ order: 10
 ---
 ## 220 events, 10 days, one big party. HORIZON Festival of Arts & Culture was Sunshine Coast Council's first major region-wide arts celebration, debuting in September 2016 and we’ve been with them ever since.
 
-Over our 4 year relationship, VA has had the pleasure of refreshing the website design and functionality and helping the Horizon team with their digital marketing.
+### Web Design
+
+A website that truly catered to the ‘mobile-first’ user to help capture in-region users. The experience and design is focused on conversion, including interactive event maps, programs, themes and ticket purchases. VA’s creativity and technical attention to detail ensured the first Horizon website looked and worked great - we’ve only improved since then.
+
+### Digital Marketing
+
+We strategically planned and executed the social media marketing campaign including paid ads on Facebook, Instagram, Twitter and Google Ads campaigns. VA have also delivered digital signage designs and user-triggered email automation sequences that deliver relevant messaging and reminders to re-engage users.
