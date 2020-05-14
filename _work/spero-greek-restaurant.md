@@ -21,7 +21,7 @@ page_sections:
   image: "/uploads/Spero-1200-x-750px-02.jpg"
 - template: 1-column-text
   block: one-column-1
-  headline: Lorem Ipsum
+  headline: ''
   content: <strong>“We couldn’t have been happier with the work you and your team
     have done for us."</strong><br>Tony Kelly
 - template: 2-column-media-element
