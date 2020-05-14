@@ -42,16 +42,16 @@ page_sections:
   content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
     nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam.
   media:
-    image: "/uploads/world_surfaris_pullupbanner.jpg"
+    image: "/uploads/world_surfaris_surfboards.jpg"
     alt_text: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/Argon_Law-1600-x-1000px.jpg"
-    caption: Caption for 1/2 media elements
+    image: "/uploads/world_surfaris_tshirt.jpg"
+    caption: ''
   image_2:
-    image: "/uploads/Frank-Lotti-1600-x-1000px.jpg"
-    caption: 2/2 Caption for 2 media element
+    image: "/uploads/world_surfaris_bcard.jpg"
+    caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -69,10 +69,6 @@ page_sections:
   - "/uploads/world_surfaris_pressad_3.jpg"
   - "/uploads/world_surfaris_pressad_4.jpg"
   full_width: false
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/WS_FOLIO_Mockup.png"
-  caption: ''
 - template: 1-column-text
   block: one-column-1
   headline: Heading
