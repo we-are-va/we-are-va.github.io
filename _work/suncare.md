@@ -22,14 +22,6 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/suncare_logo.jpg"
-- template: 1-column-text
-  block: one-column-1
-  content: Suncare.org.au is now a modern website that ties closely to their brand.
-    <br><br>The site provides an easy to use platform that firstly connects browsers
-    with much-needed information and secondly nurtures users by encouraging brand
-    engagement by providing a longer ‘user-opted’ click journey that develops brand
-    confidence.
-  headline: Web Design
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Suncare-stationery_1400.jpg"
