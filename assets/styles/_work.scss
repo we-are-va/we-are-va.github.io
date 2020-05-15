@@ -165,6 +165,22 @@ video::-webkit-media-controls {
   }
 }
 
+
+// Slideshow
+.block-gallery {
+  .carousel-cell {
+    margin-right: 1em;
+  }
+  .flickity-prev-next-button {
+    transition: all 0.3s ease;
+  }
+  .flickity-page-dots {
+    .dot {
+      background: $white;
+    }
+  }
+}
+
 .next-work {
   // &:before {
   //   content: " ";

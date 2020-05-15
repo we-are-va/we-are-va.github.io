@@ -6,11 +6,11 @@
   	{% endif %}
   		<div class="py-4">
 			
-			<div class="carousel" data-flickity='{ "wrapAround": true, "imagesLoaded": true, "percentPosition": false }'>
+			<div class="slider" data-flickity='{ "wrapAround": true, "imagesLoaded": true, "percentPosition": false }'>
 
 			      {% for img in section.gallery %}
 				     <div class="carousel-cell">
-				     	<div class="carousel-inner">
+				     	<div class="slide-inner">
 				          <img class="w-100 d-block mx-1" src="{{ img | relative_url }}" alt="">
 				      	</div>
 				      </div>
