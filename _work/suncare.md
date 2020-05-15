@@ -41,6 +41,7 @@ page_sections:
   - "/uploads/suncare_website_3.jpg"
   - "/uploads/suncare_website_4.jpg"
   - "/uploads/suncare_website_5.jpg"
+  full_width: true
 - template: full-width-media-element
   block: media-1
   image: "/uploads/suncare_tagline.png"
