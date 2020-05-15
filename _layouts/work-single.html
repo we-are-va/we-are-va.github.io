@@ -56,25 +56,22 @@ layout: default
 
 <div class="hero-bg">
 
-	<div class="container section-main py-8">
+	<div class="container section-main py-4 py-md-8">
 
 		<div class="row d-flex justify-content-between" data-aos="fade-in">
 		
-			<div class="col-sm-8">
+			<div class="col-md-8">
 				
 				<!-- {% if page.client_logo and page.client_logo != "" %}         
 				  {% svg "{{ page.client_logo }}" width='200' id='ani-svg' class='project-logo' %}
 		        {% endif %} -->
-
-			
-				  
 				
 				<h4 class="hero-color">Project</h4>
 				{{ page.content  | markdownify }}
 
 			</div>
 
-			<div class="col-sm-2 mt-3">
+			<div class="col-md-3 col-lg-2 mt-3">
 
 				<h5 class="hero-color">Sector</h5>
 				<p>{{ page.sector }}</p>
@@ -102,42 +99,15 @@ layout: default
 		
 		<div class="row py-4" data-aos="fade-in">
 
-			<div class="col-sm-6">
+			<div class="col-md-6 text-center text-md-left">
 				{% include arrow-link.html url="/work" direction="left" text='See all work' %}
 			</div>
 
-			<div class="col-sm-6 text-right">
+			<div class="col-md-6 text-center text-md-right">
 				
-				<!-- <div class='item'>
-				        <svg preserveAspectRatio='xMidYMid slice' viewBox='0 0 500 500'>
-				          <defs>
-				            <clipPath id='clip-0'>
-				              <circle cx='0' cy='0' fill='#000' r='150px'></circle>
-				            </clipPath>
-				          </defs>
-				          <text class='svg-text' x='50%' y='50%'>
-				            Next
-				          </text>
-				          <g clip-path='url(#clip-0)'>
-				            <image height='100%' preserveAspectRatio='xMinYMin slice' width='100%' xlink:href='{{ page.next.hero_image | relative_url }}'></image>
-				           
-				            <text class='svg-masked-text' x='50%' y='50%'>
-				              	Next
-				            </text>
-				          </g>
-				        </svg>
-				</div> -->
 				<div class="PageNavigation" id="pagetransition">
 
 				  {% if page.next.url %}
-				  <!-- <style>
-					.next-work:before {
-					   background-color: {{ page.next.brand_primary_color }};
-					}
-					.next-work:after {
-						background-image: url('{{ page.next.hero_image | relative_url }}');
-					}
-					</style> -->
 					<div class="next-work">
 				  		{% capture next_url %}{{ page.next.url }}{% endcapture %}
 				    	{% include arrow-link.html url=next_url direction="right" text='Next' %}

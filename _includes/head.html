@@ -1,18 +1,11 @@
-<header id="header" class="position-absolute w-100 d-flex flex-column flex-md-row align-items-center py-1 px-2 {{include.headerClass}}">
+<header id="header" class="position-absolute w-100 d-flex flex-row align-items-center py-1 px-1 px-md-2 {{include.headerClass}}">
 
 
-      <a class="my-0 mr-md-auto font-weight-normal" href="{{site.baseurl}}/">
+      <a class="logo-nav" href="{{site.baseurl}}/">
         <img class="logo" alt="{{site.title}}" src="{{site.baseurl}}/dist/images/logo.svg" />
       </a>
 
-
-    <!--   <button id="toggle-main-menu" class="hamburger hamburger--collapse collapsed" type="button" data-toggle="collapse" data-target="#navbarLayout" aria-controls="navbarLayout" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="hamburger-box">
-          <span class="hamburger-inner"></span>
-        </span>
-      </button> -->
-
-       <nav class="my-2 my-md-0">
+       <nav class="nav-primary ml-auto">
 
          <ul class="nav menu-nav">
             {% for link in site.menus.navigation %}

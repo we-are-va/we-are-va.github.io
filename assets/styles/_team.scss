@@ -1,0 +1,8 @@
+
+.team-teaser {
+	@include media-breakpoint-down(md) {
+		img {
+			max-width: 250px;
+		}
+	}
+}

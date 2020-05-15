@@ -116,6 +116,9 @@ h1, .h1 {
   font-weight: normal;
   font-family: $headings-font;
   margin-bottom: 1.5rem;
+  @include media-breakpoint-down(md) {
+    margin-bottom: 1rem;
+  }
 }
 h2, .h2 {
   font-size: 2.4rem; 
@@ -125,6 +128,9 @@ h2, .h2 {
   //font-family: $headings-font;
   font-weight: normal;
  // font-family: $bold-font;
+  @include media-breakpoint-down(md) {
+      font-size: 2.2rem;
+  }
 }
 h3, .h3 {
   font-weight: normal;
@@ -413,4 +419,11 @@ transition: opacity 400ms;
 
 .fade-in.lazyloaded {
 opacity: 1;
+}
+
+@include media-breakpoint-down(md) { 
+  .container {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
 }
