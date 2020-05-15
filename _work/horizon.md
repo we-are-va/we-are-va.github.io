@@ -41,7 +41,6 @@ page_sections:
 - template: video-element
   block: video-element
   video: "/uploads/horizon-2019-video-inline.mp4"
-  caption: 'test'
 - template: 2-column-media-element
   block: media-2
   image_1:
