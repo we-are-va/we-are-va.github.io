@@ -1,6 +1,8 @@
 ---
 layout: landing-page
 title: Build
+sub_heading: We are focused on function and usability...
+banner_image: '/uploads/build.jpg'
 page_sections: []
 
 ---

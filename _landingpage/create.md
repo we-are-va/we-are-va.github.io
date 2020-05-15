@@ -1,5 +1,8 @@
 ---
 title: Create
+layout: landing-page
+sub_heading: We are bringing ideas to life...
+banner_image: ''
 page_sections:
 - template: 1-column-text
   block: one-column-1

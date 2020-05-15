@@ -7,20 +7,55 @@ layout: default
 	e.g index.md and about.md
 {% endcomment %}
 
-{% assign stripped_content = content | strip_newlines %}
-{% if content and stripped_content != "" %}
-<section class="about py-7">
-	<div class="container pure-g">
-		<div class="pure-u-1">
-			<div class="content content-narrow">
-				{{ content }}
+<section class="section section-hero">
+
+	{% if page.banner_image and page.banner_image != "" %}
+	
+		<img class="d-block w-100" src="{{ page.banner_image | relative_url }}" alt="{{ page.title }}">
+
+	{% else %}
+
+		<img class="d-block w-100" src="https://source.unsplash.com/1600x900/?{{ page.title }}" alt="{{ page.title }}">
+
+	{% endif %}
+
+	 
+	<div class="position-absolute hero-title">
+		<div class="container">
+			<div class="col-md-6">
+				<h1 class="text-primary">{{ page.title }}</h1>
+				<h2>{{ page.sub_heading }}</h2>
 			</div>
 		</div>
 	</div>
+
 </section>
-{% endif %}
+
+<div class="container section-main py-4 py-md-8">
+
+		<div class="row d-flex justify-content-between" data-aos="fade-in">
+		
+			<div class="col-md-8">
+				
+				{{ page.content  | markdownify }}
+
+			</div>
+
+		</div>
+
+</div>
 
 
 {% for section in page.page_sections %} 
 	{% include block-{{ section.block }}.html %}
 {% endfor %} 
+
+
+
+<section class="section section-cta bg-dark">
+	
+	<div class="container py-6">
+		{% include calltoaction.html %}
+	</div>
+	
+</section>

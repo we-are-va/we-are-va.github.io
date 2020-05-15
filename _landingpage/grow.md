@@ -1,6 +1,8 @@
 ---
 layout: landing-page
 title: Grow
+sub_heading: We are experts on promoting businesses through any medium.
+banner_image: ''
 page_sections: []
 
 ---
