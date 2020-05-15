@@ -7,13 +7,16 @@ fields:
   config:
     required: false
   label: Title
-- name: layout
+- name: sub_heading
   type: text
   config:
     required: false
-  label: layout
-  hidden: true
-  default: landing-page
+  label: Sub Heading
+- name: banner_image
+  type: file
+  config:
+    maxSize: 64
+  label: Banner Image
 - name: page_sections
   type: blocks
   label: Page Sections
@@ -29,6 +32,13 @@ fields:
   config:
     min: 
     max: 
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: landing-page
 pages:
 - _landingpage/build.md
 - _landingpage/grow.md
