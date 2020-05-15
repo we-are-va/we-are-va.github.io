@@ -35,6 +35,7 @@ page_sections:
   - "/uploads/MFAC_prospectus-01-1.jpg"
   - "/uploads/MFAC_prospectus-02-1.jpg"
   - "/uploads/MFAC_prospectus-03-1.jpg"
+  full_width: true
 - template: 1-column-text
   block: one-column-1
   headline: ''
@@ -56,6 +57,7 @@ page_sections:
   - "/uploads/The Investigator 1.jpg"
   - "/uploads/The Investigator 2.jpg"
   - "/uploads/The Investigator 3.jpg"
+  full_width: true
 order: 15
 client_logo: "/uploads/matthew_flinders_logo.svg"
 
