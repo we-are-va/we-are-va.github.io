@@ -25,7 +25,7 @@ page_sections:
   - "/uploads/FAL_website03.png"
   - "/uploads/FAL_website02.png"
   - "/uploads/FAL_website01.png"
-  full_width: false
+  full_width: true
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -37,11 +37,11 @@ page_sections:
 - template: gallery
   block: gallery
   gallery:
-  - "/uploads/Frank-Lotti-style-guide-01.jpg"
-  - "/uploads/Frank-Lotti-style-guide-02.jpg"
-  - "/uploads/Frank-Lotti-style-guide-04.jpg"
-  - "/uploads/Frank-Lotti-style-guide-05.jpg"
-  - "/uploads/Frank-Lotti-style-guide-06.jpg"
+  - "/uploads/frank_lotti_guidelines1.jpg"
+  - "/uploads/frank_lotti_guidelines2.jpg"
+  - "/uploads/frank_lotti_guidelines3.jpg"
+  - "/uploads/frank_lotti_guidelines4.jpg"
+  - "/uploads/frank_lotti_guidelines5.jpg"
   full_width: true
 teaser_image: "/uploads/frankandlotti.jpg"
 client_logo: "/uploads/Frank&Lotti_Logo.svg"
