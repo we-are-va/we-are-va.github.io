@@ -41,7 +41,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Digital Marekting
+  headline: Digital Marketing
   content: VA have worked hand in glove with the World Surfaris marketing team since
     2009. Over this time we’ve built a tremendous amount of trust. Always ready to
     try new ‘new’ things, VA has consistently delivered everytime the World Surfaris
