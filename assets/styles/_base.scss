@@ -427,3 +427,47 @@ opacity: 1;
     padding-right: 25px;
   }
 }
+
+
+// Drag Before After Compare
+
+.cocoen {
+  .caption-before{
+    font-family: $headings-font;
+    display: block;
+    position: absolute;
+    left: 2em;
+    top: 2em;
+    color: $gray;
+    z-index: 99;
+    font-size: 1.1rem;
+  }
+  .caption-after {
+    font-family: $headings-font;
+    display: block;
+    position: absolute;
+    right: 2em;
+    top: 2em;
+    color: $gray;
+    z-index: 99;
+    font-size: 1.1rem;
+  }
+    .cocoen-drag {
+
+        background: $primary-color;
+        width: 3px;
+
+        &:before {
+          height: 40px;
+          width: 40px;
+          border-color: $primary-color;
+          border-radius: 30px;
+          margin-left: -20px;
+          background-color: $white;
+          background-image: url('../images/arrows-leftright.svg');
+          background-repeat: no-repeat;
+          background-position: center center;
+          background-size: 60%;
+        }
+    }
+}
