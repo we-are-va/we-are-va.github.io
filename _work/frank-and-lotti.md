@@ -44,7 +44,7 @@ page_sections:
   - "/uploads/frank_lotti_guidelines5.jpg"
   full_width: true
 teaser_image: "/uploads/frankandlotti.jpg"
-client_logo: "/uploads/Frank&Lotti_Logo.svg"
+client_logo: "/uploads/FrankLotti_Logo.svg"
 hero_video: ''
 sector: ''
 key_service: Branding
