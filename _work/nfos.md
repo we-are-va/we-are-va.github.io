@@ -29,11 +29,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Event Advertising
+  headline: Josh Allen
   content: "<em>“I trust VA to deliver on outstanding creative time and time again.
     Not only does it look great but the technical attention detail is there as well,
     so it’s seamless! No last-minute panic with printers and suppliers. Great creative,
-    hassle-free service and reliable delivery.”<br></em><strong><em>Josh Allen.</em></strong>"
+    hassle-free service and reliable delivery.”</em>"
   media:
     image: "/uploads/nfos-press-ad-1.jpg"
 - template: full-width-media-element
