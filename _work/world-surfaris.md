@@ -87,16 +87,16 @@ page_sections:
 - template: gallery
   block: gallery
   gallery:
-  - "/uploads/world_surfaris_styleguide_1.jpg"
-  - "/uploads/world_surfaris_styleguide_2.jpg"
-  - "/uploads/world_surfaris_styleguide_4.jpg"
-  - "/uploads/world_surfaris_styleguide_7.jpg"
-  - "/uploads/world_surfaris_styleguide_8.jpg"
-  - "/uploads/world_surfaris_styleguide_9.jpg"
-  - "/uploads/world_surfaris_styleguide_10.jpg"
-  - "/uploads/world_surfaris_styleguide_11.jpg"
-  - "/uploads/world_surfaris_styleguide_12.jpg"
-  - "/uploads/world_surfaris_styleguide_13.jpg"
+  - "/uploads/world_surfaris_guidelines1.jpg"
+  - "/uploads/world_surfaris_guidelines2.jpg"
+  - "/uploads/world_surfaris_guidelines3.jpg"
+  - "/uploads/world_surfaris_guidelines4.jpg"
+  - "/uploads/world_surfaris_guidelines5.jpg"
+  - "/uploads/world_surfaris_guidelines6.jpg"
+  - "/uploads/world_surfaris_guidelines8.jpg"
+  - "/uploads/world_surfaris_guidelines7.jpg"
+  - "/uploads/world_surfaris_guidelines9.jpg"
+  - "/uploads/world_surfaris_guidelines10.jpg"
   full_width: true
 teaser_image: "/uploads/world-surfaris-teaser-1.jpg"
 client_logo: "/uploads/ws.svg"
