@@ -77,12 +77,6 @@ page_sections:
   - "/uploads/world_surfaris_pressad_3.jpg"
   - "/uploads/world_surfaris_pressad_4.jpg"
   full_width: false
-- template: 1-column-text
-  block: one-column-1
-  headline: Heading
-  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
-    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam, quis nostrud
-    exerci tation ullamcorper suscipit lobortis.
 - template: gallery
   block: gallery
   gallery:
