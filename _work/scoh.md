@@ -15,15 +15,15 @@ brand_secondary_color: "#0471A5"
 slug: ''
 layout: work-single
 page_sections:
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/open_house_poster.jpg"
 - template: 1-column-text
   block: one-column-1
   headline: Encourage the Wider Community to Step Inside
   content: Just like in architecture VA know that design must never be divorced from
     function. With this approach in mind, VA set out to create a beautiful and useful
     suite of collateral.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/open_house_poster.jpg"
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -40,7 +40,7 @@ page_sections:
     to publicise the event.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/open_house_web.jpg"
+  image: "/uploads/open_house_web.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
