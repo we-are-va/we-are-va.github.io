@@ -11,7 +11,7 @@ sub_heading: We keep World Surfaris pumping
 banner_image: "/uploads/world_surfaris_hero"
 slug: ''
 brand_primary_color: "#007AC9"
-brand_secondary_color: "#FFFFFF"
+brand_secondary_color: "#00AD83"
 page_sections:
 - template: before-after-element
   block: before-after
