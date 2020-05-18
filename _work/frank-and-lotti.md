@@ -46,7 +46,7 @@ page_sections:
 teaser_image: "/uploads/frankandlotti.jpg"
 client_logo: "/uploads/FrankLotti_Logo.svg"
 hero_video: ''
-sector: ''
+sector: Hospitality
 key_service: Branding
 order: 99
 svg_for_animation: ''
