@@ -39,19 +39,6 @@ page_sections:
   - "/uploads/MFAC_prospectus-02-1.jpg"
   - "/uploads/MFAC_prospectus-03-1.jpg"
   full_width: true
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  content: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/MFAC_stationery-1.jpg"
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/MFA-700px-03.jpg"
-  image_2:
-    image: "/uploads/MFA-700px-02.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -63,6 +50,9 @@ page_sections:
     fantastic school.
   media:
     image: "/uploads/mfac_seondary-photo-03_v2.jpg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/MFAC_stationery-1.jpg"
 - template: gallery
   block: gallery
   media:
@@ -79,8 +69,21 @@ page_sections:
     an incarnation of the brand and its identities. One that would fit snugly inside
     the traditional brand of the school and be flexible enough to bring it into the
     future, ensuring future buy-in and engagement from all stakeholders.
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/mfac_website_1.png"
+  - "/uploads/mfac_website_2.png"
+  - "/uploads/mfac_website_3.png"
+  - "/uploads/mfac_website_4.png"
+  - "/uploads/mfac_website_5.png"
+  - "/uploads/mfac_website_6.png"
+  - "/uploads/mfac_website_7.png"
+  - "/uploads/mfac_website_8.png"
+  - "/uploads/mfac_website_9.png"
+  full_width: true
 order: 15
 client_logo: "/uploads/matthew_flinders_logo.svg"
 
 ---
-## One of the leading Prep to Grade 12 school’s across the Sunshine Coast. Matthew Flinders Anglican College embodies the values of courage, respect, compassion and integrity.
+## One of the leading Prep to Grade 12 schools across the Sunshine Coast. Matthew Flinders Anglican College embodies the values of courage, respect, compassion and integrity.
