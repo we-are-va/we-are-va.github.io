@@ -32,7 +32,7 @@ page_sections:
     image: "/uploads/suncare_pullupbanners.jpg"
   content: The refreshed Suncare brand and site help to create a message that doesn't
     pitch, shout or sell. Rather it puts the user's needs in focus and asks permission.
-  headline: "\"How Can we help you?"
+  headline: '"How can we help you?"'
 - template: gallery
   block: gallery
   gallery:
