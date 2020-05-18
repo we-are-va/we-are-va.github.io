@@ -55,6 +55,6 @@ banner_animation:
 related_landing_page: ''
 
 ---
-Argon Law is a commercial law firm based in Maroochydore on the Sunshine Coast. Their experienced lawyers add value as both trusted commercial advisers and accomplished legal advisers on a broad range of business, property, employment and estate matters.
+## Argon Law is a commercial law firm based in Maroochydore on the Sunshine Coast. Their experienced lawyers add value as both trusted commercial advisers and accomplished legal advisers on a broad range of business, property, employment and estate matters. 
 
 VA was tasked to complete a brand evolution, modernising the company's identity without loosing equity.
