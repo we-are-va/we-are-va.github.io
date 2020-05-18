@@ -2,7 +2,7 @@
 title: About
 heading: About VA
 layout: about
-hero_image: "/uploads/about-hero.png"
+hero_image: "/uploads/about_hero-1.jpg"
 hero_video: ''
 show_staff: true
 menu:
@@ -12,4 +12,3 @@ menu:
 
 ---
 ## 333A team committed to technical and aesthetic excellence, curiosity and the sharing of ideas.
- 
