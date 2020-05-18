@@ -26,6 +26,7 @@ page_sections:
   - "/uploads/nfos-web-1.jpg"
   - "/uploads/nfos-web-2.jpg"
   - "/uploads/nfos-web-3.jpg"
+  full_width: true
 - template: content-feature
   block: feature-1
   media_alignment: Left
