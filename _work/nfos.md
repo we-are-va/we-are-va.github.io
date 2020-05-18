@@ -49,12 +49,12 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/nfos-program-spreads-1.jpg"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/nfos-competitor-shirt-1.jpg"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/nfos-crew-shirt-1.jpg"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/nfos-competitor-shirt-1.jpg"
+  image_2:
+    image: "/uploads/nfos-crew-shirt-1.jpg"
 order: 25
 client_logo: "/uploads/noosa-festival-of-surf-logo.svg"
 
