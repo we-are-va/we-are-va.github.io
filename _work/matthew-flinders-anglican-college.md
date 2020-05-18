@@ -96,6 +96,7 @@ page_sections:
   - "/uploads/mfac_guidelines_8.jpg"
   - "/uploads/mfac_guidelines_10.jpg"
   - "/uploads/mfac_guidelines_11.jpg"
+  full_width: true
 order: 15
 client_logo: "/uploads/matthew_flinders_logo.svg"
 
