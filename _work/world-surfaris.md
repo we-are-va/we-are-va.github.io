@@ -42,14 +42,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Digital Marketing
-  content: VA have worked hand in glove with the World Surfaris marketing team since
+  content: 'VA have worked hand in glove with the World Surfaris marketing team since
     2009. Over this time we’ve built a tremendous amount of trust. Always ready to
     try new ‘new’ things, VA has consistently delivered everytime the World Surfaris
     team said “I have this idea…” and we’ve not been shy in coming up with our own
-    ideas. From developing content platforms to tap into whole new demographics through
-    to sophisticated ‘always on marketing’ techniques that use multiple trigger points
-    to remind and entice users, We Are VA are proud of our long standing friendship
-    with the World Surfaris team.
+    ideas. '
   media:
     image: "/uploads/world_surfaris_surfboards.jpg"
     alt_text: ''
@@ -67,9 +64,11 @@ page_sections:
   media:
     image: "/uploads/world-surfaris_img_maldives.jpg"
     alt_text: ''
-  content: Lorem ipsum dolor sit amet, con sectetuer adipiscing elit, sed diam nonummy
-    nibh euismod lorem ipsum dolor sit amet. Ut wisi enim ad minim veniam.
-  headline: Heading
+  content: From developing content platforms to tap into whole new demographics through
+    to sophisticated ‘always on marketing’ techniques that use multiple trigger points
+    to remind and entice users, We Are VA are proud of our long standing friendship
+    with the World Surfaris team.
+  headline: ''
 - template: gallery
   block: gallery
   gallery:
