@@ -17,7 +17,20 @@ brand_primary_color: "#004953"
 brand_secondary_color: "#9a8419"
 slug: ''
 layout: work-single
-page_sections: []
+page_sections:
+- template: gallery
+  block: gallery
+  full_width: true
+  gallery:
+  - "/uploads/sajen_website_1.png"
+  - "/uploads/sajen_website_2.png"
+  - "/uploads/sajen_website_3.png"
+  - "/uploads/sajen_website_4.png"
+  - "/uploads/sajen_website_6.png"
+  - "/uploads/sajen_website_7.png"
+  - "/uploads/sajen_website_8.png"
+  - "/uploads/sajen_website_9.png"
+  - "/uploads/sajen_website_5.png"
 order: 20
 
 ---
