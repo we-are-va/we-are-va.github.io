@@ -7,7 +7,7 @@ services:
 - Print Design
 - Signage
 - Sub-brand Web Design & Build
-banner_image: "/uploads/MFAC_primary-photo-02.jpg"
+banner_image: "/uploads/mfa-hero-1600px_2.jpg"
 hero_video: ''
 teaser_image: "/uploads/MFAC_primary-photo-01.jpg"
 sub_heading: Educating for Excellence in Learning and Life
@@ -23,9 +23,12 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: "/uploads/MFAC_seondary-photo-02-1.jpg"
-  headline: ''
-  content: ''
+    image: "/uploads/mfac_secondary-photo-02.jpg"
+  headline: Brand Building
+  content: Comprehensive brand guidelines were updated to reflect the new elements
+    and ensure that any future brand bearer could confidently navigate the brand with
+    ease and ensure consistency and continuity. VA were also responsible for designing
+    a myriad of sub-logos that paid homage to the parent brand.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MFAC_investigator-2018-01-1.jpg"
@@ -49,6 +52,17 @@ page_sections:
     image: "/uploads/MFA-700px-03.jpg"
   image_2:
     image: "/uploads/MFA-700px-02.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Digital Marketing
+  content: Always on or campaign specific - VA works consistently alongside the Matthew
+    Flinders marketing team to ensure that their messages are broadcast to the right
+    audiences and that their goals are converting. Using a marketing by numbers strategy
+    and remaining in close communication we confidently help the team promote their
+    fantastic school.
+  media:
+    image: "/uploads/mfac_seondary-photo-03_v2.jpg"
 - template: gallery
   block: gallery
   media:
@@ -58,20 +72,15 @@ page_sections:
   - "/uploads/The Investigator 2.jpg"
   - "/uploads/The Investigator 3.jpg"
   full_width: true
+- template: 1-column-text
+  block: one-column-1
+  headline: Web Design - 30-year site
+  content: With the school approaching its 30-year anniversary, VA was tasked to provide
+    an incarnation of the brand and its identities. One that would fit snugly inside
+    the traditional brand of the school and be flexible enough to bring it into the
+    future, ensuring future buy-in and engagement from all stakeholders.
 order: 15
 client_logo: "/uploads/matthew_flinders_logo.svg"
 
 ---
 ## One of the leading Prep to Grade 12 school’s across the Sunshine Coast. Matthew Flinders Anglican College embodies the values of courage, respect, compassion and integrity.
-
-### Brand Building
-
-Comprehensive brand guidelines were updated to reflect the new elements and ensure that any future brand bearer could confidently navigate the brand with ease and ensure consistency and continuity. VA were also responsible for designing a myriad of sub-logos that paid homage to the parent brand.
-
-### Web Design
-
-**(30-year site)** With the school approaching its 30-year anniversary, VA was tasked to provide an incarnation of the brand and its identities. One that would fit snugly inside the traditional brand of the school and be flexible enough to bring it into the future, ensuring future buy-in and engagement from all stakeholders.
-
-### Digital Marketing
-
-Always on or campaign specific - VA works consistently alongside the Matthew Flinders marketing team to ensure that their messages are broadcast to the right audiences and that their goals are converting. Using a marketing by numbers strategy and remaining in close communication we confidently help the team promote their fantastic school.
