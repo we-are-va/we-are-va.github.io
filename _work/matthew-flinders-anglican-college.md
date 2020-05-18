@@ -82,6 +82,20 @@ page_sections:
   - "/uploads/mfac_website_8.png"
   - "/uploads/mfac_website_9.png"
   full_width: true
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/mfac_guidelines_1.jpg"
+  - "/uploads/mfac_guidelines_2.jpg"
+  - "/uploads/mfac_guidelines_3.jpg"
+  - "/uploads/mfac_guidelines_4.jpg"
+  - "/uploads/mfac_guidelines_5.jpg"
+  - "/uploads/mfac_guidelines_6.jpg"
+  - "/uploads/mfac_guidelines_7.jpg"
+  - "/uploads/mfac_guidelines_9.jpg"
+  - "/uploads/mfac_guidelines_8.jpg"
+  - "/uploads/mfac_guidelines_10.jpg"
+  - "/uploads/mfac_guidelines_11.jpg"
 order: 15
 client_logo: "/uploads/matthew_flinders_logo.svg"
 
