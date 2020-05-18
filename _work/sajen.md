@@ -10,7 +10,7 @@ services:
 - Website Development
 banner_image: "/uploads/sajen_hero.jpg"
 client_logo: "/uploads/SajenLegal_White.svg"
-hero_video: ''
+hero_video: "/uploads/loop.mp4"
 teaser_image: "/uploads/sajen_teaser.jpg"
 sub_heading: For when its all on the line
 brand_primary_color: "#004953"
