@@ -21,9 +21,9 @@ page_sections:
   image: "/uploads/Spero-1200-x-750px-02.jpg"
 - template: 1-column-text
   block: one-column-1
-  headline: ''
-  content: <strong>“We couldn’t have been happier with the work you and your team
-    have done for us."</strong><br>Tony Kelly
+  headline: Tony Kelly
+  content: “We couldn’t have been happier with the work you and your team have done
+    for us."<br>
 - template: 2-column-media-element
   block: media-2
   image_2:
@@ -36,8 +36,8 @@ page_sections:
   media:
     image: "/uploads/Spero-550-x-750px-03.jpg"
   content: '"Sexy greek with large biceps but little form. Often awkward and careless
-    but may be the greatest lover you ever have"<br><br><strong>Urban Dictionary</strong>'
-  headline: Definition
+    but may be the greatest lover you ever have"'
+  headline: Urban Dictionary
 - template: gallery
   block: gallery
   gallery:
