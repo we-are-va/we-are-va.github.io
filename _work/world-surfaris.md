@@ -1,5 +1,10 @@
 ---
-services: []
+services:
+- Brand Strategy
+- Brand Design
+- Print Design
+- Website Development
+- Digital Marketing
 layout: work-single
 title: World Surfaris
 sub_heading: We keep World Surfaris pumping
@@ -94,7 +99,7 @@ page_sections:
 teaser_image: "/uploads/world-surfaris-teaser-1.jpg"
 client_logo: "/uploads/ws.svg"
 hero_video: ''
-sector: ''
+sector: Travel
 key_service: Full Service
 order: 30
 related_landing_page: ''
@@ -104,6 +109,4 @@ banner_animation:
   animation_size: ''
 
 ---
-### **A working relationship that spans over a decade**.
-
-World Surfaris is a full-service international travel agency that specialises in surfing holidays and represents a diverse range of “unique surf adventures” catering to all standards of surfers and budgets.
+## A working relationship that spans over a decade. World Surfaris is a full-service international travel agency that specialises in surfing holidays and represents a diverse range of “unique surf adventures” catering to all standards of surfers and budgets.
