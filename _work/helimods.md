@@ -39,6 +39,14 @@ page_sections:
     alt_text: ''
   headline: ''
   content: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/helimods_flyer2.jpg"
+    caption: ''
+  image_2:
+    image: "/uploads/helimods_pressad.jpg"
+    caption: ''
 - template: gallery
   block: gallery
   full_width: true
