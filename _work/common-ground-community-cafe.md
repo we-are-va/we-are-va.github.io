@@ -43,8 +43,9 @@ page_sections:
     image: "/uploads/Common-Ground-1200-x-750px-03_2.jpg"
     alt_text: ''
   headline: Social Media Strategy and Design Templates
-  content: Lorem ipsum dolor sit amet,con sectetuer adipiscingelit, sed diam nonummynibh
-    euismod lorem ipsumdolor sit amett.
+  content: VA was initially responsible for the look and feel of the Common Ground's
+    social media. VA provided the look and feel of their social channels, guidelines
+    for posting and the guiding strategy that would connect and engage their audiences.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Common-Ground-1200-x-750px-04.jpg"
@@ -55,6 +56,11 @@ hero_video: ''
 sector: Hospitality
 key_service: ''
 order: 99
+svg_for_animation: ''
+banner_animation:
+  animation_style: ''
+  animation_size: ''
+related_landing_page: ''
 
 ---
 ## The Common Ground Cafe supports local charities and not-for-profit (NPO's) across the Sunshine Coast. The Common Ground aims to become just that, Common Ground. Using food as the catalyst for change, they put the community in touch with organisations that need the support. Making it damn tasty at the same time!
