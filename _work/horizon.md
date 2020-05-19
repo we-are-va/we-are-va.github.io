@@ -42,9 +42,6 @@ page_sections:
     have also delivered digital signage designs and user-triggered email automation
     sequences that deliver relevant messaging and reminders to re-engage users.
   headline: "<strong>Digital Marketing</strong>"
-- template: video-element
-  block: video-element
-  video: "/uploads/horizon-2019-video-inline.mp4"
 - template: 2-column-media-element
   block: media-2
   image_1:
