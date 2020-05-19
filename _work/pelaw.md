@@ -45,9 +45,9 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: "Testimonial. Lorem ipsum dolor sit amet, consectetuer adipiscing elised
-      diam nonummy nibh euismod  lorem ipsum dolor sit amet.\tUt wisi enim ad minim
-      veniam, quis nostrud exercitation.<br><br><em>Name, title</em>"
+    content: P&amp;E Law proudly guides decision making, create opportunities, solve
+      problems and navigate obstacles for the benefit of landowners, developers, communities
+      and of course the traditional landowners of Australia.
 client_logo: "/uploads/pandelaw_logo.svg"
 order: 99
 
