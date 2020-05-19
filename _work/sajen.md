@@ -31,6 +31,25 @@ page_sections:
   - "/uploads/sajen_website_8.png"
   - "/uploads/sajen_website_9.png"
   - "/uploads/sajen_website_5.png"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/honeybadger-comic-mockup.jpg"
+- template: gallery
+  block: gallery
+  full_width: true
+  gallery:
+  - "/uploads/sajen_guidelines_1.jpg"
+  - "/uploads/sajen_guidelines_2.jpg"
+  - "/uploads/sajen_guidelines_3.jpg"
+  - "/uploads/sajen_guidelines_4.jpg"
+  - "/uploads/sajen_guidelines_5.jpg"
+  - "/uploads/sajen_guidelines_6.jpg"
+  - "/uploads/sajen_guidelines_7.jpg"
+  - "/uploads/sajen_guidelines_8.jpg"
+  - "/uploads/sajen_guidelines_9.jpg"
+  - "/uploads/sajen_guidelines_10.jpg"
+  - "/uploads/sajen_guidelines_11.jpg"
+  - "/uploads/sajen_guidelines_12.jpg"
 order: 20
 
 ---
