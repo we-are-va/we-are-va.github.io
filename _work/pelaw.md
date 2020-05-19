@@ -25,10 +25,11 @@ page_sections:
   image: "/uploads/paelaw_web.jpg"
 - template: 1-column-text
   block: one-column-1
-  headline: Lorem Ipsum
-  content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-    nibh euismod loremipsum dolor sit amet.Ut wisi enim ad minim veniam, quis nostrudexerci
-    tation ullamcorper suscipit lobortis.
+  headline: Professionalism and Impact
+  content: In a complex area of practice, P&amp;E Law has enabled its clients to make
+    well-informed decisions about their land and protect or utilise the rights that
+    come with their land. VA has proudly created a brand that captures the essence
+    of their practice; fairness and balance.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/pandelaw_stationery.jpg"
