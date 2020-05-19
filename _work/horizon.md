@@ -32,6 +32,18 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/HZN-Horizon-2019-05-1.jpg"
+- template: 1-column-text
+  block: one-column-1
+  content: "<em>Horizon Festival originally engaged VA to create our first website
+    back in 2016 and have re-engaged them as our digital agency every year since.
+    Wayne and his team consistently go above and beyond, working with us to understand
+    our requirements and enhance our website each year, providing a great user experience
+    for our audiences. Projects are managed tightly, delivered on time, on budget
+    and to a very high standard. VA also manage components of our digital marketing
+    campaigns with a data-driven approach that delivers results. We’re proud of the
+    digital work we have created together with VA, and we would not hesitate to recommend
+    their services.<br><br></em><strong>Peta Huggett</strong> | Marketing Manager
+    - Horizon Festival"
 - template: content-feature
   block: feature-1
   media_alignment: Left
