@@ -31,9 +31,24 @@ page_sections:
   - "/uploads/sajen_website_8.png"
   - "/uploads/sajen_website_9.png"
   - "/uploads/sajen_website_5.png"
+- template: 1-column-text
+  block: one-column-1
+  content: Never static, always on. The new Sajen website is easily navigable and
+    allows glimpses into Sajen Legal's true brand. Encouraging users to wander deeper,
+    explore more and engage more sincerely - this isn't just fact checking or price
+    hunting, this is interacting with a brand (keep your eyes open for the Honey Badger).
+  headline: Web Design
 - template: full-width-media-element
   block: media-1
   image: "/uploads/honeybadger-comic-mockup.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Digital Marketing
+  content: We Are VA have handled and promoted Sajen Legal since 2017. Introducing
+    Sajen Legal to wider audiences and working alongside their team to communicate
+    campaign specific agendas. VA continues to grow Sajen Legal’s digital footprint
+    using inbound and outbound approaches, ensuring the ‘right’ people get in touch.
 - template: gallery
   block: gallery
   full_width: true
@@ -58,11 +73,3 @@ banner_animation:
 
 ---
 ## Sajen Legal is a Law Firm with a difference. Operating across the Sunshine Coast the firm has developed a fierce reputation that has yielded results for their clients without tedious compromise.
-
-### Web Design
-
-Never static, always on. The new Sajen website is easily navigable and allows glimpses into Sajen Legal's true brand. Encouraging users to wander deeper, explore more and engage more sincerely - this isn't just fact checking or price hunting, this is interacting with a brand (keep your eyes open for the Honey Badger).
-
-### Digital Marketing
-
-We Are VA have handled and promoted Sajen Legal since 2017. Introducing Sajen Legal to wider audiences and working alongside their team to communicate campaign specific agendas. VA continues to grow Sajen Legal’s digital footprint using inbound and outbound approaches, ensuring the ‘right’ people get in touch.
