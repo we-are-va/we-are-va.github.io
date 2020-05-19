@@ -39,17 +39,17 @@ page_sections:
     image: "/uploads/pandelaw_stationery2.jpg"
   image_2:
     image: "/uploads/pandelaw_stationery3.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  content: P&amp;E Law proudly guides decision making, create opportunities, solve
+    problems and navigate obstacles for the benefit of landowners, developers, communities
+    and of course the traditional landowners of Australia.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/pandelaw_sign.jpg"
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    content: P&amp;E Law proudly guides decision making, create opportunities, solve
-      problems and navigate obstacles for the benefit of landowners, developers, communities
-      and of course the traditional landowners of Australia.
 client_logo: "/uploads/pandelaw_logo.svg"
 order: 99
 
 ---
-Planning and Environmental law is a complex area of the law and often fueled by passionate parties - it requires a calm demure, professional approach and thorough understanding of the law to negotiate the best result for all. P&E certainly ticks those boxes and with VA’s latest brand roll-out, they now look the part too.
+## Planning and Environmental law is a complex area of the law and often fueled by passionate parties - it requires a calm demure, professional approach and thorough understanding of the law to negotiate the best result for all. P&E certainly ticks those boxes and with VA’s latest brand roll-out, they now look the part too.
