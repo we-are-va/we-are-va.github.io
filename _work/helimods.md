@@ -39,6 +39,10 @@ page_sections:
     alt_text: ''
   headline: ''
   content: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/helimods_web.png"
+  caption: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -61,3 +65,4 @@ page_sections:
   - "/uploads/helimods_guidelines_5.jpg"
 
 ---
+## HeliMods deliver world leading aerospace products and services to both local and international providers. An innovative business that thrives on solving complex problems and backed by world class technologies - VA are thrilled to work alongside a business that so neatly aligns with our principals.
