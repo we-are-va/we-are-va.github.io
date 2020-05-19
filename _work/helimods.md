@@ -51,6 +51,5 @@ page_sections:
   - "/uploads/helimods_guidelines_3.jpg"
   - "/uploads/helimods_guidelines_4.jpg"
   - "/uploads/helimods_guidelines_5.jpg"
-published: false
 
 ---
