@@ -51,3 +51,4 @@ client_logo: "/uploads/pandelaw_logo.svg"
 order: 99
 
 ---
+Planning and Environmental law is a complex area of the law and often fueled by passionate parties - it requires a calm demure, professional approach and thorough understanding of the law to negotiate the best result for all. P&E certainly ticks those boxes and with VA’s latest brand roll-out, they now look the part too.
