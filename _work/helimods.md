@@ -1,8 +1,8 @@
 ---
 order: 40
 banner_animation:
-  animation_style: []
-  animation_size: []
+  animation_style: zoom
+  animation_size: '40'
 services:
 - Brand Refresh
 - " Print "
@@ -14,7 +14,7 @@ client_logo: "/uploads/helimods_logo.svg"
 title: Helimods
 sub_heading: Setting the industry standard
 teaser_image: "/uploads/helimods_teaser.jpg"
-svg_for_animation: ''
+svg_for_animation: "/uploads/helimods_logo-1.svg"
 banner_image: "/uploads/helimods_hero.jpg"
 hero_video: ''
 sector: Aviation
