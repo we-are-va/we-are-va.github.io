@@ -41,6 +41,12 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/honeybadger-comic-mockup.jpg"
+- template: 1-column-text
+  block: one-column-1
+  content: I have worked with agencies for years. VA is the only one I trust and that
+    have ever understood my business, what we stand for, what we’re trying to achieve
+    and when.
+  headline: Kyle Kimball, Director
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -65,12 +71,6 @@ page_sections:
   - "/uploads/sajen_guidelines_10.jpg"
   - "/uploads/sajen_guidelines_11.jpg"
   - "/uploads/sajen_guidelines_12.jpg"
-- template: 1-column-text
-  block: one-column-1
-  content: I have worked with agencies for years. VA is the only one I trust and that
-    have ever understood my business, what we stand for, what we’re trying to achieve
-    and when.
-  headline: Kyle Kimball, Director
 order: 20
 svg_for_animation: "/uploads/sajenlegal_white-1.svg"
 banner_animation:
