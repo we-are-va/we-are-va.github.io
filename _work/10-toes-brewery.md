@@ -6,7 +6,7 @@ related_landing_page: []
 client_logo: "/uploads/10toes_logo.svg"
 title: 10 Toes Brewery
 sub_heading: Uniting all walks of life for a chin wag over a knock off frothy
-teaser_image: '/uploads/10toes-teaser.jpg'
+teaser_image: "/uploads/10toes-teaser.jpg"
 banner_image: ''
 hero_video: "/uploads/video-1588940235.mp4"
 sector: ''
@@ -20,8 +20,7 @@ banner_animation:
   animation_style: ''
   animation_size: ''
 
-
 ---
 ## We love a beer with our neighbours! Uniting all walks of life from a chin wag over a knock off frothy to wooing Mr/Mrs Right. No matter what you do 10 Toes have the developed brew for you.
 
-## 
+##
