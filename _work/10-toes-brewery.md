@@ -21,6 +21,10 @@ banner_animation:
   animation_size: '40'
 
 ---
-## We love a beer with our neighbours! Uniting all walks of life from a chin wag over a knock off frothy to wooing Mr/Mrs Right. No matter what you do 10 Toes have the developed brew for you.
+## We love a beer with our neighbours! 
 
-##
+## Uniting all walks of life from a chin wag over a knock off frothy to wooing Mr/Mrs Right. 
+
+## No matter what you do 10 Toes have the developed brew for you.
+
+## 
