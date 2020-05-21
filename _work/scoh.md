@@ -21,9 +21,9 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Encourage the Wider Community to Step Inside
-  content: Just like in architecture VA know that design must never be divorced from
-    function. With this approach in mind, VA set out to create a beautiful and useful
-    suite of collateral.
+  content: "## Just like in architecture VA know that design must never be divorced
+    from function. With this approach in mind, VA set out to create a beautiful and
+    useful suite of collateral."
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -35,17 +35,17 @@ page_sections:
   media_alignment: Left
   media:
     image: "/uploads/open_house_tote.jpg"
-  content: Promotional material included lanyards, pull- up banners, guidebook, flyers
-    and posters for the event launch, public display at participating buildings and
-    to publicise the event.
+  content: "## Promotional material included lanyards, pull- up banners, guidebook,
+    flyers and posters for the event launch, public display at participating buildings
+    and to publicise the event."
 - template: full-width-media-element
   block: media-1
   image: "/uploads/open_house_web.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: VA were also responsible for creating one very slick website that like
-    the event's namesake, encourages you to step inside and explore.
+  content: "## VA were also responsible for creating one very slick website that like
+    the event's namesake, encourages you to step inside and explore."
   media:
     image: "/uploads/open_house_banner.jpg"
 - template: 2-column-media-element
