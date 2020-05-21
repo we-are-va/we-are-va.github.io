@@ -69,10 +69,10 @@ page_sections:
   media:
     image: "/uploads/world-surfaris_img_maldives.jpg"
     alt_text: ''
-  content: From developing content platforms to tap into whole new demographics through
-    to sophisticated ‘always on marketing’ techniques that use multiple trigger points
-    to remind and entice users, We Are VA are proud of our long standing friendship
-    with the World Surfaris team.
+  content: "## From developing content platforms to tap into whole new demographics
+    through to sophisticated ‘always on marketing’ techniques that use multiple trigger
+    points to remind and entice users, We Are VA are proud of our long standing friendship
+    with the World Surfaris team."
   headline: ''
 - template: gallery
   block: gallery
