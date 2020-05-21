@@ -28,12 +28,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Website
-  content: Sifting through the nuances of international surf travel to find you dream
-    wave in a world that expects instant pricing, lightning-fast loading and a visual
-    feast for the eyes - you’ll need a team that understands data hierarchy, can integrate
-    with third party API’s and know their Mentawais from their Maldives.<br><br><strong>Still,
-    dreaming of surfing? </strong><br><br>World Surfaris’ website will narrow down
-    your dream surf trip for you quickly, quietly and look damn fine doing it.
+  content: "**Sifting through the nuances of international surf travel to find you
+    dream wave in a world that expects instant pricing, lightning-fast loading and
+    a visual feast for the eyes - you’ll need a team that understands data hierarchy,
+    can integrate with third party API’s and know their Mentawais from their Maldives.**\n\n##
+    Still, dreaming of surfing? \n\n**World Surfaris’ website will narrow down your
+    dream surf trip for you quickly, quietly and look damn fine doing it.**"
 - template: gallery
   block: gallery
   gallery:
