@@ -12,8 +12,8 @@ hero_video: ''
 sector: Hospitality
 key_service: Packaging Design
 slug: ''
-brand_primary_color: ''
-brand_secondary_color: ''
+brand_primary_color: "#1B84AF"
+brand_secondary_color: "#00A3E0"
 page_sections: []
 svg_for_animation: "/uploads/10toes_logo.svg"
 banner_animation:
