@@ -43,18 +43,10 @@ page_sections:
   image: "/uploads/honeybadger-comic-mockup.jpg"
 - template: 1-column-text
   block: one-column-1
-  content: I have worked with agencies for years. VA is the only one I trust and that
-    have ever understood my business, what we stand for, what we’re trying to achieve
-    and when.
+  content: "## I have worked with agencies for years. VA is the only one I trust and
+    that have ever understood my business, what we stand for, what we’re trying to
+    achieve and when."
   headline: Kyle Kimball, Director
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Digital Marketing
-  content: We Are VA have handled and promoted Sajen Legal since 2017. Introducing
-    Sajen Legal to wider audiences and working alongside their team to communicate
-    campaign specific agendas. VA continues to grow Sajen Legal’s digital footprint
-    using inbound and outbound approaches, ensuring the ‘right’ people get in touch.
 - template: gallery
   block: gallery
   full_width: true
