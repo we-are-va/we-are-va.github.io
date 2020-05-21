@@ -30,8 +30,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Josh Allen
-  content: "### “I trust VA to deliver on outstanding creative time and time again.
+  headline: "<strong>Josh Allen</strong>"
+  content: "## “I trust VA to deliver on outstanding creative time and time again.
     Not only does it look great but the technical attention detail is there as well,
     so it’s seamless! No last-minute panic with printers and suppliers. Great creative,
     hassle-free service and reliable delivery.”"
