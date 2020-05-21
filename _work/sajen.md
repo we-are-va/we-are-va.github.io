@@ -33,10 +33,11 @@ page_sections:
   - "/uploads/sajen_website_5.png"
 - template: 1-column-text
   block: one-column-1
-  content: Never static, always on. The new Sajen website is easily navigable and
-    allows glimpses into Sajen Legal's true brand. Encouraging users to wander deeper,
-    explore more and engage more sincerely - this isn't just fact checking or price
-    hunting, this is interacting with a brand (keep your eyes open for the Honey Badger).
+  content: "## Never static, always on. \n\nThe new Sajen website is easily navigable
+    and allows glimpses into Sajen Legal's true brand. Encouraging users to wander
+    deeper, explore more and engage more sincerely - this isn't just fact checking
+    or price hunting, this is interacting with a brand _(keep your eyes open for the
+    Honey Badger)_."
   headline: Web Design
 - template: full-width-media-element
   block: media-1
