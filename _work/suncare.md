@@ -30,9 +30,10 @@ page_sections:
   media_alignment: Left
   media:
     image: "/uploads/suncare_pullupbanners.jpg"
-  content: The refreshed Suncare brand and site help to create a message that doesn't
-    pitch, shout or sell. Rather it puts the user's needs in focus and asks permission.
-  headline: '"How can we help you?"'
+  content: "## The refreshed Suncare brand and site help to create a message that
+    doesn't pitch, shout or sell. Rather it puts the user's needs in focus and asks
+    permission."
+  headline: <strong>"How can we help you?"</strong>
 - template: gallery
   block: gallery
   gallery:
@@ -56,10 +57,10 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/suncorp_img.jpg"
-  content: Regular communication and transparency sums up our relationship with Suncare.
-    The awesome Suncare team advises VA on goals and objectives, together we build
-    a strategy and VA roll out the tactical elements ... and it works.<br>
-  headline: Digital Marketing<br>
+  content: "## Regular communication and transparency sums up our relationship with
+    Suncare. The awesome Suncare team advises VA on goals and objectives, together
+    we build a strategy and VA roll out the tactical elements ... and it works."
+  headline: "<strong>Digital Marketing</strong><br>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/suncare-brochures.jpg"
