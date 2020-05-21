@@ -26,10 +26,10 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Professionalism and Impact
-  content: In a complex area of practice, P&amp;E Law has enabled its clients to make
+  content: "## In a complex area of practice, P&E Law has enabled its clients to make
     well-informed decisions about their land and protect or utilise the rights that
     come with their land. VA has proudly created a brand that captures the essence
-    of their practice; fairness and balance.
+    of their practice; fairness and balance."
 - template: full-width-media-element
   block: media-1
   image: "/uploads/pandelaw_stationery.jpg"
@@ -39,12 +39,6 @@ page_sections:
     image: "/uploads/pandelaw_stationery2.jpg"
   image_2:
     image: "/uploads/pandelaw_stationery3.jpg"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  content: P&amp;E Law proudly guides decision making, create opportunities, solve
-    problems and navigate obstacles for the benefit of landowners, developers, communities
-    and of course the traditional landowners of Australia.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/pandelaw_sign.jpg"
