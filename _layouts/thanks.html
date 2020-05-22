@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% comment %}
+	This layout is used to generate custom landing page layouts,
+	e.g index.md and about.md
+{% endcomment %}
+
+<section class="section section-hero">
+	
+	{% if page.hero_video and page.hero_video != "" %}
+		<div class="hero-video" data-vide-bg="{{ page.hero_video | relative_url }}" data-vide-options="position: 0% 0%"></div>
+	{% else %}
+		{% if page.hero_image and page.hero_image != "" %}
+		<img class="d-block w-100" src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
+		{% endif %}
+	{% endif %}
+	 
+	<div class="position-absolute hero-title">
+		<div class="container">
+			<div class="col-md-6">
+				<h1 class="text-primary">{{ page.title }}</h1>
+				<h2>{{ page.heading }}</h2>
+			</div>
+		</div>
+	</div>
+
+</section>
