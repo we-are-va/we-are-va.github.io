@@ -7,8 +7,8 @@
 	<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
 	onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
-	<form class="enquiry-form" method="post" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSduXVNwhcF7FAjLbL4YvKgaJBH9DC9yzZGP0iorx8_drUnvVA/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-		
+	<form id="enquiryform" class="enquiry-form" method="post" action="" target="hidden_iframe" onsubmit="submitted=true;">
+		https://docs.google.com/forms/u/0/d/e/1FAIpQLSduXVNwhcF7FAjLbL4YvKgaJBH9DC9yzZGP0iorx8_drUnvVA/formResponse
 		<div class="row">
 
 		<div class="form-group col-md-6">
@@ -36,8 +36,12 @@
 		    <textarea name="entry.1070997577" class="form-control" id="Message" rows="1"></textarea>
 		</div>
 			
+
 		<div class="col-md-12 mt-1 action">
-	  		<button type="submit" class="btn btn-submit">Send Message</button>
+
+			<div class="g-recaptcha" data-callback="onSubmit" data-error-callback="sdlkf" data-sitekey="6LdGxPoUAAAAAI2i7sNi8cpyKyoGRyEhGjVKZd11"></div>
+
+	  		<button type="submit" class="mt-1 btn btn-submit">Send Message</button>
 	  	</div>
 
 	  	</div>

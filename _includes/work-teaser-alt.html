@@ -4,7 +4,7 @@
 		<figure>
 			{% if project.teaser_image and project.teaser_image != "" %}
 				{% responsive_image_block %}
-				  path: {{ project.teaser_image | remove_first:'/'}}
+				  path: {{ project.teaser_image | remove_first:'/' }}
 				  alt: {{ project.title }}
 				  {% if title %}
 				  title: {{ project.title }}

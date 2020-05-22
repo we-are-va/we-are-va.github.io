@@ -4,7 +4,7 @@ date: '2016-04-20T00:00:00.000+00:00'
 key_service: Branding
 banner_image: "/uploads/h3a1823.jpg"
 hero_video: ''
-teaser_image: "/uploads/spero/Spero_9.jpg"
+teaser_image: "/uploads/Spero_9.jpg"
 sub_heading: Spero is the kind of family-owned beach style eatery that you might find
   in Cofu Town
 brand_primary_color: "#0072ce"

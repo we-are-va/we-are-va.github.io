@@ -27,6 +27,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-inline-svg
   - jekyll-sitemap
+  - jekyll-webp
 # svg Optimise
 svg:
   optimize: true  
@@ -39,7 +40,7 @@ svg:
 responsive_image:
   # [Required]
   # Path to the image template.
-  template: _includes/responsive-image.html
+  template: _includes/picture.html
 
   # [Optional, Default: 85]
   # Quality to use when resizing images.
@@ -49,8 +50,6 @@ responsive_image:
   # An array of resize configuration objects. Each object must contain at least
   # a `width` value.
   sizes:
-    - width: 250 # lq
-      quality: 98
     - width: 480  # [Required] How wide the resized image will be.
       quality: 98 # [Optional] Overrides default_quality for this size.
     - width: 800
@@ -61,6 +60,8 @@ responsive_image:
   # Rotate resized images depending on their EXIF rotation attribute. Useful for
   # working with JPGs directly from digital cameras and smartphones
   auto_rotate: false
+
+  strip: true
 
   # [Optional, Default: assets]
   # The base directory where assets are stored. This is used to determine the
@@ -98,3 +99,42 @@ responsive_image:
   #   - assets/foo/bar.png
   #   - assets/bgs/*.png
   #   - assets/avatars/*.{jpeg,jpg}
+
+
+  ############################################################
+# Site configuration for the WebP Generator Plugin
+# The values here represent the defaults if nothing is set
+webp:
+  enabled: true
+  
+  # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
+  quality: 90
+
+  # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
+  # By default the generator will search for a folder called `/img` under the site root and process all jpg, png and tiff image files found there.
+  img_dir: ["/uploads"]
+
+  # Whether to search in nested directories or not
+  nested: false
+
+  # add ".gif" to the format list to generate webp for animated gifs as well
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
+
+  # File extensions for animated gif files 
+  gifs: [".gif"]
+
+  # Set to true to always regenerate existing webp files
+  regenerate: false
+
+  # Local path to the WebP utilities to use (relative or absolute)
+  # Omit or leave as nil to use the utilities shipped with the gem, override only to use your local install
+  webp_path: nil
+
+  # List of files or directories to exclude
+  # e.g. custom or hand generated webp conversion files
+  exclude: []
+
+  # append '.webp' to filename after original extension rather than replacing it.
+  # Default transforms `image.png` to `image.webp`, while changing to true transforms `image.png` to `image.png.webp`
+  append_ext: false
+############################################################

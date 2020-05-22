@@ -39,6 +39,7 @@ GEM
       nuggets
     jekyll-watch (1.5.1)
       listen (~> 3.0)
+    jekyll-webp (1.0.0)
     kramdown (1.17.0)
     liquid (4.0.1)
     listen (3.1.5)
@@ -81,6 +82,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tagging
+  jekyll-webp
   tzinfo-data
 
 BUNDLED WITH

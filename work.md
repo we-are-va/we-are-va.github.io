@@ -1,6 +1,7 @@
 ---
 title: Work
 layout: work
+description: We can help you create a brand that looks great and works well.
 menu:
   navigation:
     identifier: _work

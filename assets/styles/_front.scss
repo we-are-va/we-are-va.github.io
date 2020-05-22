@@ -20,6 +20,9 @@
 	@include media-breakpoint-up(md) {
 		max-width: 50%;
 	}
+	@include media-breakpoint-down(md) {
+		padding: 2em;
+	}
 }
 .project-logo-teaser {
 	path, circle, polygon, rect {

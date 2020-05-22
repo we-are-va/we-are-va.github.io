@@ -9,8 +9,8 @@ services:
 - Web Design + Build
 - On-site Signage
 - Digital Signage
-teaser_image: "/uploads/bookingbox/DSC8357_0.jpg"
-banner_image: "/uploads/bookingbox/DSC8339.jpg"
+teaser_image: "/uploads/DSC8357_0.jpg"
+banner_image: "/uploads/DSC8339.jpg"
 hero_video: ''
 sub_heading: Looking for an Adventure & Great Coffee - Start here!
 brand_primary_color: "#63ceca"

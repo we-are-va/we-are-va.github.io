@@ -6,11 +6,14 @@ Usage:
 	{% responsive_image path: assets/image.jpg alt: "A description of the image" %}
 
 (P.S. You can safely delete this comment block)
-{% endcomment %}
+{% endcomment %} 
+
+{% assign largest = resized | sort: 'width' | last %}
 
 <picture>
+	<source type="image/webp" srcset="/uploads/{{ largest.filename }}.webp" >
     {% for i in resized %}
         <source media="(min-width: {{ i.width }}px)" srcset="/{{ i.path }}">
     {% endfor %}
-    <img src="/{{ path }}">
+    <img src="/{{ largest.path }}" class="lazyload">
 </picture>
