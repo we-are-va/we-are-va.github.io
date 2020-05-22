@@ -58,7 +58,7 @@ key_service: ''
 order: 99
 svg_for_animation: "/uploads/common-ground-element_strokes.svg"
 banner_animation:
-  animation_style: ''
+  animation_style: draw
   animation_size: '100'
 related_landing_page: ''
 
