@@ -1,7 +1,7 @@
 ---
 title: Wayne McFetridge
 sub_heading: Director
-thumbnail: "/uploads/team-wayne.jpg"
+thumbnail: "/uploads/team-wayne.jpg" 
 email: 
 linkedin: ''
 layout: person

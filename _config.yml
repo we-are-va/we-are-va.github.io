@@ -40,7 +40,7 @@ svg:
 responsive_image:
   # [Required]
   # Path to the image template.
-  template: _includes/picture.html
+  template: _includes/responsive-image.html
 
   # [Optional, Default: 85]
   # Quality to use when resizing images.
@@ -105,7 +105,7 @@ responsive_image:
 # Site configuration for the WebP Generator Plugin
 # The values here represent the defaults if nothing is set
 webp:
-  enabled: true
+  enabled: false
   
   # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
   quality: 90
