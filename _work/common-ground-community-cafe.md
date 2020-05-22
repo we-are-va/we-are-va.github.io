@@ -56,10 +56,10 @@ hero_video: ''
 sector: Hospitality
 key_service: ''
 order: 99
-svg_for_animation: ''
+svg_for_animation: "/uploads/common-ground-element_strokes.svg"
 banner_animation:
   animation_style: ''
-  animation_size: ''
+  animation_size: '100'
 related_landing_page: ''
 
 ---
