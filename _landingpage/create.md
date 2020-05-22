@@ -7,7 +7,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Headline for this column
-  content: "### We create with imagination and bring it to life using the right tools
+  content: "## We create with imagination and bring it to life using the right tools
     so that you can take it the next level and move confidently forward with your
     enterprise."
 
