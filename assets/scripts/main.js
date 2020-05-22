@@ -16,7 +16,21 @@ $(function() {
     $navbarLayout.collapse('hide');
   });
 
-
+  document.getElementById("enquiryform").addEventListener("submit",function(evt)
+  {
+  
+  var response = grecaptcha.getResponse();
+  if(response.length == 0) 
+  { 
+    //reCaptcha not verified
+    alert("Please verify you are human by checking the I'm not a robot!"); 
+    evt.preventDefault();
+    return false;
+  }
+  //captcha verified
+  //do the rest of your validations here
+  
+});
 
   const svgDraw = anime({
     targets: '#draw #animated  path',
@@ -40,7 +54,8 @@ $(function() {
 
   
 
- 
+  
+
 
   $('.row-work .work-teaser').matchHeight();
 
@@ -257,3 +272,5 @@ $(function() {
 
 
 });
+
+
