@@ -21,7 +21,7 @@ layout: work-single
 page_sections:
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/suncare_logo-1.jpg"
+  image: "/uploads/suncare_logo_sml.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
