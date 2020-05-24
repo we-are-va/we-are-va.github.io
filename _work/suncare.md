@@ -19,9 +19,12 @@ brand_secondary_color: "#ff8f70"
 slug: ''
 layout: work-single
 page_sections:
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/suncare_logo.jpg"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/suncare-logo_before_sml.jpg"
+  image_2:
+    image: "/uploads/suncare-logo_after_sml.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Suncare-stationery_1400.jpg"
