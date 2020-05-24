@@ -51,14 +51,6 @@ page_sections:
   image_2:
     image: "/uploads/helimods_pressad.jpg"
     caption: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  media:
-    image: "/uploads/helimods_img.jpg"
-    alt_text: ''
-  headline: ''
-  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/helimods_pressads.jpg"
