@@ -13,7 +13,7 @@ services:
 teaser_image: "/uploads/suncare_teaser.jpg"
 banner_image: "/uploads/suncare_hero.jpg"
 hero_video: ''
-sub_heading: Creating A Compassionate Brand
+sub_heading: Creating a Compassionate Brand
 brand_primary_color: "#363534"
 brand_secondary_color: "#ff8f70"
 slug: ''
@@ -25,6 +25,16 @@ page_sections:
     image: "/uploads/suncare-logo_before_sml.jpg"
   image_2:
     image: "/uploads/suncare-logo_after_sml.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/suncare_img2"
+  headline: The Brand Refresh
+  content: |-
+    ### Suncare prides itself on working compassionately and genuinely. Listening to the needs of individuals, carers and family members - compassion is paramount. The brand refresh had to pay tribute to the long 40-year history of the organisation and couldn’t depart radically from the existing logo.
+
+    ### VA maintained the principle elements of the existing logo but added a softer colour palette and layered elements to soften and emphasise. As with all VA’s branding, we produce a number of variants that work well across a number of applications.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Suncare-stationery_1400.jpg"
@@ -33,10 +43,11 @@ page_sections:
   media_alignment: Left
   media:
     image: "/uploads/suncare_pullupbanners.jpg"
-  content: "## The refreshed Suncare brand and site help to create a message that
-    doesn't pitch, shout or sell. Rather it puts the user's needs in focus and asks
-    permission."
-  headline: <strong>"How can we help you?"</strong>
+  content: |-
+    ## The refreshed Suncare brand and site help to create a message that doesn't pitch, shout or sell. Rather it puts the user's needs in focus and asks permission.
+
+    ## "How can we help you?" replaces the usual power pitch or brand identifier on the Suncare website the logo conveys compassion and care. In tandem the unique proposition of the Suncare offering becomes immediately obvious - we are here to serve you, tell us what you need.
+  headline: "<strong>The result</strong>"
 - template: gallery
   block: gallery
   gallery:
@@ -93,15 +104,3 @@ banner_animation:
 
 ---
 ## Suncare’s core business is to understand community needs and develop innovative responses for people who are ageing, living with a disability or mental illness. Every brand interaction regardless of platform had to reflect this value - VA was set to work.
-
-### The Brand Refresh
-
-Suncare prides itself on working compassionately and genuinely. Listening to the needs of individuals, carers and family members - compassion is paramount. The brand refresh had to pay tribute to the long 40-year history of the organisation and couldn’t depart radically from the existing logo.
-
-VA maintained the principle elements of the existing logo but added a softer colour palette and layered elements to soften and emphasise. As with all VA’s branding, we produce a number of variants that work well across a number of applications.
-
-### The Result
-
-The refreshed Suncare brand and site help to create a message that doesn't pitch, shout or sell. Rather it puts the user's needs in focus and asks permission.
-
-"How Can we help you?" replaces the usual power pitch or brand identifier on the Suncare website the logo conveys compassion and care. In tandem the unique proposition of the Suncare offering becomes immediately obvious - We are here to serve you, tell us what you need.
