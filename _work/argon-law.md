@@ -56,7 +56,7 @@ order: 99
 svg_for_animation: "/uploads/argon_logo_stroke.svg"
 banner_animation:
   animation_style: zoom
-  animation_size: '100'
+  animation_size: '60'
 related_landing_page: ''
 
 ---
