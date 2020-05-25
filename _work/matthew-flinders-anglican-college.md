@@ -50,6 +50,12 @@ page_sections:
     fantastic school.
   media:
     image: "/uploads/mfac_seondary-photo-03_v2.jpg"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/The Investigator 3.jpg"
+  image_2:
+    image: "/uploads/The Investigator 2.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MFAC_stationery-1.jpg"
@@ -59,21 +65,6 @@ page_sections:
     image: "/uploads/flinders_prospectus_1.jpg"
   image_2:
     image: "/uploads/flinders_prospectus_2.jpg"
-- template: gallery
-  block: gallery
-  media:
-    image: "/uploads/Flinder 30-1.mp4"
-  gallery:
-  - "/uploads/The Investigator 1.jpg"
-  - "/uploads/The Investigator 2.jpg"
-  - "/uploads/The Investigator 3.jpg"
-  full_width: true
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/flinders_poster.jpg"
-  image_2:
-    image: "/uploads/flinders_press_ad.jpg"
 - template: 1-column-text
   block: one-column-1
   headline: Web Design - 30-year site
@@ -94,6 +85,12 @@ page_sections:
   - "/uploads/mfac_website_8.png"
   - "/uploads/mfac_website_9.png"
   full_width: true
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/flinders_poster.jpg"
+  image_2:
+    image: "/uploads/flinders_press_ad.jpg"
 - template: gallery
   block: gallery
   gallery:
