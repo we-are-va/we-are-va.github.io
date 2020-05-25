@@ -113,7 +113,7 @@ order: 15
 client_logo: "/uploads/matthew_flinders_logo.svg"
 svg_for_animation: "/uploads/discover_flinders.svg"
 banner_animation:
-  animation_size: '60'
+  animation_size: '40'
   animation_style: zoom
 
 ---
