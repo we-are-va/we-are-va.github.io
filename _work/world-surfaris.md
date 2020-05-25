@@ -103,10 +103,10 @@ sector: Travel
 key_service: Full Service
 order: 30
 related_landing_page: ''
-svg_for_animation: ''
+svg_for_animation: "/uploads/world_surfaris_tagline.svg"
 banner_animation:
-  animation_style: ''
-  animation_size: ''
+  animation_style: zoom
+  animation_size: '60'
 
 ---
 ## A working relationship that spans over a decade. World Surfaris is a full-service international travel agency that specialises in surfing holidays and represents a diverse range of “unique surf adventures” catering to all standards of surfers and budgets.
