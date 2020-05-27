@@ -84,7 +84,7 @@ fields:
       required: false
     label: Caption
   label: Video 3
-  - name: video_4
+- name: video_4
   type: field_group
   config: {}
   fields:
