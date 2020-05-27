@@ -1,0 +1,22 @@
+---
+layout: default
+---
+{% comment %}
+	This layout is used to by projects.md to display all of documents in
+	the _projects/ collection
+{% endcomment %}
+
+<div class="container py-8 ">
+
+		
+		<div class="row-work row d-flex align-items-end py-3">
+		{% assign projects = site.work | sort: "order" %}
+		{% for project in projects %}
+			
+					<div class="col-work col-md-6 p-md-2" data-aos-delay="{% increment column %}0" data-aos="fade-up">
+						{% include work-teaser-alt2.html %}
+					</div>
+		
+		{% endfor %}
+	</div>
+</div>
