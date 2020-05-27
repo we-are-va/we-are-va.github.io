@@ -14,13 +14,7 @@ key_service: Packaging Design
 slug: ''
 brand_primary_color: "#1B84AF"
 brand_secondary_color: "#00A3E0"
-page_sections:
-- template: 4-up-video
-  block: 4-up-video
-  video_1: https://vimeo.com/422668425
-  video_3: https://vimeo.com/422668472
-  video_2: https://vimeo.com/422668472
-  video_4: https://vimeo.com/422668472
+page_sections: []
 svg_for_animation: "/uploads/10toes_logo.svg"
 banner_animation:
   animation_style: zoom
