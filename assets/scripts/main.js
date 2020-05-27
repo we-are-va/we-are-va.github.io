@@ -59,52 +59,13 @@ $(function() {
   $('.row-work .work-teaser').matchHeight();
 
 
+  $( document ).ready(function() {
   // Image Comparison
-  document.querySelectorAll('.cocoen').forEach(function(element){
-    new Cocoen(element);
+    document.querySelectorAll('.cocoen').forEach(function(element){
+      new Cocoen(element);
+    });
+
   });
-
-  // const options = {
-  //   direction: 'vertical', // string horizontal & vertical
-  //   width: 700, // integer defaults to max-width: 100%; via CSS
-  //   height: 450, // integer defaults to height: auto; via CSS
-  //   initial: 30, // integer default = 30px (initial position for slider in px)
-  //   filter: {
-  //     active: true, // boolean
-  //     effect:
-  //       'grayscale(200%)' /* url, blur, brightness, contrast, drop-shadow, grayscale, hue-rotate, invert, opacity, saturate, sepia */,
-  //   },
-  // }
-
-  // const container = document.getElementById('img-comparison')
-
-  // const mySlider = new Cato(options, container)
-
-  // mySlider.createSlider()
-
-  //  var aniNextLink = function(callback) {
-    
-  //      $('.next-work').addClass('animated');
-
-  //  }
-  // $('.PageNavigation a').on('click', function(e) {
-  //     e.preventDefault();
-      
-  //     var url = $(e.currentTarget).attr('href');
-  //     aniNextLink(function() {
-  //         alert('go to ' + url);
-  //         window.location.href = 'http://www.google.com';
-  //     });
-  // });
-
-  // ScrollReveal
-  // window.sr = new ScrollReveal();
-  // sr.reveal('section h2, .reveal, section header');
-  // // Reveal in a ripple efffect
-  // sr.reveal('.howwehelp-action', { duration: 800 }, 100);
-  // sr.reveal('#contact .contact li, #whyparachute p, #wearewithyou p, #ourpromise p', { duration: 500 }, 50);
-  
-  // Scrollmagic
 
 
   $(".form-group input, .form-group textarea").focusout(function(){
@@ -148,26 +109,20 @@ $(function() {
   //       smoothState = $page.smoothState(options).data('smoothState');
   // });
 
-  console.log("Welcome to WE ARE VA");
-  console.log("##:::::'##:'########::::'###::::'########::'########:'##::::'##::::'###::::");
-  console.log("##:'##: ##: ##.....::::'## ##::: ##.... ##: ##.....:: ##:::: ##:::'## ##:::");
-  console.log("##: ##: ##: ##::::::::'##:. ##:: ##:::: ##: ##::::::: ##:::: ##::'##:. ##::");
-  console.log("##: ##: ##: ######:::'##:::. ##: ########:: ######::: ##:::: ##:'##:::. ##:");
-  console.log("##: ##: ##: ##...:::: #########: ##.. ##::: ##...::::. ##:: ##:: #########:");
-  console.log("##: ##: ##: ##::::::: ##.... ##: ##::. ##:: ##::::::::. ## ##::: ##.... ##:");
-  console.log(". ###. ###:: ########: ##:::: ##: ##:::. ##: ########:::. ###:::: ##:::: ##:");
-  console.log(":...::...:::........::..:::::..::..:::::..::........:::::...:::::..:::::..::");
+  $(window).scroll(function(){
+    $(".hero-copy").css("opacity", 1 - $(window).scrollTop() / 250);
+  });
 
-    // if($(window).width() >= 992) {
-    //   $('#fullpage').fullpage({
-    //     anchors:['section1','section2', 'section3'],
-    //     scrollOverflow: true,
-    //     autoScrolling:true,
-    //     slideSelector: '',
-    //     //css3:false
-    //     normalScrollElements: '#intro'
-    //   });
-    // }
+
+  console.log("Welcome to WE ARE VA");
+  // console.log("##:::::'##:'########::::'###::::'########::'########:'##::::'##::::'###::::");
+  // console.log("##:'##: ##: ##.....::::'## ##::: ##.... ##: ##.....:: ##:::: ##:::'## ##:::");
+  // console.log("##: ##: ##: ##::::::::'##:. ##:: ##:::: ##: ##::::::: ##:::: ##::'##:. ##::");
+  // console.log("##: ##: ##: ######:::'##:::. ##: ########:: ######::: ##:::: ##:'##:::. ##:");
+  // console.log("##: ##: ##: ##...:::: #########: ##.. ##::: ##...::::. ##:: ##:: #########:");
+  // console.log("##: ##: ##: ##::::::: ##.... ##: ##::. ##:: ##::::::::. ## ##::: ##.... ##:");
+  // console.log(". ###. ###:: ########: ##:::: ##: ##:::. ##: ########:::. ###:::: ##:::: ##:");
+  // console.log(":...::...:::........::..:::::..::..:::::..::........:::::...:::::..:::::..::");
 
     /*
      * Replace all SVG images with inline SVG
