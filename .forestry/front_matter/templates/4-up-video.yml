@@ -1,4 +1,34 @@
 ---
 label: 4 Up Video
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  default: 4-up-video
+  label: block
+  hidden: true
+- name: video_1
+  type: text
+  config:
+    required: false
+  label: Video 1
+  description: Vimeo Link
+- name: video_2
+  type: text
+  config:
+    required: false
+  label: Video 2
+  description: Vimeo Link
+- name: video_3
+  type: text
+  config:
+    required: false
+  label: Video 3
+  description: Vimeo Link
+- name: video_4
+  type: text
+  config:
+    required: false
+  label: Video 4

@@ -131,6 +131,7 @@ fields:
   - content-feature
   - gallery
   - before-after-element
+  - 4-up-video
 - name: layout
   type: text
   config:
