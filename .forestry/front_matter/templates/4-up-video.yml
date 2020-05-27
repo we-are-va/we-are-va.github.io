@@ -10,25 +10,27 @@ fields:
   label: block
   hidden: true
 - name: video_1
-  type: text
-  config:
-    required: false
+  type: field_group
+  config: {}
+  fields:
+  - name: vimeo
+    type: text
+    config:
+      required: false
+    label: Vimeo
+  - name: youtube
+    type: text
+    config:
+      required: false
+    label: Youtube
+  - name: video
+    type: file
+    config:
+      maxSize: 64
+    label: Video
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
   label: Video 1
-  description: Vimeo Link
-- name: video_2
-  type: text
-  config:
-    required: false
-  label: Video 2
-  description: Vimeo Link
-- name: video_3
-  type: text
-  config:
-    required: false
-  label: Video 3
-  description: Vimeo Link
-- name: video_4
-  type: text
-  config:
-    required: false
-  label: Video 4
