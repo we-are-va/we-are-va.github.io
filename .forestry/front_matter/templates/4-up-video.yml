@@ -34,3 +34,78 @@ fields:
       required: false
     label: Caption
   label: Video 1
+- name: video_2
+  type: field_group
+  config: {}
+  fields:
+  - name: vimeo
+    type: text
+    config:
+      required: false
+    label: Vimeo
+  - name: youtube
+    type: text
+    config:
+      required: false
+    label: Youtube
+  - name: video
+    type: file
+    config:
+      maxSize: 64
+    label: Video
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
+  label: Video 2
+- name: video_3
+  type: field_group
+  config: {}
+  fields:
+  - name: vimeo
+    type: text
+    config:
+      required: false
+    label: Vimeo
+  - name: youtube
+    type: text
+    config:
+      required: false
+    label: Youtube
+  - name: video
+    type: file
+    config:
+      maxSize: 64
+    label: Video
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
+  label: Video 3
+  - name: video_4
+  type: field_group
+  config: {}
+  fields:
+  - name: vimeo
+    type: text
+    config:
+      required: false
+    label: Vimeo
+  - name: youtube
+    type: text
+    config:
+      required: false
+    label: Youtube
+  - name: video
+    type: file
+    config:
+      maxSize: 64
+    label: Video
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
+  label: Video 4
