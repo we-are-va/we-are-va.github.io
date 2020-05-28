@@ -9,7 +9,7 @@ services:
 - Website Design
 - Website Development
 banner_image: ''
-hero_video: ''
+hero_video: "/uploads/mic_hero-1.mp4"
 teaser_image: "/uploads/mic_teaser_1400x963.jpg"
 sub_heading: Freedom within limits
 brand_primary_color: "#063325"
