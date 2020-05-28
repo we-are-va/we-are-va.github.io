@@ -8,7 +8,7 @@ services:
 - Print Design
 - Website Design
 - Website Development
-banner_image: "/uploads/mic_hero.mp4"
+banner_image: ''
 hero_video: ''
 teaser_image: "/uploads/mic_teaser_1400x963.jpg"
 sub_heading: Freedom within limits
