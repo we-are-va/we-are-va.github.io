@@ -39,6 +39,9 @@ page_sections:
     image: "/uploads/MIC-handbook-covers.gif"
   headline: ''
   content: ''
+- template: video-element
+  block: video-element
+  youtube_id: A57XzAuFQjs
 - template: gallery
   block: gallery
   gallery:
