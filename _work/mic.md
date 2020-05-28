@@ -8,7 +8,7 @@ services:
 - Print Design
 - Website Design
 - Website Development
-banner_image: "/uploads/mic_hero_1600x1000-2.jpg"
+banner_image: "/uploads/mic_hero.mp4"
 hero_video: ''
 teaser_image: "/uploads/mic_teaser_1400x963.jpg"
 sub_heading: Freedom within limits
@@ -62,7 +62,8 @@ order: 1
 ---
 ## MIC (Montessori International College) is an independent, non-denominational school renowned for its innovative learning spaces and highly experienced and dedicated teachers.
 
-MIC came to VA to help develop and create their brand identity. 
+  
+MIC came to VA to help develop and create their brand identity.
 
 A process of workshops had generated a plethora of ideas which the college had honed into a fantastic vision for their future. The vision was grand, incorporating the larger community into their school and stepping beyond traditional models of educational systems into something broader and more relevant to the day and age we live in.
 
