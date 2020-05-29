@@ -14,7 +14,13 @@ key_service: Packaging Design
 slug: ''
 brand_primary_color: "#1B84AF"
 brand_secondary_color: "#00A3E0"
-page_sections: []
+page_sections:
+- template: video-element
+  block: video-element
+  vimeo_id: "422668387"
+  caption: 3D rendered launch video for social media
+  video: ''
+  youtube_id: ''
 svg_for_animation: "/uploads/10toes_logo.svg"
 banner_animation:
   animation_style: zoom
