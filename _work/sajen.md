@@ -22,15 +22,16 @@ page_sections:
   block: gallery
   full_width: true
   gallery:
-  - "/uploads/sajen_website_1.png"
-  - "/uploads/sajen_website_2.png"
-  - "/uploads/sajen_website_3.png"
-  - "/uploads/sajen_website_4.png"
-  - "/uploads/sajen_website_6.png"
-  - "/uploads/sajen_website_7.png"
-  - "/uploads/sajen_website_8.png"
-  - "/uploads/sajen_website_9.png"
-  - "/uploads/sajen_website_5.png"
+  - "/uploads/sajen_website_new_1.png"
+  - "/uploads/sajen_website_new_2.png"
+  - "/uploads/sajen_website_new_3.png"
+  - "/uploads/sajen_website_new_4.png"
+  - "/uploads/sajen_website_new_5.png"
+  - "/uploads/sajen_website_new_6.png"
+  - "/uploads/sajen_website_new_7.png"
+  - "/uploads/sajen_website_new_8.png"
+  - "/uploads/sajen_website_new_9.png"
+  - "/uploads/sajen_website_new_10.png"
 - template: 1-column-text
   block: one-column-1
   content: "## Never static, always on. \n\nThe new Sajen website is easily navigable
