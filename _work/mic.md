@@ -56,7 +56,7 @@ page_sections:
   - "/uploads/MIC-Brand-Guidelines-09.jpg"
   - "/uploads/MIC-Brand-Guidelines-10.jpg"
   full_width: true
-client_logo: "/uploads/miclogo.svg"
+client_logo: "/uploads/mic_logo_rgb_stacked_white.svg"
 order: 1
 
 ---
