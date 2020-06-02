@@ -56,7 +56,7 @@ $(function() {
 
   
 
-  // $('.row-work .work-teaser').matchHeight();
+  $('.row-work .work-teaser').matchHeight();
 
 
   $( document ).ready(function() {
