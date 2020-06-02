@@ -36,7 +36,7 @@ body {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1460px) {
     .container{
         max-width: 1360px;
     }
@@ -166,7 +166,7 @@ h4, .h4 {
 }
 
 $link-color: $white;
-$link-hover: #888;
+$link-hover: #fff;
 $text-arrow-space: 16px;
 $shaft-width: 64px;
 $shaft-thickness: 2px;
@@ -199,8 +199,8 @@ $arrow-head-thickness: $shaft-thickness;
           background-position: 100%;
 
           &:hover{
-            transition: all 0.3s cubic-bezier(0.000, 0.000, 0.230, 1);
-            background-position: 0%;
+           // transition: all 0.3s cubic-bezier(0.000, 0.000, 0.230, 1);
+           // background-position: 0%;
             
             .the-arrow {
                 transform: translateX(10px);
@@ -288,7 +288,7 @@ $arrow-head-thickness: $shaft-thickness;
       }
 
       > .shaft {
-        background-color: $gray;
+        background-color: $white;
         display: block;
         height: $shaft-thickness;
         position: relative;
@@ -298,7 +298,7 @@ $arrow-head-thickness: $shaft-thickness;
 
         &:before,
         &:after {
-          background-color: $gray;
+          background-color: $white;
           content: '';
           display: block;
           height: $arrow-head-thickness;

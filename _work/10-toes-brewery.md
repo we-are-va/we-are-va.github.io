@@ -11,7 +11,7 @@ banner_image: "/uploads/10-toes-can-artwork_02.jpg"
 hero_video: ''
 sector: Hospitality
 key_service: Packaging Design
-slug: ''
+slug: '' 
 brand_primary_color: "#1B84AF"
 brand_secondary_color: "#00A3E0"
 page_sections:

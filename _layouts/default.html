@@ -33,7 +33,7 @@
 
 </head>
 
-<body class='page {{page.bodyClass}}'>
+<body class="page {{ page.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout %} layout-{{ page.layout }}{% endif %}">
 
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBSFRG"

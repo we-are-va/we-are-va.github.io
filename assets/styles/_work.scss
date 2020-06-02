@@ -5,6 +5,24 @@
 // *******
 // Work list
 // *******
+.third {
+  @include media-breakpoint-up(lg) {
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+}
+.half {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.sixty {
+  flex: 0 0 60%;
+  max-width: 60%;
+}
+.fourty {
+  flex: 0 0 40%;
+  max-width: 40%;
+}
 .row-work {
 	.col-work {
 		a {
@@ -17,6 +35,41 @@
 				object-fit: cover;
 			}
 		}
+    
+
+      // &.teaser-0 {
+          
+      // }
+      // &.teaser-2 {
+        
+      // }
+      // &.teaser-4 {
+      //   @extend .third;
+      // }
+      // &.teaser-6 {
+      //   @extend .third;
+      // }
+      // &.teaser-8 {
+      //   @extend .third;
+      // }
+      // &.teaser-10 {
+      //   @extend .fourty;
+      // }
+      // &.teaser-12 {
+      //   @extend .sixty;
+      // }
+      // &.teaser-14 {
+      //   @extend .half;
+      // }
+      // &.teaser-16 {
+      //   @extend .half;
+      // }
+      // &.teaser-18 {
+      //   @extend .sixty;
+      // }
+      // &.teaser-20 {
+      //   @extend .fourty;
+      // }
  	}
 }
 
@@ -134,7 +187,10 @@
     background: rgb(0,0,0);
     background: linear-gradient(0deg, rgba(0,0,0,0.49763655462184875) 0%, rgba(0,0,0,0) 100%);
     z-index: 5;
-  
+    
+    body.noosa-festival-of-surfing & {
+      background: transparent;
+    }
 
       @include media-breakpoint-up(md) {
         h1 {
