@@ -1,6 +1,8 @@
 ---
 order: 5
-services: []
+services:
+- Packaging
+- POS
 layout: work-single
 related_landing_page: []
 client_logo: "/uploads/10toes_logo.svg"
@@ -11,25 +13,18 @@ banner_image: "/uploads/10-toes-can-artwork_02.jpg"
 hero_video: ''
 sector: Hospitality
 key_service: Packaging Design
-slug: '' 
+slug: ''
 brand_primary_color: "#1B84AF"
 brand_secondary_color: "#00A3E0"
-page_sections:
-- template: video-element
-  block: video-element
-  vimeo_id: "422668387"
-  caption: 3D rendered launch video for social media
-  video: ''
-  youtube_id: ''
+page_sections: []
 svg_for_animation: "/uploads/10toes_logo.svg"
 banner_animation:
   animation_style: zoom
   animation_size: '40'
-published: false
 
 ---
 ## We love a beer with our neighbours!
 
 ## Uniting all walks of life from a chin wag over a knock off frothy to wooing Mr/Mrs Right.
 
-## No matter what you do 10 Toes have the developed brew for you.
+## No matter what you do 10 Toes have the  brew for you.
