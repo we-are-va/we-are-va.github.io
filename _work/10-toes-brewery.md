@@ -25,6 +25,10 @@ banner_animation:
 ---
 ## We love a beer with our neighbours!
 
-## Uniting all walks of life from a chin wag over a knock off frothy to wooing Mr/Mrs Right.
+## Uniting all walks of life for all kinds of reasons from a chin wag over a knock off frothy to helping you woo Mr/Mrs Right.
 
-## No matter what you do 10 Toes have the  brew for you.
+## No matter what is going on in life 10 Toes have the  brew for you.
+
+Coming to VA with a new logo and a stalled packaging design project we jumped at the chance to help develop a strong brand. This will be spearheaded into the market via an amazing label design for both their core range and their seasonal and experimental brews.  
+  
+VA worked hand in glove with owner and chief brewer **Rupert Hall** to get this design on point and roll it out across not only the cans but all supporting collateral both physical and digital.
