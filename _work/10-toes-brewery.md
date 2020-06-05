@@ -16,7 +16,13 @@ key_service: Packaging Design
 slug: ''
 brand_primary_color: "#1B84AF"
 brand_secondary_color: "#00A3E0"
-page_sections: []
+page_sections:
+- template: video-element
+  block: video-element
+  video: ''
+  caption: ''
+  youtube_id: ''
+  vimeo_id: ''
 svg_for_animation: "/uploads/10toes_logo.svg"
 banner_animation:
   animation_style: zoom
