@@ -19,6 +19,12 @@ brand_secondary_color: "#00A3E0"
 page_sections:
 - template: video-element
   block: video-element
+  video: "/uploads/untitled-design.mp4"
+  caption: ''
+  youtube_id: ''
+  vimeo_id: ''
+- template: video-element
+  block: video-element
   video: ''
   caption: ''
   youtube_id: ''
