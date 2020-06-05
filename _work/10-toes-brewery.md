@@ -25,7 +25,7 @@ page_sections:
   vimeo_id: ''
 - template: video-element
   block: video-element
-  video: ''
+  video: "/uploads/untitled-design-1.mp4"
   caption: ''
   youtube_id: ''
   vimeo_id: ''
