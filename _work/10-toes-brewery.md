@@ -10,7 +10,7 @@ title: 10 Toes Brewery
 sub_heading: Uniting all walks of life for a chin wag over a knock off frothy
 teaser_image: "/uploads/10-toes-can-artwork_02.jpg"
 banner_image: "/uploads/10-toes-can-artwork_02.jpg"
-hero_video: ''
+hero_video: "/uploads/untitled-design.mp4"
 sector: Hospitality
 key_service: Packaging Design
 slug: ''
@@ -23,16 +23,10 @@ page_sections:
   caption: ''
   youtube_id: ''
   vimeo_id: ''
-- template: video-element
-  block: video-element
-  video: ''
-  caption: ''
-  youtube_id: ''
-  vimeo_id: ''
-svg_for_animation: "/uploads/10toes_logo.svg"
+svg_for_animation: ''
 banner_animation:
-  animation_style: zoom
-  animation_size: '40'
+  animation_style: ''
+  animation_size: ''
 
 ---
 ## We love a beer with our neighbours!
