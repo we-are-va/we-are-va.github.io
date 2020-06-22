@@ -22,8 +22,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Tony Kelly
-  content: “We couldn’t have been happier with the work you and your team have done
-    for us."<br>
+  content: '## “We couldn’t have been happier with the work you and your team have
+    done for us."'
 - template: 2-column-media-element
   block: media-2
   image_2:
@@ -35,7 +35,7 @@ page_sections:
   media_alignment: Right
   media:
     image: "/uploads/Spero-550-x-750px-03.jpg"
-  content: '"Sexy greek with large biceps but little form. Often awkward and careless
+  content: '## "Sexy greek with large biceps but little form. Often awkward and careless
     but may be the greatest lover you ever have"'
   headline: Urban Dictionary
 - template: gallery
