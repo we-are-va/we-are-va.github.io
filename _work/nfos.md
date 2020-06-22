@@ -13,7 +13,7 @@ banner_image: "/uploads/NFOS-1600-x-1000px-Hero.jpg"
 hero_video: ''
 sub_heading: Get swept up in the romance and living art of longboarding.
 brand_primary_color: "#0073cf"
-brand_secondary_color: "#ed2939"
+brand_secondary_color: "#FFFFFF"
 slug: ''
 layout: work-single
 page_sections:
