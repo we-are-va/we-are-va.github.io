@@ -174,7 +174,7 @@ $arrow-head-width: 10px;
 $arrow-head-thickness: $shaft-thickness;
 
 .link-arrow {
-    font-size: 2em;
+    font-size: 1.5em;
     color: $white;
     font-style: normal;
     font-weight: 700;
@@ -231,12 +231,12 @@ $arrow-head-thickness: $shaft-thickness;
     .the-arrow {
       display: inline-block;
       position: relative;
-      top: -10px;
+      top: -7px;
       width: $shaft-width;
       transition: all 0.2s;
      
       &.-left {
-        top: -10px;
+        top: -7px;
 
         > .shaft {
           width: $shaft-width;
@@ -264,7 +264,7 @@ $arrow-head-thickness: $shaft-thickness;
       
       &.-right {
 
-        top: -10px;
+        top: -7px;
         
         > .shaft {
           width: $shaft-width;
@@ -320,6 +320,9 @@ $arrow-head-thickness: $shaft-thickness;
     }
 }
 
+.va-link {
+  cursor: url('/dist/images/arrow-rocketred.png'), auto;
+}
 
 .alert {
   background: $red;

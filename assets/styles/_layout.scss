@@ -65,7 +65,7 @@ header {
       font-size: .875rem;
       left: -10px;
       position: relative;
-      top: -20px;
+      top: -14px;
       text-transform: uppercase;
       -webkit-transform: rotate(90deg) translateX(-100%);
       -ms-transform: rotate(90deg) translateX(-100%);
@@ -73,6 +73,7 @@ header {
       -webkit-transform-origin: 0 100%;
       -ms-transform-origin: 0 100%;
       transform-origin: 0 100%;
+      cursor: default;
     }
     &:after {
       display: block;
@@ -80,10 +81,7 @@ header {
       -webkit-animation: btnScrollLine 1.5s 0s infinite cubic-bezier(.645,.045,.355,1) both;
       animation: btnScrollLine 1.5s 0s infinite cubic-bezier(.645,.045,.355,1) both;
       background-color: #fff;
-      height: 76px;
-      -webkit-transform-origin: left bottom;
-      -ms-transform-origin: left bottom;
-      transform-origin: left bottom;
+      height: 90px;
       width: 1px;
     }
 }

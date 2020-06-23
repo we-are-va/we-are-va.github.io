@@ -33,6 +33,15 @@
 			img {
 				height: 100%;
 				object-fit: cover;
+        @include media-breakpoint-up(md) {
+          min-height: 200px;
+        }
+        @include media-breakpoint-up(lg) {
+          min-height: 300px;
+        }
+        @include media-breakpoint-up(xl) {
+          min-height: 430px;
+        }
 			}
 		}
     
@@ -188,9 +197,12 @@
     background: linear-gradient(0deg, rgba(0,0,0,0.49763655462184875) 0%, rgba(0,0,0,0) 100%);
     z-index: 5;
     
-    body.noosa-festival-of-surfing & {
+    &.hide-gradient {
       background: transparent;
     }
+    // body.noosa-festival-of-surfing & {
+    //   background: transparent;
+    // }
 
       @include media-breakpoint-up(md) {
         h1 {

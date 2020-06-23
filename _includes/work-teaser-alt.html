@@ -1,4 +1,9 @@
-<div class="card work-teaser work-teaser-alt mb-2 mb-md-0" style="background-color: {{ project.brand_primary_color }}">
+{% if project.tile_background_color and project.tile_background_color != "" %}
+	{% capture bgcolor %}{{ project.tile_background_color }}{% endcapture %}
+{% else %}
+	{% capture bgcolor %}{{ project.brand_primary_color }}{% endcapture %}
+{% endif %}
+<div class="card work-teaser work-teaser-alt mb-2 mb-md-0" style="background-color: {{ bgcolor }}">
 	<h3>{{ project.title }}</h3>
 	<a href="{{ project.url | absolute_url }}" title="{{ project.title }}">
 		<figure>

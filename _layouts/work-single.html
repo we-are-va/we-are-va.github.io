@@ -24,15 +24,18 @@ layout: default
 		{% endif %}
 	{% endif %}
 	 
-	<div class="position-absolute hero-title">
+	{% if page.hide_gradient_overlay %}
+		{% capture hide %}hide-gradient{% endcapture %}
+	{% endif %}
+	<div class="position-absolute hero-title {{ hide }}">
 		<div class="container">
 				<h1 class="page-title">{{ page.title }}</h1>
 				<h3>{{ page.sub_heading }}</h3>
 		</div>
 	</div>
 
-
-
+	{% if page.hide_title_and_description %}
+	{% endif %}
 
 
 
@@ -50,7 +53,7 @@ layout: default
 </style>
 	   {% endif %}
 
-<button class="btn-scroll"><span class="text">Scroll</span></button>
+<div class="btn-scroll"><span class="text">Scroll</span></div>
 
 </section>
 
@@ -62,7 +65,7 @@ layout: default
 		
 			<div class="col-md-8">
 				
-				
+
 				<h4 class="hero-color">Project</h4>
 				{{ page.content  | markdownify }}
 
