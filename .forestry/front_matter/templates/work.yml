@@ -28,6 +28,11 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: hide_title_and_description
+  type: boolean
+  label: Hide Title & Subheading
+  description: Check if you want to hide the Title and Description overlay on the
+    single work layout.
 - name: teaser_image
   type: file
   config:
