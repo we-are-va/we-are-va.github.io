@@ -108,12 +108,12 @@
 		<div class="pure-u-1">
 			<div class="content">
 				
-				<div class="row py-4">
+				<div class="row py-3">
 					
 					<div class="col-md-8">
 						
 						<h1>Starting a new project or want to collaborate with us?</h1>
-						<h2 class="h1">Get in touch on <a href="tel:+61754437525" class="link-tel">+61 7 5443 7525</a> or <a href="mailto:info@weareva.com.au" class="link-email">info@weareva.com.au</a></h2>
+						<h2 class="h1">Get in touch on <a href="tel:+61754437525" class="d-inline-block va-link link-tel">+61 7 5443 7525</a> or <a href="mailto:info@weareva.com.au" class="link-email va-link">info@weareva.com.au</a></h2>
 						
 					</div>
 
@@ -123,14 +123,14 @@
 	</div>
 </section>
 
-<section class="section-contact-us pt-7 bg-grey">
+<section class="section-contact-us pt-1 bg-grey">
 	<div class="container pure-g">
 		<div class="pure-u-1">
 			<div class="content content-narrow">
 								
-				<div class="row pt-3">
+				<div class="row pb-1 pt-1">
 						
-						<div class="col-sm-4">
+						<div class="col-sm-2">
 							<h3>Find Us</h3>
 						</div>
 
@@ -139,29 +139,29 @@
 						</div>
 						
 				</div>
-				<div class="row pb-3">
+				<div class="row pb-1">
 						
-						<div class="col-sm-4">
+						<div class="col-sm-2">
 							<h3>Work with Us</h3>
 						</div>
 
 						<div class="col-sm-5">
-							<h3>Send your folio to <a href="mailto:info@weareva.com.au" class="link-email">info@weareva.com.au</a></h3>
+							<h3>Send your folio to <a href="mailto:info@weareva.com.au" class="va-link link-email">info@weareva.com.au</a></h3>
 						</div>
 						
 				</div>
 
 				<div class="row">
 						
-						<div class="col-sm-4">
+						<div class="col-sm-2">
 							<h3>Follow us</h3>
 						</div>
 
 						<div class="col-sm-5">
 							<ul class="h3 list-unstyled">
-			                    <li><a class="social-link" target="_blank" href="https://www.facebook.com/thevariousartists/">Facebook</a></li>
-			                    <li><a class="social-link" target="_blank" href="https://www.instagram.com/thevariousartists_au/">Instagram</a></li>
-			                    <li><a class="social-link" target="_blank" href="https://www.linkedin.com/company/the-various-artists/about/">LinkedIn</a></li>
+			                    <li><a class="social-link va-link" target="_blank" href="https://www.facebook.com/thevariousartists/">Facebook</a></li>
+			                    <li><a class="social-link va-link" target="_blank" href="https://www.instagram.com/thevariousartists_au/">Instagram</a></li>
+			                    <li><a class="social-link va-link" target="_blank" href="https://www.linkedin.com/company/the-various-artists/about/">LinkedIn</a></li>
 			                </ul>
 						</div>
 						
@@ -205,8 +205,8 @@
 							    .setView([-26.672445, 153.096538], 16);
 
 							var wearvaIcon = L.icon({
-							        iconUrl: '/assets/images/logo-bw.svg',
-							        iconSize: [60, 31], // size of the icon
+							        iconUrl: '/assets/images/mapmarkerva.svg',
+							        iconSize: [100, 75], // size of the icon
 							        });
 
 						   var marker = L.marker([-26.672445, 153.096538], {icon: wearvaIcon}).addTo(map);
@@ -333,8 +333,10 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js" integrity="sha256-+oeQRyZyY2StGafEsvKyDuEGNzJWAbWqiO2L/ctxF6c=" crossorigin="anonymous"></script>
   
+  <script type="text/javascript" src="/dist/scripts/jquery.event.move.js"></script>
+  <script type="text/javascript" src="/dist/scripts/jquery.twentytwenty.js"></script>
+
   <script type="text/javascript" src="/dist/scripts/main.js"></script>
-  <script type="text/javascript" src="/dist/scripts/cocoen.min.js"></script>
 
   <script>
 
@@ -358,6 +360,7 @@
       mirror: false, // whether elements should animate out while scrolling past them
       anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
 
+     // $('.row-work .work-teaser').matchHeight();
     });
 
 
