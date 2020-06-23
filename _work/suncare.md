@@ -98,6 +98,8 @@ svg_for_animation: "/uploads/waves.svg"
 banner_animation:
   animation_style: draw
   animation_size: '100'
+hide_title_and_description: false
+tile_background_color: "#FF8F70"
 
 ---
 ## Suncare’s core business is to understand community needs and develop innovative responses for people who are ageing, living with a disability or mental illness. Every brand interaction regardless of platform had to reflect this value - VA was set to work.
