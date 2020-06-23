@@ -33,6 +33,9 @@ fields:
   label: Hide Title & Subheading
   description: Check if you want to hide the Title and Description overlay on the
     single work layout.
+- name: hide_gradient_overlay
+  type: boolean
+  label: Hide Gradient overlay on hero
 - name: teaser_image
   type: file
   config:
