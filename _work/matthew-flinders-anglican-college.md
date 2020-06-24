@@ -25,10 +25,10 @@ page_sections:
   media:
     image: "/uploads/mfac_secondary-photo-02.jpg"
   headline: Brand Building
-  content: Comprehensive brand guidelines were updated to reflect the new elements
+  content: "#### Comprehensive brand guidelines were updated to reflect the new elements
     and ensure that any future brand bearer could confidently navigate the brand with
     ease and ensure consistency and continuity. VA were also responsible for designing
-    a myriad of sub-logos that paid homage to the parent brand.
+    a myriad of sub-logos that paid homage to the parent brand."
 - template: full-width-media-element
   block: media-1
   image: "/uploads/MFAC_investigator-2018-01-1.jpg"
@@ -112,6 +112,8 @@ svg_for_animation: "/uploads/discover_flinders.svg"
 banner_animation:
   animation_size: '40'
   animation_style: zoom
+hide_title_and_description: true
+hide_gradient_overlay: true
 
 ---
 ## One of the leading Prep to Grade 12 schools across the Sunshine Coast. Matthew Flinders Anglican College embodies the values of courage, respect, compassion and integrity.
