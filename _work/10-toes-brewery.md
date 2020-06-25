@@ -14,7 +14,7 @@ hero_video: ''
 sector: Hospitality
 key_service: Packaging Design
 slug: ''
-brand_primary_color: "#2C2C2C"
+brand_primary_color: "#222222"
 brand_secondary_color: "#00A3E0"
 page_sections:
 - template: 2-column-media-element
