@@ -36,7 +36,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  content: "#### Coming to VA with a new logo and a stalled packaging design project
+  content: "## Coming to VA with a new logo and a stalled packaging design project
     we jumped at the chance to help develop a strong brand. This will be spearheaded
     into the market via an amazing label design for both their core range and their
     seasonal and experimental brews."
@@ -62,7 +62,7 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  content: "#### VA worked hand in glove with owner and chief brewer Rupert Hall to
+  content: "## VA worked hand in glove with owner and chief brewer Rupert Hall to
     get this design on point and roll it out across not only the cans but all supporting
     collateral both physical and digital."
   headline: ''
@@ -84,7 +84,7 @@ page_sections:
   - "/uploads/va_folio_10toes_guidelines_1.jpg"
   - "/uploads/va_folio_10toes_guidelines_2.jpg"
   - "/uploads/va_folio_10toes_guidelines_3.jpg"
-  full_width: false
+  full_width: true
 svg_for_animation: ''
 banner_animation:
   animation_style: ''
