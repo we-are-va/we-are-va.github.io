@@ -55,7 +55,7 @@ page_sections:
   - "/uploads/va_folio_10toes_poster_v-p-1.jpg"
   - "/uploads/va_folio_10toes_poster_lager-1.jpg"
   - "/uploads/va_folio_10toes_poster_ipa-1.jpg"
-  full_width: false
+  full_width: true
 - template: full-width-media-element
   block: media-1
   image: "/uploads/va_folio_10toes_coasters.png"
