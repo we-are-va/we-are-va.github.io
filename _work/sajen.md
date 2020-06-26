@@ -70,6 +70,7 @@ svg_for_animation: "/uploads/sajenlegal_white-1.svg"
 banner_animation:
   animation_style: zoom
   animation_size: '40'
+hide_on_work_page: false
 
 ---
 ## Sajen Legal is a Law Firm with a difference. Operating across the Sunshine Coast the firm has developed a fierce reputation that has yielded results for their clients without tedious compromise.

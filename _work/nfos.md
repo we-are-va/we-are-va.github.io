@@ -58,6 +58,7 @@ page_sections:
 order: 25
 client_logo: "/uploads/noosa-festival-of-surf-logo.svg"
 hide_gradient_overlay: true
+hide_on_work_page: false
 
 ---
 ## The Noosa Festival of Surfing is one of the Sunshine Coast’s most renowned events. An eight-day celebration of the art of longboarding.

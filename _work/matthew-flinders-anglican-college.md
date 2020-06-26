@@ -114,6 +114,7 @@ banner_animation:
   animation_style: zoom
 hide_title_and_description: true
 hide_gradient_overlay: true
+hide_on_work_page: false
 
 ---
 ## One of the leading Prep to Grade 12 schools across the Sunshine Coast. Matthew Flinders Anglican College embodies the values of courage, respect, compassion and integrity.

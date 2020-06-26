@@ -11,11 +11,12 @@ layout: default
 		
 		<div class="row-work row d-flex align-items-end py-3">
 		{% assign projects = site.work | sort: "order" %}
-		{% for project in projects %}
+	    {% assign visible_projects = projects | where: "hide_on_work_page", "false" %}
+		{% for project in visible_projects %}
 			
 					<div class="col-work col-md-6 p-md-2 teaser-{% increment column %}" data-aos-delay="{% increment column %}0" data-aos="fade-up">
 						{% include work-teaser-alt.html %}
-					</div>
+					</div> 
 		
 		{% endfor %}
 	</div>

@@ -257,7 +257,35 @@ video::-webkit-media-controls {
 .block-gallery {
   .carousel-cell {
     margin-right: 1em;
+
   }
+  .slider {
+   // background: #EEE;
+     img {
+      display: block;
+      height: 500px;
+
+      @include media-breakpoint-up(md) {
+        height: 600px;
+        height: 90vh;
+        margin: 0 1em;
+      }
+    }
+    &.slider-portrait {
+      img {
+        display: block;
+        width: 90%;
+
+        @include media-breakpoint-up(md) {
+          width: 65%;
+          height: auto;
+          margin: 0 1em;
+        }
+      }
+    }
+  }
+
+
   .flickity-prev-next-button {
     transition: all 0.3s ease;
   }
@@ -265,7 +293,7 @@ video::-webkit-media-controls {
     .dot {
       background: $white;
     }
-  }
+  } 
 }
 
 .next-work {

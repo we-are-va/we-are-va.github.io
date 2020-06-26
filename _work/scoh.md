@@ -66,6 +66,7 @@ page_sections:
     image: "/uploads/open_house_banner.jpg"
 banner_image: "/uploads/open_house_hero.jpg"
 order: 99
+hide_on_work_page: false
 
 ---
 ## Sunshine Coast Open House is a free event, which provides visitors with the rare opportunity to tour architecturally diverse, well-designed and historic buildings across the region.

@@ -58,6 +58,7 @@ page_sections:
   full_width: true
 client_logo: "/uploads/mic_logo_rgb_stacked_white.svg"
 order: 1
+hide_on_work_page: false
 
 ---
 ## MIC (Montessori International College) is an independent, non-denominational school renowned for its innovative learning spaces and highly experienced and dedicated teachers.

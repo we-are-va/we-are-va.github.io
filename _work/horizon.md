@@ -65,6 +65,7 @@ page_sections:
 banner_image: "/uploads/Horizon2019_hero.jpg"
 client_logo: "/uploads/horizon-date-logo.svg"
 order: 10
+hide_on_work_page: false
 
 ---
 ## 220 events, 10 days, one big party. HORIZON Festival of Arts & Culture was Sunshine Coast Council's first major region-wide arts celebration, debuting in September 2016 and we’ve been with them ever since.

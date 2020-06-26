@@ -48,6 +48,7 @@ svg_for_animation: "/uploads/background-element_paelaw.svg"
 banner_animation:
   animation_size: '100'
   animation_style: draw
+hide_on_work_page: false
 
 ---
 ## Planning and Environmental law is a complex area of the law and often fueled by passionate parties - it requires a calm demure, professional approach and thorough understanding of the law to negotiate the best result for all. P&E certainly ticks those boxes and with VA’s latest brand roll-out, they now look the part too.

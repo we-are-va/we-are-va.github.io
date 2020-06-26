@@ -67,6 +67,7 @@ page_sections:
   - "/uploads/helimods_guidelines_3.jpg"
   - "/uploads/helimods_guidelines_4.jpg"
   - "/uploads/helimods_guidelines_5.jpg"
+hide_on_work_page: false
 
 ---
 ## HeliMods deliver world leading aerospace products and services to both local and international providers. An innovative business that thrives on solving complex problems and backed by world class technologies - VA are thrilled to work alongside a business that so neatly aligns with our principals.

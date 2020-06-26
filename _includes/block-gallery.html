@@ -5,15 +5,16 @@
 	<div class="container">
   	{% endif %}
   		<div class="py-1 py-md-4">
-			
-			<div class="slider" data-flickity='{ "wrapAround": true, "imagesLoaded": true, "percentPosition": false }'>
+			{% if section.portrait_photos %}
+				<div class="slider" data-flickity='{ "wrapAround": true, "imagesLoaded": true, "percentPosition": false }'>
+			{% else %}
+				<div class="slider slider-portrait" data-flickity='{ "wrapAround": true, "imagesLoaded": true, "percentPosition": false }'>
+			{% endif %}	
 
 			      {% for img in section.gallery %}
-				     <div class="carousel-cell">
-				     	<div class="slide-inner">
-				          <img class="w-100 d-block mx-1" src="{{ img | relative_url }}" alt="">
-				      	</div>
-				      </div>
+				    
+				          <img class="carousel-image" src="{{ img | relative_url }}">
+				
 			      {% endfor %}
 
 			 </div>
