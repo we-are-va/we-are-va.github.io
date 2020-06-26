@@ -17,3 +17,6 @@ fields:
 - name: full_width
   type: boolean
   label: Full Width
+- name: portrait_photos
+  type: boolean
+  label: Portrait Photos
