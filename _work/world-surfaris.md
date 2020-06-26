@@ -43,6 +43,7 @@ page_sections:
   - "/uploads/world_surfaris_website_5.jpg"
   - "/uploads/world_surfaris_website_4.jpg"
   full_width: true
+  portrait_photos: false
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -82,6 +83,7 @@ page_sections:
   - "/uploads/world_surfaris_pressad_3.jpg"
   - "/uploads/world_surfaris_pressad_4.jpg"
   full_width: false
+  portrait_photos: false
 - template: gallery
   block: gallery
   gallery:
@@ -96,6 +98,7 @@ page_sections:
   - "/uploads/world_surfaris_guidelines9.jpg"
   - "/uploads/world_surfaris_guidelines10.jpg"
   full_width: true
+  portrait_photos: false
 teaser_image: "/uploads/world-surfaris-teaser-1.jpg"
 client_logo: "/uploads/ws.svg"
 hero_video: ''
@@ -110,6 +113,7 @@ banner_animation:
 hide_title_and_description: true
 hide_gradient_overlay: false
 tile_background_color: ''
+hide_on_work_page: false
 
 ---
-## A working relationship that spans over a decade. World Surfaris is a full-service international travel agency that specialises in surfing holidays and represents a diverse range of “unique surf adventures” catering to all standards of surfers and budgets.
+## A working relationship that spans over a decade. World Surfaris is a full-service international travel agency that specialises in surfing holidays and represents a diverse range of “unique surf adventures” catering to all standards of surfers and budgets. 

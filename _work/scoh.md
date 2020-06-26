@@ -70,4 +70,4 @@ order: 99
 ---
 ## Sunshine Coast Open House is a free event, which provides visitors with the rare opportunity to tour architecturally diverse, well-designed and historic buildings across the region.
 
-## VA were delighted to provide a range of creative collateral for the inaugural event.
+## VA were delighted to provide a range of creative collateral for the inaugural event. 
