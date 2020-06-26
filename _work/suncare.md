@@ -16,7 +16,6 @@ hero_video: ''
 sub_heading: Creating a Compassionate Brand
 brand_primary_color: "#363534"
 brand_secondary_color: "#ff8f70"
-tile_background_color: "#FF8F70"
 slug: ''
 layout: work-single
 page_sections:
@@ -100,7 +99,7 @@ banner_animation:
   animation_style: draw
   animation_size: '100'
 hide_title_and_description: false
-
+tile_background_color: "#FF8F70"
 
 ---
 ## Suncare’s core business is to understand community needs and develop innovative responses for people who are ageing, living with a disability or mental illness. Every brand interaction regardless of platform had to reflect this value - VA was set to work.
