@@ -56,6 +56,7 @@ page_sections:
   - "/uploads/va_folio_10toes_poster_lager-1.jpg"
   - "/uploads/va_folio_10toes_poster_ipa-1.jpg"
   full_width: true
+  portrait_photos: true
 - template: full-width-media-element
   block: media-1
   image: "/uploads/va_folio_10toes_coasters.png"
@@ -85,6 +86,7 @@ page_sections:
   - "/uploads/va_folio_10toes_guidelines_2.jpg"
   - "/uploads/va_folio_10toes_guidelines_3.jpg"
   full_width: true
+  portrait_photos: false
 svg_for_animation: ''
 banner_animation:
   animation_style: ''
@@ -92,6 +94,7 @@ banner_animation:
 hide_title_and_description: false
 hide_gradient_overlay: false
 tile_background_color: "#000000"
+hide_on_work_page: false
 
 ---
 ## Uniting all walks of life for all kinds of reasons from a chin wag over a knock off frothy to helping you woo Mr/Mrs Right. No matter what is going on in life 10 Toes have the  brew for you.

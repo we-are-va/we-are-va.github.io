@@ -9,9 +9,6 @@ fields:
     maxSize: 64
   label: Client Logo
   description: Upload an SVG of the client logo
-- name: hide_on_work_page
-  type: boolean
-  label: Hide on work page
 - type: text
   name: title
   label: Title
@@ -31,6 +28,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: hide_on_work_page
+  type: boolean
+  label: Hide on work page
 - name: hide_title_and_description
   type: boolean
   label: Hide Title & Subheading
