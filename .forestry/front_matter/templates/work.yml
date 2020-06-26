@@ -9,6 +9,9 @@ fields:
     maxSize: 64
   label: Client Logo
   description: Upload an SVG of the client logo
+- name: hide_on_work_page
+  type: boolean
+  label: Hide on work page
 - type: text
   name: title
   label: Title
