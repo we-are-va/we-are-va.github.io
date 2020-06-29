@@ -28,12 +28,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Website
-  content: "**Sifting through the nuances of international surf travel to find you
-    dream wave in a world that expects instant pricing, lightning-fast loading and
-    a visual feast for the eyes - you’ll need a team that understands data hierarchy,
-    can integrate with third party API’s and know their Mentawais from their Maldives.**\n\n##
-    Still, dreaming of surfing? \n\n**World Surfaris’ website will narrow down your
-    dream surf trip for you quickly, quietly and look damn fine doing it.**"
+  content: |-
+    #### Sifting through the nuances of international surf travel to find you dream wave in a world that expects instant pricing, lightning-fast loading and a visual feast for the eyes - you’ll need a team that understands data hierarchy, can integrate with third party API’s and know their Mentawais from their Maldives.
+
+    #### Still, dreaming of surfing?
+
+    #### World Surfaris’ website will narrow down your dream surf trip for you quickly, quietly and look damn fine doing it.
 - template: gallery
   block: gallery
   gallery:
@@ -48,11 +48,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Digital Marketing
-  content: 'VA have worked hand in glove with the World Surfaris marketing team since
-    2009. Over this time we’ve built a tremendous amount of trust. Always ready to
-    try new ‘new’ things, VA has consistently delivered everytime the World Surfaris
+  content: "#### VA have worked hand in glove with the World Surfaris marketing team
+    since 2009. Over this time we’ve built a tremendous amount of trust. Always ready
+    to try new ‘new’ things, VA has consistently delivered everytime the World Surfaris
     team said “I have this idea…” and we’ve not been shy in coming up with our own
-    ideas. '
+    ideas."
   media:
     image: "/uploads/world_surfaris_surfboards.jpg"
     alt_text: ''
@@ -70,7 +70,7 @@ page_sections:
   media:
     image: "/uploads/world-surfaris_img_maldives.jpg"
     alt_text: ''
-  content: "## From developing content platforms to tap into whole new demographics
+  content: "#### From developing content platforms to tap into whole new demographics
     through to sophisticated ‘always on marketing’ techniques that use multiple trigger
     points to remind and entice users, We Are VA are proud of our long standing friendship
     with the World Surfaris team."
