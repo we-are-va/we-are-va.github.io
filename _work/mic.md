@@ -48,19 +48,12 @@ page_sections:
     community. Creating an experience that left an impression and a marked point of
     difference that the school could adopt from the brand’s inception, through the
     years of growth and into the dazzling future that the vision delivers."
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    content: "### For our part - It was both a tremendous opportunity and challenge.
-      With the vision to guide us and access to staff, students and the school’s thought
-      leaders, VA started with design thinking workshops, developing users and honing
-      in on brand archetypes."
-  col_2:
-    content: "### The culmination of this deep thinking and insights from the school
-      community, allowed us to lay a logical but also imaginative framework with which
-      to create four concepts for presentation. Each concept had it's own relevant
-      story and catered to the history of the school as well as offering flexibility
-      to carry it into the future."
+- template: 1-column-text
+  block: one-column-1
+  content: |-
+    ### For our part - It was both a tremendous opportunity and challenge. With the vision to guide us and access to staff, students and the school’s thought leaders, VA started with design thinking workshops, developing users and honing in on brand archetypes.
+
+    ### The culmination of this deep thinking and insights from the school community, allowed us to lay a logical but also imaginative framework with which to create four concepts for presentation. Each concept had it's own relevant story and catered to the history of the school as well as offering flexibility to carry it into the future.
 - template: gallery
   block: gallery
   gallery:
