@@ -23,6 +23,9 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/mic-1200-x-750px-07_v2.png"
+- template: video-element
+  block: video-element
+  youtube_id: A57XzAuFQjs
 - template: 1-column-text
   block: one-column-1
   content: "### A process of workshops had generated a plethora of ideas which the
@@ -34,13 +37,6 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/mic_information_booklet.jpg"
-- template: gallery
-  block: gallery
-  gallery:
-  - "/uploads/MIC-1200-x-750px-02.jpg"
-  - "/uploads/MIC-1200-x-750px-03.jpg"
-  - "/uploads/MIC-1200-x-750px-04.jpg"
-  full_width: true
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -52,9 +48,30 @@ page_sections:
     community. Creating an experience that left an impression and a marked point of
     difference that the school could adopt from the brand’s inception, through the
     years of growth and into the dazzling future that the vision delivers."
-- template: video-element
-  block: video-element
-  youtube_id: A57XzAuFQjs
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: "### For our part - It was both a tremendous opportunity and challenge.
+      With the vision to guide us and access to staff, students and the school’s thought
+      leaders, VA started with design thinking workshops, developing users and honing
+      in on brand archetypes."
+  col_2:
+    content: "### The culmination of this deep thinking and insights from the school
+      community, allowed us to lay a logical but also imaginative framework with which
+      to create four concepts for presentation. Each concept had it's own relevant
+      story and catered to the history of the school as well as offering flexibility
+      to carry it into the future."
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/MIC-1200-x-750px-02.jpg"
+  - "/uploads/MIC-1200-x-750px-03.jpg"
+  - "/uploads/MIC-1200-x-750px-04.jpg"
+  full_width: true
+- template: 1-column-text
+  block: one-column-1
+  content: "### Once MIC had chosen a concept We Are VA were able to create the practical
+    applications that would display and incorporate the new brand."
 - template: gallery
   block: gallery
   gallery:
