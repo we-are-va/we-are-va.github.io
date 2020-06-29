@@ -47,7 +47,11 @@ page_sections:
   media:
     image: "/uploads/MIC-handbook-covers.gif"
   headline: ''
-  content: ''
+  content: "### Imperative to the vision was a brand that not only catered to the
+    existing advocates of the school but also incorporated and welcomed the larger
+    community. Creating an experience that left an impression and a marked point of
+    difference that the school could adopt from the brand’s inception, through the
+    years of growth and into the dazzling future that the vision delivers."
 - template: video-element
   block: video-element
   youtube_id: A57XzAuFQjs
