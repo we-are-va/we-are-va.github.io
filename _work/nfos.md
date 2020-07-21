@@ -19,7 +19,7 @@ layout: work-single
 page_sections:
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/NFOS-Logo-Animation-1200px.gif"
+  image: "/uploads/nfos-logo-animation-1200px_no-bg.gif"
 - template: gallery
   block: gallery
   gallery:
@@ -36,13 +36,13 @@ page_sections:
     so it’s seamless! No last-minute panic with printers and suppliers. Great creative,
     hassle-free service and reliable delivery.”"
   media:
-    image: "/uploads/nfos-press-ad-1.jpg"
+    image: "/uploads/nfos_press-ad.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/nfos-comp-bag-1.jpg"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/nfos-program-cov-1.jpg"
+  image: "/uploads/nfos-mockups_spread-1.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/nfos-program-pullout-1.jpg"
