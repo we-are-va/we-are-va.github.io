@@ -20,9 +20,6 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/pande_logo-03.jpg"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/paelaw_web.jpg"
 - template: 1-column-text
   block: one-column-1
   headline: Professionalism and Impact
@@ -32,7 +29,7 @@ page_sections:
     of their practice; fairness and balance."
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/pandelaw_stationery.jpg"
+  image: "/uploads/p-e_stationary_01b.jpg"
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -42,6 +39,14 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/pandelaw_sign.jpg"
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/paelaw_web_1.png"
+  - "/uploads/paelaw_web_3.png"
+  - "/uploads/paelaw_web_4.png"
+  - "/uploads/paelaw_web_2.png"
+  full_width: true
 client_logo: "/uploads/pandelaw_logo.svg"
 order: 99
 svg_for_animation: "/uploads/background-element_paelaw.svg"
