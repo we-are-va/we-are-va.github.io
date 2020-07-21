@@ -36,7 +36,7 @@ page_sections:
     so it’s seamless! No last-minute panic with printers and suppliers. Great creative,
     hassle-free service and reliable delivery.”"
   media:
-    image: "/uploads/nfos_press-ad.jpg"
+    image: "/uploads/nfos_press-ad3.jpg"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/nfos-comp-bag-1.jpg"
