@@ -2,7 +2,7 @@
 layout: landing-page
 title: In the beginning of the internet, there were only "static"​ sites.
 sub_heading: ''
-banner_image: "/uploads/0-1-2.jpg"
+banner_image: "/uploads/0-1.png"
 page_sections: []
 
 ---
