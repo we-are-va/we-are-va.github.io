@@ -13,8 +13,8 @@ page_sections: []
 * Your email database had a great open rate a year ago but now is funnelled into hidden folders inside your users inbox if not in the spam bucket.
 * Sending a newsletter on a constant basis is becoming a grind
 
-We worked for a Sydney Based Driving School who fondly recalled that the ONLY thing he needed to do 20 years ago was pay for a Yellow pages advertising. We scoff at Yellow Pages now thinking that we are so much more sophisticated but as a business owner myself I can understand his pining for simpler (and cheaper) times  
-  
+We worked for a Sydney Based Driving School who fondly recalled that the ONLY thing he needed to do 20 years ago was pay for  Yellow Pages advertising. We scoff at Yellow Pages now thinking that we are so much more sophisticated but as a business owner myself I can understand his pining for simpler (and cheaper) times
+
 **Business marketing has never been more complicated or expensive!**
 
 Short of abandoning the bulk of these channels it isn't going to get any easier.
