@@ -2,7 +2,7 @@
 layout: landing-page
 title: Man on Wire
 sub_heading: ''
-banner_image: ''
+banner_image: "/uploads/0-1-1.jpg"
 page_sections: []
 
 ---
