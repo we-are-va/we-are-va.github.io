@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-title: 'The case for a small agency team '
+title: 'The case for the small agency team '
 sub_heading: ''
 banner_image: ''
 page_sections:
