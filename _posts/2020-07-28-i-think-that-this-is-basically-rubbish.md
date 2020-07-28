@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-title: I think that this is basically rubbish
+title: I think that this is dangerous rubbish
 sub_heading: ''
 banner_image: "/uploads/0-1.jpg"
 page_sections: []
