@@ -7,6 +7,27 @@ fields:
   config:
     required: false
   label: Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: people
+      file: 
+      path: 
+  label: Author
 - name: sub_heading
   type: text
   config:
