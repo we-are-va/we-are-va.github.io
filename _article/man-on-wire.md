@@ -6,6 +6,13 @@ date: 2017-09-22 00:00:00 +1000
 sub_heading: ''
 banner_image: ''
 page_sections:
+- template: 1-column-text
+  block: one-column-1
+  content: |-
+    How this came to be has a back story. Years of painful site deployments, crashed servers and general misery for VA and our clients.
+
+    Solving this is and now sticking to our guns in this area is one of the best things we every did.
+  headline: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -35,7 +42,3 @@ page_sections:
 
 ---
 ## For the last few years VA has only been prepared to work on websites that have development/staging/production environments and git for version control.
-
-How this came to be has a back story. Years of painful site deployments, crashed servers and general misery for VA and our clients.
-
-Solving this is and now sticking to our guns in this area is one of the best things we every did.
