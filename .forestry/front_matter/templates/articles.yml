@@ -58,6 +58,6 @@ fields:
   config:
     required: false
   label: layout
-  default: landing-page
+  default: article-single
 pages:
 - _article/man-on-wire.md

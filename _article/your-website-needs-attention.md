@@ -1,5 +1,5 @@
 ---
-layout: landing-page
+layout: article-single
 title: Your website needs attention
 sub_heading: ''
 banner_image: ''
