@@ -1,5 +1,5 @@
 ---
-layout: landing-page
+layout: article-single
 title: I think that this is dangerous rubbish
 sub_heading: ''
 banner_image: "/uploads/0-1.jpg"

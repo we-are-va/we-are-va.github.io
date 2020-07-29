@@ -1,5 +1,5 @@
 ---
-layout: landing-page
+layout: article-single
 title: 'The case for the small agency team '
 sub_heading: ''
 banner_image: ''
