@@ -12,6 +12,9 @@ collections:
   people:
     output: true
     permalink: "/about/:path/"
+  article:
+    output: true
+    permalink: "/article/:path/"
   work:
     output: true
     permalink: "/work/:path/"
