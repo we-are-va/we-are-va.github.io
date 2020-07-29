@@ -1,0 +1,53 @@
+---
+layout: default
+---
+{% comment %}
+	This layout is used to by articles.md to display all of documents in
+	the _articles/ collection
+{% endcomment %}
+
+
+
+<!-- <section class="section section-hero">
+	
+	{% if page.hero_video and page.hero_video != "" %}
+		<div class="hero-video" data-vide-bg="{{ page.hero_video | relative_url }}" data-vide-options="position: 0% 0%"></div>
+	{% else %}
+		{% if page.hero_image and page.hero_image != "" %}
+		<img class="d-block w-100" src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
+		{% endif %}
+	{% endif %}
+	 
+	
+
+</section> -->
+
+<div class="container py-8">
+		
+
+		
+
+		<div class="row-work row d-flex align-items-end py-3">
+			
+			<div class="col-12">
+				<h1>Articles</h1>
+			</div>
+
+		{% for post in site.article %}
+			
+			<article class="col-12 article-teaser mb-2 pb-2 border-bottom">
+			<h2><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+			{% if post.sub_heading and post.sub_heading != "" %}
+						          	<p class="mb-0">{{ post.sub_heading }} 
+						          	<a title="Read {{ post.title }}" class="btn btn-secondary btn-sm text-primary" href="{{ post.url | absolute_url }}">Read More</a>
+						          </p>
+						          {% else %}
+						          	<p>{{ post.content | strip_html | truncatewords: 20 }}</p>
+						          	<a title="Read {{ post.title }}" class="btn btn-secondary btn-sm text-primary" href="{{ post.url | absolute_url }}">Read More</a>
+						          {% endif %}
+
+			</article>
+
+		{% endfor %}
+	</div>
+</div>

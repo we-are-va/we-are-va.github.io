@@ -3,7 +3,7 @@ layout: landing-page
 title: Your website needs attention
 sub_heading: ''
 banner_image: ''
-page_sections: []
+related_posts: []
 
 ---
 A few short years we all assumed that the future was one in which a business could create a website, pay the hosting bill and generate leads (or sales) 24/7 for almost no cost.
