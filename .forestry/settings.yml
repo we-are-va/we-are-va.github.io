@@ -8,12 +8,12 @@ sections:
   label: Pages
   create: all
 - type: directory
-  path: _articles
-  label: Articles
-  create: documents
+  path: _article
+  label: Article
+  create: all
   match: "**/*"
   templates:
-  - post
+  - article
 - type: jekyll-posts
   label: Posts
   create: all
