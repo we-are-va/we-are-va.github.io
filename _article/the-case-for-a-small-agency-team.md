@@ -15,7 +15,6 @@ page_sections: []
 
 **_We worked for a Sydney Based Driving School who fondly recalled that the ONLY thing he needed to do 20 years ago was pay for  Yellow Pages advertising. We scoff at Yellow Pages now thinking that we are so much more sophisticated but as a business owner myself I can understand his pining for simpler (and cheaper) times._**
 
-##   
 Business marketing has never been more complicated or expensive!
 
 Short of abandoning the bulk of these channels it isn't going to get any easier.

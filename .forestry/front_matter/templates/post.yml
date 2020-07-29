@@ -38,5 +38,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _articles/your-website-needs-attention.md
