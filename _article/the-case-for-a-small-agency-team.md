@@ -4,6 +4,8 @@ title: 'The case for the small agency team '
 sub_heading: ''
 banner_image: ''
 page_sections: []
+date: 2020-07-13 00:00:00 +1000
+author: _people/wayne-mcfetridge.md
 
 ---
 * For most SME Digital marketing has not totally replaced all of your traditional marketing so now you have to do both.
