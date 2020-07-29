@@ -1,6 +1,6 @@
 ---
 author: _people/wayne-mcfetridge.md
-layout: landing-page
+layout: article-single
 title: Man on Wire
 date: 2017-09-22 00:00:00 +1000
 sub_heading: ''

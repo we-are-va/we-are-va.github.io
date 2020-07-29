@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+{% comment %}
+	This layout is used to generate custom landing page layouts,
+	e.g index.md and about.md
+{% endcomment %}
+
+<section class="section section-article-hero py-9 bg-dark">
+	 
+	<div class="hero-title">
+		<div class="container">
+			<div class="col-md-6 pl-0">
+				<h1 class="text-primary">{{ page.title }}</h1>
+				<h2>{{ page.sub_heading }}</h2>
+				{% if page.author and page.author != "" %}
+				<h3 class="text-light">By 
+				{% for item in page.author %}
+            	{% assign people = site.people | where:"path", item %}
+                {% for person in people %}
+				<span itemprop="name">{{ person.title }}</span></span></h5>
+               {% endfor %}
+            {% endfor %} 
+				</h3>
+				{% endif %}
+			</div>
+		</div>
+	</div>
+
+</section>
+
+
+	
+
+<div class="container section-main py-4 py-md-4">
+
+		<div class="row d-flex justify-content-between" data-aos="fade-in">
+		
+			<div class="col-md-8">
+
+				{% if page.banner_image and page.banner_image != "" %}
+	
+					<img class="d-block w-75 mb-2" src="{{ page.banner_image | relative_url }}" alt="{{ page.title }}">
+
+				{% else %}
+
+					<img class="d-block w-75 mb-2" src="https://source.unsplash.com/1600x900/?{{ page.title }}" alt="{{ page.title }}">
+
+				{% endif %}
+
+				
+				{{ page.content  | markdownify }}
+
+
+			</div>
+
+		</div>
+
+</div>
+
+
+{% for section in page.page_sections %} 
+	{% include block-{{ section.block }}.html %}
+{% endfor %} 
+
+
+<div class="container section-bottom">
+		
+		<div class="row py-4" data-aos="fade-in">
+
+			<a class="back-link" href="/articles">Back to all Articles</a>
+
+		</div>
+</div>
+<section class="section section-cta bg-dark">
+	
+	<div class="container py-6">
+		{% include calltoaction.html %}
+	</div>
+	
+</section>

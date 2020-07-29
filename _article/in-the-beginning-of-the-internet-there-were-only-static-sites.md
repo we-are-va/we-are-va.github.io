@@ -1,5 +1,5 @@
 ---
-layout: landing-page
+layout: article-single
 title: In the beginning of the internet, there were only "static"​ sites.
 sub_heading: ''
 banner_image: "/uploads/0-1.png"

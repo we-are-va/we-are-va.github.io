@@ -25,29 +25,77 @@ layout: default
 <div class="container py-8">
 		
 
+		<div class="row-work row d-flex py-3">
+						
+			{% assign articles = site.article | sort: 'date' | reverse %}
+
+			{% for post in articles limit:1 %}
+			
+				<article class="col-md-12 article-teaser article-feature mb-2 pb-2 border-bottom">
+					
+					<div class="row align-items-center">
+						<div class="col-md-6 pr-0">
+							<a title="{{ post.title }}" href="{{ post.url | absolute_url }}">
+							<figure>
+								{% if post.banner_image and post.banner_image != "" %}
+									{% picture teasers {{ post.banner_image }} --alt {{ post.title }} %}
+								{% else %} 
+									<img class="w-100 d-block" src="https://www.fillmurray.com/640/360" alt="{{ post.title }}">
+								{% endif %}
+							</figure>
+							</a>
+						</div>
+						<div class="col-6 pl-0">
+
+							<div class="p-3 col-inner h-100">
+							
+								<h2><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+					
+								<p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+								    
+								<a title="Read {{ post.title }}" class="btn btn-secondary btn-sm text-primary" href="{{ post.url | absolute_url }}">Read More</a>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</article>
+
+			{% endfor %}
+
+			{% for post in articles offset:1 limit:99 %}
+			
+				<article class="col-md-4 article-teaser mb-2 pb-2">
+					
+							<a title="{{ post.title }}" href="{{ post.url | absolute_url }}">
+							<figure class="m-0">
+								{% if post.banner_image and post.banner_image != "" %}
+									{% picture teasers {{ post.banner_image }} --alt {{ post.title }} %}
+								{% else %} 
+									<img class="w-100 d-block" src="https://www.fillmurray.com/640/360" alt="{{ post.title }}">
+								{% endif %}
+							</figure>
+							</a>
+							<div class="p-1 col-inner mH">
+							<h2><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+
+				
+									{% if post.sub_heading and post.sub_heading != "" %}
+							          	<p class="mb-0">{{ post.sub_heading }} 
+							          	<a title="Read {{ post.title }}" class="btn btn-secondary btn-sm text-primary" href="{{ post.url | absolute_url }}">Read More</a>
+							          </p>
+							          {% else %}
+							          	<p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+							          	<a title="Read {{ post.title }}" class="btn btn-secondary btn-sm text-primary" href="{{ post.url | absolute_url }}">Read More</a>
+							          {% endif %}
+
 		
 
-		<div class="row-work row d-flex align-items-end py-3">
-			
-			<div class="col-12">
-				<h1>Articles</h1>
-			</div>
+							</div>
+				</article>
 
-		{% for post in site.article %}
-			
-			<article class="col-12 article-teaser mb-2 pb-2 border-bottom">
-			<h2><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-			{% if post.sub_heading and post.sub_heading != "" %}
-						          	<p class="mb-0">{{ post.sub_heading }} 
-						          	<a title="Read {{ post.title }}" class="btn btn-secondary btn-sm text-primary" href="{{ post.url | absolute_url }}">Read More</a>
-						          </p>
-						          {% else %}
-						          	<p>{{ post.content | strip_html | truncatewords: 20 }}</p>
-						          	<a title="Read {{ post.title }}" class="btn btn-secondary btn-sm text-primary" href="{{ post.url | absolute_url }}">Read More</a>
-						          {% endif %}
-
-			</article>
-
-		{% endfor %}
+			{% endfor %}
 	</div>
 </div>
