@@ -7,6 +7,13 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+- type: directory
+  path: _articles
+  label: Articles
+  create: documents
+  match: "**/*"
+  templates:
+  - post
 - type: jekyll-posts
   label: Posts
   create: all
