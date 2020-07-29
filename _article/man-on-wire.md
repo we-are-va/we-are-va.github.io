@@ -3,14 +3,32 @@ layout: landing-page
 title: Man on Wire
 sub_heading: ''
 banner_image: "/uploads/0-1-1.jpg"
-page_sections: []
+page_sections:
+- template: ''
+  block: ''
+  image: ''
+  full_width: ''
+  gallery: ''
+  headline: ''
+  content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: |-
+    From Wikipedia -
+
+    > In software deployment, an **environment** or **tier** is a computer system in which a computer program or software component is deployed and executed. In simple cases, such as developing and immediately executing a program on the same machine, there may be a single environment, but in industrial use the _development_ environment (where changes are originally made) and _production_ environment (what end users use) are separated; often with several stages in between. This structured release management process allows phased deployment (rollout), testing, and rollback in case of problems.
+  media:
+    image: "/uploads/paelaw_web_3.png"
 
 ---
 ## For the last few years VA has only been prepared to work on websites that have development/staging/production environments and git for version control.
 
-From Wikipedia -
+How this came to be has a back story. Years of painful site deployments, crashed servers and general misery for VA and our clients.
 
-> In software deployment, an **environment** or **tier** is a computer system in which a computer program or software component is deployed and executed. In simple cases, such as developing and immediately executing a program on the same machine, there may be a single environment, but in industrial use the _development_ environment (where changes are originally made) and _production_ environment (what end users use) are separated; often with several stages in between. This structured release management process allows phased deployment (rollout), testing, and rollback in case of problems.
+Solving this is and now sticking to our guns in this area is one of the best things we every did.
+
+***
 
 Mostly we implement this environment by hosting the site ourselves but sometimes we meet resistance from potential clients who want to keep control. We applaud that goal and don't mind working on other servers provided they have development/staging/production environments with git. :-)
 
