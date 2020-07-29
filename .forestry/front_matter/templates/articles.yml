@@ -59,3 +59,5 @@ fields:
     required: false
   label: layout
   default: landing-page
+pages:
+- _article/man-on-wire.md
