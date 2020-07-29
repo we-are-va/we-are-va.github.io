@@ -40,5 +40,20 @@ page_sections:
 
       _FYI - The "_[_highwire without a net_](http://www.magpictures.com/manonwire/)_" did work out for the guy in the picture so its not all bad news._
     headline: ''
+- template: video-element
+  block: video-element
+  vimeo_id: "441191867"
+  video: ''
+  caption: ''
+  youtube_id: ''
+- template: gallery
+  block: gallery
+  gallery:
+  - "/uploads/va_folio_10toes_product_pale-ale.jpg"
+  - "/uploads/va_folio_10toes_product_v-p.jpg"
+  - "/uploads/va_folio_10toes_product_lager.jpg"
+  - "/uploads/va_folio_10toes_product_ipa.jpg"
+  full_width: true
+  portrait_photos: true
 
 ---
