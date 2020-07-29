@@ -4,6 +4,8 @@ title: Your website needs attention
 sub_heading: ''
 banner_image: ''
 related_posts: []
+date: 2020-06-30 00:00:00 +1000
+author: _people/wayne-mcfetridge.md
 
 ---
 A few short years we all assumed that the future was one in which a business could create a website, pay the hosting bill and generate leads (or sales) 24/7 for almost no cost.
