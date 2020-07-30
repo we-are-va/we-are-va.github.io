@@ -63,7 +63,7 @@ $(function() {
     //   new Cocoen(element);
     // });
 
-    
+    $('.mH').matchHeight();
 
     // Image Comparison
     $(".twentytwenty-container").twentytwenty({
