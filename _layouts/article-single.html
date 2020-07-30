@@ -7,21 +7,35 @@ layout: default
 	e.g index.md and about.md
 {% endcomment %}
 
-<section class="section section-article-hero py-9 bg-dark">
-	 
-	<div class="hero-title">
+<section class="section section-article-hero bg-dark">
+	
+
+
+	{% if page.banner_image and page.banner_image != "" %}
+		<style>
+		.section-article-hero:before {
+			background-image: url('{{ page.banner_image | relative_url }}');
+		}
+		</style>
+		
+	{% endif %}
+
+	<div class="hero-title pt-9 pb-4">
 		<div class="container">
-			<div class="col-md-6 pl-0">
-				<h1 class="text-primary">{{ page.title }}</h1>
+			<div class="col-lg-7 pl-0">
+				<h1 class="text-primary mb-0">{{ page.title }}</h1>
+				{% if page.sub_heading and page.sub_heading != "" %}
+					<h3 class="text-light">{{ page.sub_heading }}</h3>
+				{% endif %}
 				{% if page.author and page.author != "" %}
-				<h3 class="text-light">By 
+				<h4 class="text-light">By 
 				{% for item in page.author %}
             	{% assign people = site.people | where:"path", item %}
                 {% for person in people %}
 				<span itemprop="name">{{ person.title }}</span></span></h5>
                {% endfor %}
-            {% endfor %} 
-				</h3>
+            	{% endfor %} 
+				</h4>
 				{% endif %}
 			</div>
 		</div>
@@ -36,19 +50,7 @@ layout: default
 
 		<div class="row d-flex justify-content-between" data-aos="fade-in">
 		
-			<div class="col-md-8">
-
-				{% if page.banner_image and page.banner_image != "" %}
-	
-					<img class="d-block w-75 mb-2" src="{{ page.banner_image | relative_url }}" alt="{{ page.title }}">
-
-				{% else %}
-
-					<img class="d-block w-75 mb-2" src="https://source.unsplash.com/1600x900/?{{ page.title }}" alt="{{ page.title }}">
-
-				{% endif %}
-
-				<h2 class="text-primary">{{ page.sub_heading }}</h2>
+			<div class="col-lg-8">
 
 				{{ page.content  | markdownify }}
 
