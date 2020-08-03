@@ -2,7 +2,7 @@
 author: _people/wayne-mcfetridge.md
 layout: article-single
 title: Man on Wire
-date: 2017-09-12 00:00:00 +1000
+date: 2017-09-12T00:00:00.000+10:00
 sub_heading: For the last few years VA has only been prepared to work on websites
   that have development/staging/production environments and git for version control.
 banner_image: ''
@@ -13,8 +13,8 @@ From Wikipedia -
 
 > In software deployment, an **environment** or **tier** is a computer system in which a computer program or software component is deployed and executed. In simple cases, such as developing and immediately executing a program on the same machine, there may be a single environment, but in industrial use the _development_ environment (where changes are originally made) and _production_ environment (what end users use) are separated; often with several stages in between. This structured release management process allows phased deployment (rollout), testing, and rollback in case of problems.
 
-![](/uploads/0-1-2.jpg) 
- 
+
+
 Mostly we implement this environment by hosting the site ourselves but sometimes we meet resistance from potential clients who want to keep control. We applaud that goal and don't mind working on other servers provided they have development/staging/production environments with git. :-)
 
 I was going to write my own article to explain why a proper hosting setup is necessary from a site owners perspective but this [article](http://chrislema.com/staging-environment/) does a great job of it.
