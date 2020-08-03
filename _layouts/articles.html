@@ -26,6 +26,8 @@ layout: default
 			
 
 			<div class="row-work row d-flex py-3">
+
+				
 							
 				{% assign articles = site.article | sort: 'date' | reverse %}
 
@@ -40,7 +42,7 @@ layout: default
 									{% if post.banner_image and post.banner_image != "" %}
 										{% picture teasers {{ post.banner_image }} --alt {{ post.title }} %}
 									{% else %} 
-										<img class="w-100 d-block" src="https://www.fillmurray.com/640/360" alt="{{ post.title }}">
+										<img class="w-100 d-block" src="https://source.unsplash.com/640x360/?{{ post.title }}" alt="{{ post.title }}">
 									{% endif %}
 								</figure>
 								</a>
@@ -50,7 +52,8 @@ layout: default
 								<div class="p-3 col-inner h-100">
 								
 									<h2><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-						
+									<h4 class="text-dark">{{ post.date | date_to_long_string  }}</h4>
+								
 									<p class="text-dark">{{ post.content | strip_html | truncatewords: 45 }}</p>
 									    
 									<a title="Read {{ post.title }}" class="text-primary link-btn" href="{{ post.url | absolute_url }}">Read</a>
@@ -65,6 +68,7 @@ layout: default
 
 				{% endfor %}
 
+
 				{% for post in articles offset:1 limit:99 %}
 				
 					<article class="col-md-4 article-teaser mb-2 pb-2">
@@ -74,13 +78,14 @@ layout: default
 										{% if post.banner_image and post.banner_image != "" %}
 											{% picture teasers {{ post.banner_image }} --alt {{ post.title }} %}
 										{% else %} 
-											<img class="w-100 d-block" src="https://www.fillmurray.com/640/360" alt="{{ post.title }}">
+											<img class="w-100 d-block" src="https://source.unsplash.com/640x360/?{{ post.title }}" alt="{{ post.title }}">
 										{% endif %}
 									</figure>
 								</a>
 
 								<div class="p-2 col-inner mH">
 									<h3><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+										<h4 class="text-dark">{{ post.date | date_to_long_string  }}</h4>
 									
 									{% if post.sub_heading and post.sub_heading != "" %}
 							          	<p class="text-dark">{{ post.sub_heading }}</p>

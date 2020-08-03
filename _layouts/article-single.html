@@ -11,14 +11,14 @@ layout: default
 	
 
 
-	{% if page.banner_image and page.banner_image != "" %}
+	
 		<style>
 		.section-article-hero:before {
-			background-image: url('{{ page.banner_image | relative_url }}');
+			background-image: url('https://source.unsplash.com/1280x360/?{{ post.title }}');
 		}
 		</style>
 		
-	{% endif %}
+	
 
 	<div class="hero-title pt-9 pb-4">
 		<div class="container">
@@ -26,17 +26,9 @@ layout: default
 				<h1 class="text-primary mb-0">{{ page.title }}</h1>
 				{% if page.sub_heading and page.sub_heading != "" %}
 					<h3 class="text-light">{{ page.sub_heading }}</h3>
+					
 				{% endif %}
-				{% if page.author and page.author != "" %}
-				<h4 class="text-light">By 
-				{% for item in page.author %}
-            	{% assign people = site.people | where:"path", item %}
-                {% for person in people %}
-				<span itemprop="name">{{ person.title }}</span></span></h5>
-               {% endfor %}
-            	{% endfor %} 
-				</h4>
-				{% endif %}
+				<h4 class="text-light">{{ page.date | date_to_long_string  }}</h4>
 			</div>
 		</div>
 	</div>
