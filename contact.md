@@ -2,11 +2,11 @@
 title: Contact
 Description: Starting a new project or want to collaborate with us?
 layout: contact
-publish_date: '2017-12-01T04:00:00.000+00:00'
+publish_date: 2017-12-01T04:00:00.000+00:00
 menu:
   navigation:
     identifier: _contact
-    weight: 3
+    weight: 4
 
 ---
 ## Some awesome headline here about getting in touch with us.
