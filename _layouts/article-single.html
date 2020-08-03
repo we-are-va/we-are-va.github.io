@@ -22,8 +22,8 @@ layout: default
 
 	<div class="hero-title pt-9 pb-4">
 		<div class="container">
-			<div class="col-lg-7 pl-0">
-				<h1 class="text-primary mb-0">{{ page.title }}</h1>
+			<div class="col-lg-6 offset-lg-3 ">
+				<h1 class="text-primary mb-1">{{ page.title }}</h1>
 				<h4 class="text-primary">{{ page.date | date_to_long_string  }}</h4>
 				{% if page.sub_heading and page.sub_heading != "" %}
 					<h3 class="text-light">{{ page.sub_heading }}</h3>
@@ -43,7 +43,7 @@ layout: default
 
 		<div class="row d-flex justify-content-between" data-aos="fade-in">
 		
-			<div class="col-lg-8">
+			<div class="col-lg-6 offset-lg-3">
 
 				{{ page.content  | markdownify }}
 
@@ -63,9 +63,9 @@ layout: default
 <div class="container section-bottom">
 		
 		<div class="row py-4" data-aos="fade-in">
-
-			<a class="back-link" href="/articles">Back to all Articles</a>
-
+			<div class="col-lg-6 offset-lg-3">
+				<a class="back-link" href="/articles">Back to all Articles</a>
+			</div>
 	</div>
 </div>
 <section class="section section-cta bg-dark">
