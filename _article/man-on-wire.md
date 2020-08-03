@@ -2,8 +2,7 @@
 author: _people/wayne-mcfetridge.md
 layout: article-single
 title: Man on Wire
-date: 2017-09-22 00:00:00 +1000
-author: _people/wayne-mcfetridge.md
+date: 2017-09-12 00:00:00 +1000
 sub_heading: For the last few years VA has only been prepared to work on websites
   that have development/staging/production environments and git for version control.
 banner_image: "/uploads/0-1-2.jpg"

@@ -5,6 +5,7 @@ author: _people/wayne-mcfetridge.md
 sub_heading: ''
 banner_image: "/uploads/0-1.png"
 page_sections: []
+date: 2019-07-02 00:00:00 +1000
 
 ---
 These were handwritten HTML documents place on a web server so that internet users could access the content - the first one is still running here ([http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html "http://info.cern.ch/hypertext/WWW/TheProject.html"))
