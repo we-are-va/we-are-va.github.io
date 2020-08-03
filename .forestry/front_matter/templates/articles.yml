@@ -61,3 +61,4 @@ fields:
   default: article-single
 pages:
 - _article/man-on-wire.md
+- _article/the-right-way-to-build-your-website.md
