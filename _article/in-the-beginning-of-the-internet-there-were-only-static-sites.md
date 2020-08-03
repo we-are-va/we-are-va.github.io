@@ -3,7 +3,7 @@ layout: article-single
 title: In the beginning of the internet, there were only "static"​ sites.
 author: _people/wayne-mcfetridge.md
 sub_heading: ''
-banner_image: "/uploads/0-1.png"
+banner_image: ''
 page_sections: []
 date: 2019-07-02 00:00:00 +1000
 

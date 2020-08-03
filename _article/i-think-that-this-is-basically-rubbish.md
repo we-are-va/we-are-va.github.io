@@ -3,7 +3,7 @@ layout: article-single
 title: I think that this is dangerous rubbish
 author: _people/wayne-mcfetridge.md
 sub_heading: ''
-banner_image: "/uploads/0-1.jpg"
+banner_image: ''
 page_sections: []
 date: 2017-09-06 00:00:00 +1000
 
