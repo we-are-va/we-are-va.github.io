@@ -42,7 +42,7 @@ layout: default
 									{% if post.banner_image and post.banner_image != "" %}
 										{% picture teasers {{ post.banner_image }} --alt {{ post.title }} %}
 									{% else %} 
-										<img class="w-100 d-block" src="https://source.unsplash.com/collection/869152/640x360/?{{ post.title }}" alt="{{ post.title }}">
+										<img class="w-100 d-block" src="https://source.unsplash.com/640x360/?{{ post.title }}" alt="{{ post.title }}">
 									{% endif %}
 								</figure>
 								</a>
@@ -78,7 +78,7 @@ layout: default
 										{% if post.banner_image and post.banner_image != "" %}
 											{% picture teasers {{ post.banner_image }} --alt {{ post.title }} %}
 										{% else %} 
-											<img class="w-100 d-block" src="https://source.unsplash.com/collection/869152/640x360/?{{ post.title }}" alt="{{ post.title }}">
+											<img class="w-100 d-block" src="https://source.unsplash.com/640x360/?{{ post.title }}" alt="{{ post.title }}">
 										{% endif %}
 									</figure>
 								</a>
