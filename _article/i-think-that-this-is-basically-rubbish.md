@@ -5,6 +5,7 @@ author: _people/wayne-mcfetridge.md
 sub_heading: ''
 banner_image: "/uploads/0-1.jpg"
 page_sections: []
+date: 2017-09-06 00:00:00 +1000
 
 ---
 This morning I received an email marketing piece pushing online video creation with the following;
