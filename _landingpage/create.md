@@ -14,7 +14,13 @@ page_sections:
 ---
 ## We are bringing ideas to life...
 
-Ideas are great but only execution will define success. Translating our clients ‘ideas’ into tangible realities requires skill.
+Creating by defintion is to bring (something) into existence.
+
+If there was nothing and now there is something then "creation" has happened.
+
+A big part of VA's day to day life is to create. 
+
+New brands for new companies, new brands for existing companies, slogans, tag-lines , advertising ideas, hair brained ideas for articles.
 
 We create by…
 
