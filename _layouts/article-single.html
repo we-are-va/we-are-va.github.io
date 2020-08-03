@@ -24,11 +24,12 @@ layout: default
 		<div class="container">
 			<div class="col-lg-7 pl-0">
 				<h1 class="text-primary mb-0">{{ page.title }}</h1>
+				<h4 class="text-primary">{{ page.date | date_to_long_string  }}</h4>
 				{% if page.sub_heading and page.sub_heading != "" %}
 					<h3 class="text-light">{{ page.sub_heading }}</h3>
 					
 				{% endif %}
-				<h4 class="text-light">{{ page.date | date_to_long_string  }}</h4>
+				
 			</div>
 		</div>
 	</div>
