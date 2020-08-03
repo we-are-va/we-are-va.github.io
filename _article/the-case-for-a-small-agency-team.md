@@ -4,11 +4,14 @@ title: 'The case for the small agency team '
 sub_heading: ''
 banner_image: ''
 page_sections: []
-date: 2020-07-13 00:00:00 +1000
+date: 2020-07-13T00:00:00.000+10:00
 author: _people/wayne-mcfetridge.md
 
 ---
-### It has never been more complex or expensive to run your business marketing and in 2020 it is next to impossible DIY everything. You need a team that you can trust. 
+### It has never been more complex or expensive to run your business marketing and in 2020 it is next to impossible to "DIY everything". 
+
+### You need a team that you can trust.
+
 * For most SME Digital marketing has not totally replaced all of your traditional marketing so now you have to do both.
 * Social media promised free access to your audience and now with your organic reach in single digits you are faced with paid social media and close to zero audience growth.
 * Your website was pitched as a 24/7 salesman working in your absence to generate leads (and even sales) but now you need endless content and/or updates to battle to any relevant position in Google rankings.
