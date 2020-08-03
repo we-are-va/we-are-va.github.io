@@ -5,7 +5,7 @@ title: The right way to build your website.
 date: 2017-09-15 00:00:00 +1000
 sub_heading: Almost every single person who builds websites for others would follow
   a process very different to the one their clients are used to.
-banner_image: "/uploads/0-2.jpg"
+banner_image: ''
 page_sections: []
 
 ---
