@@ -3,6 +3,7 @@ layout: article-single
 title: Your website needs attention
 sub_heading: ''
 banner_image: ''
+hide_on_articles_page: false
 related_posts: []
 date: 2017-10-18 00:00:00 +1000
 author: _people/wayne-mcfetridge.md

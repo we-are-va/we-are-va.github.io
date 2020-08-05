@@ -30,8 +30,8 @@ layout: default
 				
 							
 				{% assign articles = site.article | sort: 'date' | reverse %}
-
-				{% for post in articles limit:1 %}
+	    		{% assign visible_articles = articles | where: "hide_on_articles_page", "false" %}
+				{% for post in visible_articles limit:1 %}
 				
 					<article class="col-md-12 article-teaser article-feature mb-2 pb-2 border-bottom">
 						
@@ -69,7 +69,7 @@ layout: default
 				{% endfor %}
 
 
-				{% for post in articles offset:1 limit:99 %}
+				{% for post in visible_articles offset:1 limit:99 %}
 				
 					<article class="col-md-4 article-teaser mb-2 pb-2">
 						

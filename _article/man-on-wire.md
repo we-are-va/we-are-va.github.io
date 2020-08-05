@@ -1,6 +1,7 @@
 ---
 author: _people/wayne-mcfetridge.md
 layout: article-single
+hide_on_articles_page: false
 title: Man on Wire
 date: 2017-09-12T00:00:00.000+10:00
 sub_heading: For the last few years VA has only been prepared to work on websites

@@ -1,6 +1,7 @@
 ---
 layout: article-single
 title: 'The case for the small agency team '
+hide_on_articles_page: false
 sub_heading: It has never been more complex or expensive to run your business marketing
   and in 2020 it is next to impossible to “DIY everything”. You need a team that you
   can trust.

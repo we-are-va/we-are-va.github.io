@@ -1,6 +1,7 @@
 ---
 layout: article-single
 title: I think that this is dangerous rubbish
+hide_on_articles_page: false
 author: _people/wayne-mcfetridge.md
 sub_heading: ''
 banner_image: ''
