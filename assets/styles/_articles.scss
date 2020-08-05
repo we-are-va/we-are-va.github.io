@@ -104,6 +104,7 @@
 .layout-article-single {
 	background: $light;
 	color: $dark;
+	
 
 	.section-article-hero {
 		position: relative;
@@ -121,21 +122,64 @@
 		background-position: center;
 		background-repeat: no-repeat;
 	}
+	.section-main {
+		img {
+			max-width: 140%;
+			margin-left: -20%;
+			margin-top: 1em;
+			margin-bottom: 1em;
+		}
+	}
 	.section-main, .block {
 		img {
 			//margin-top: -175px;
 			//border: solid 2px $dark;
 		}
 		h2,h3,h4,h5,.hero-color {
-			color: $primary-color;
+			color: $secondary-color;
+			font-weight: 600;
+		}
+		blockquote {
+			padding: 1em 0 0.5em 1.5em;
+			font-style: italic;
+			border-left: 3px solid $secondary-color;
 		}
 		.py-md-4, .py-4 {
 			padding-top: 2rem !important;
 			padding-bottom: 2rem !important;
 		}
+		a {
+			text-decoration: underline;
+		}
+		.body-text {
+			&:first-letter {
+				// font-size: 300%;
+				// font-weight: normal;
+				// float: left;
+				// line-height: .6;
+  		// 		font-family: $headings-font;
+			}
+		}
 		
 	}
+	.block {
+		.container {
+			.row {
+				justify-content: center;
+			}
+			.col-12 {
+				flex: 0 0 70%;
+				max-width: 70%;
 
+				@include media-breakpoint-down(md) {
+					position: relative;
+				    width: 100%;
+				    padding-right: 15px;
+				    padding-left: 15px;
+				}
+			}
+		}
+	}
 	.back-link {
 		font-size: 1.5em;
 		color: $primary-color;
