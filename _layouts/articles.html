@@ -52,7 +52,7 @@ layout: default
 								<div class="p-3 col-inner h-100">
 								
 									<h2><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-									<h4 class="text-dark">{{ post.date | date_to_long_string  }}</h4>
+									<h4 class="text-dark font-headings">{{ post.date | date_to_long_string  }}</h4>
 								
 									<p class="text-dark">{{ post.content | strip_html | truncatewords: 45 }}</p>
 									    
@@ -85,7 +85,7 @@ layout: default
 
 								<div class="p-2 col-inner mH">
 									<h3><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
-										<h4 class="text-dark">{{ post.date | date_to_long_string  }}</h4>
+										<h4 class="text-dark font-headings">{{ post.date | date_to_long_string  }}</h4>
 									
 									{% if post.sub_heading and post.sub_heading != "" %}
 							          	<p class="text-dark">{{ post.sub_heading }}</p>
