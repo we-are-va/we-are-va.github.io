@@ -19,11 +19,6 @@ page_sections:
   - "/uploads/0-1.png"
   full_width: false
   portrait_photos: false
-- template: gallery
-  block: gallery
-  gallery: []
-  full_width: false
-  portrait_photos: false
 - template: 1-column-text
   block: one-column-1
   content: If you can see the benefit we'd love to be involved on your web project
