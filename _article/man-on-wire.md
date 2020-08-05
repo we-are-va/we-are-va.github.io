@@ -12,19 +12,6 @@ page_sections:
   block: media-1
   image: "/uploads/0-1-1.jpg"
   caption: ''
-- template: gallery
-  block: gallery
-  gallery:
-  - "/uploads/0-1-1.jpg"
-  - "/uploads/0-1-2.jpg"
-  - "/uploads/0-1.png"
-  full_width: false
-  portrait_photos: false
-- template: 1-column-text
-  block: one-column-1
-  content: If you can see the benefit we'd love to be involved on your web project
-    and if not then we wish you good luck.
-  headline: ''
 
 ---
 From Wikipedia -
