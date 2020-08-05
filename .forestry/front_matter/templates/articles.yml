@@ -43,12 +43,9 @@ fields:
   label: Page Sections
   template_types:
   - 1-column-text
-  - 2-column-text
-  - 3-column-text
   - full-width-media-element
   - 2-column-media-element
   - video-element
-  - content-feature
   - gallery
   config:
     min: 
