@@ -5,7 +5,7 @@ sub_heading: ''
 banner_image: ''
 hide_on_articles_page: false
 related_posts: []
-date: 2017-10-18 00:00:00 +1000
+date: 2017-10-18T00:00:00.000+10:00
 author: _people/wayne-mcfetridge.md
 
 ---
@@ -44,4 +44,6 @@ If this all sounds like a money grab from web designers/developers then I encour
 * Teen fashion stores don't play _So Fresh: The Hits of Spring 2000_
 * A top level dept store doesn't have staff in 5 year old uniforms.
 
-Simply stated, your site will cost you time and money each and every year. As a guide I'd suggest that you allow 20-80% of your original build costs annually to keep your site moving forward and kicking goals for your business.
+Simply stated, your site will cost you time and money each and every year. As a guide I'd suggest that if you expect your site to be a 24/7 sales tool then consider the salary of a gun saleswoman and go from there.  
+  
+Your website is an investment not a cost.
