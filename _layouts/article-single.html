@@ -11,7 +11,7 @@ layout: default
 	
 		<style>
 		.section-article-hero:before {
-			background-image: url('https://source.unsplash.com/640x360/?{{ post.title }}');
+			background-image: url('https://source.unsplash.com/1500x500/?{{ post.title }}');
 		}
 		</style>
 		
@@ -40,6 +40,7 @@ layout: default
 		<div class="row d-flex justify-content-center" data-aos="fade-in">
 		
 			<div class="col-lg-6 body-text">
+		
 
 				{{ page.content  | markdownify }}
 
@@ -60,6 +61,13 @@ layout: default
 		
 		<div class="row py-4" data-aos="fade-in">
 			<div class="col-lg-6 offset-lg-3">
+			
+			<div class="share-panel">
+				<button class="share-button" data-sharer="twitter" data-title="Check out this article: {{ page.title }}" data-hashtags="weareva" data-url="{{ page.url | absolute_url }}">Share on Twitter</button>
+				<button class="share-button" data-sharer="facebook" data-hashtag="weareva" data-url="{{ page.url | absolute_url }}">Share on Facebook</button>
+				<button class="share-button" data-sharer="linkedin" data-url="{{ page.url | absolute_url }}">Share on Linkedin</button>
+			</div>
+
 				<a class="back-link" href="/articles">Back to all Articles</a>
 			</div>
 	</div>
