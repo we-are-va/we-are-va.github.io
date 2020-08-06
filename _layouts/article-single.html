@@ -62,14 +62,15 @@ layout: default
 		<div class="row py-4" data-aos="fade-in">
 			<div class="col-lg-6 offset-lg-3">
 			
-			<div class="share-panel">
-				{% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}
-				<button class="share-button" data-sharer="twitter" data-title="Check out this article: {{ page.title }}" data-hashtags="weareva" data-url="{{ url_path }}">Share on Twitter</button>
-				<button class="share-button" data-sharer="facebook" data-hashtag="weareva" data-url="{{ url_path }}">Share on Facebook</button>
-				<button class="share-button" data-sharer="linkedin" data-url="{{ url_path }}">Share on Linkedin</button>
-			</div>
+				<div class="share-panel">
+					{% capture url_path %}https://weareva.com.au{{page.url}}{% endcapture %}
+					<button class="share-button" data-sharer="twitter" data-title="Check out this article: {{ page.title }}" data-hashtags="weareva" data-url="{{ url_path }}">Share on Twitter</button>
+					<button class="share-button" data-sharer="facebook" data-hashtag="weareva" data-url="{{ url_path }}">Share on Facebook</button>
+					<button class="share-button" data-sharer="linkedin" data-url="{{ url_path }}">Share on Linkedin</button>
+				</div>
 
 				<a class="back-link" href="/articles">Back to all Articles</a>
+			
 			</div>
 	</div>
 </div>
