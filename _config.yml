@@ -2,6 +2,7 @@ title: The Various Artists
 short_title: weareva
 description: static site - booooom!
 baseurl: 
+url: https://weareva.com.au
 permalink: "/:path/"
 defaults:
   - scope:
@@ -12,6 +13,8 @@ collections:
   people:
     output: true
     permalink: "/about/:path/"
+    values:
+      sitemap: false
   article:
     output: true
     permalink: "/article/:path/"
@@ -23,6 +26,8 @@ collections:
     permalink: "/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag 
+
+
 plugins:
   - jekyll-menus
   - jekyll-feed
