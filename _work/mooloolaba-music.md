@@ -12,7 +12,7 @@ related_landing_page: []
 client_logo: "/uploads/mooloolaba-music-teaser-logo_mooloolaba-music_white.svg"
 title: Mooloolaba Music
 sub_heading: Bringing music to life
-hide_on_work_page: false
+hide_on_work_page: true
 hide_title_and_description: true
 hide_gradient_overlay: true
 teaser_image: "/uploads/mooloolaba_teaser-1.jpg"
@@ -63,6 +63,5 @@ page_sections:
   - "/uploads/mmc001_brand-guidelines_v1-10.jpg"
   full_width: true
   portrait_photos: false
-published: false
 
 ---
