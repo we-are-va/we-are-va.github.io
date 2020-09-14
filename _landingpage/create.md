@@ -12,15 +12,25 @@ page_sections:
     enterprise."
 
 ---
-## We are bringing ideas to life...
+## We bring ideas to life...
 
 Creating by defintion is to bring (something) into existence.
 
 If there was nothing and now there is something then "creation" has happened.
 
-A big part of VA's day to day life is to create. 
+New brands for new companies, new brands for existing companies, slogans, tag-lines and hair-brained ideas for articles and campaigns.
 
-New brands for new companies, new brands for existing companies, slogans, tag-lines , advertising ideas, hair brained ideas for articles.
+A big part of VA's day to day life is to create.
+
+### VA worked with MIC creating an identity that reflects their culture and values.
+
+To do this we were engaged help develop the personas of their key demographics. This helped us to ensure that we designed a brand that would appeal to the correct users. We conducted workshops to uncover their brand values and archetype. From this material we created mood boards followed by 4 full brand concepts of which the final choice was developed to be what you see today.
+
+#### VA created amazing new beer cans for 10 Toes brewery that encapsulated their ethos perfectly
+
+#### We created a whole new long form online editorial section for World Surfaris that help them corner X% more online traffic
+
+#### VA named and branded The Booking Box ......
 
 We create by…
 
