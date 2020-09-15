@@ -383,6 +383,10 @@ $arrow-head-thickness: $shaft-thickness;
       color: $white;
     }
   }
+
+  small {
+    display: none;
+  }
 }
 /* Nathan Lam
    June 2, 2017

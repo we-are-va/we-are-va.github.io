@@ -22,9 +22,9 @@
                     <div class="row d-flex justify-content-left">
                         {% assign people = site.people | shuffle %}
                         {% for person in people %}
-                            <article class="team-teaser col-md-4 mb-3" itemscope itemtype="http://schema.org/Person">
+                            <article class="team-teaser col-md-6 col-lg-4 mb-3" itemscope itemtype="http://schema.org/Person">
                                 <div class="post row">
-                                    <div class="post-header col-md-12 mb-1">
+                                    <div class="post-header col-md-12 mb-h">
                                     {% if person.thumbnail %}
                                         {% responsive_image_block %}
                                           path: {{ person.thumbnail | remove_first:'/'}}
@@ -38,8 +38,8 @@
                                         <img class="rounded-circle" alt="{{ person.title }}" src="{{ "/img/placeholder.png" | absolute_url }}>
                                     {% endif %}
                                     </div>
-                                    <div class="post-body col-md-12 text-left py-1">
-                                        <h3><span itemprop="name">{{ person.title }}</span></h3>
+                                    <div class="post-body col-md-12 text-left py-h">
+                                        <h3 class="mb-h"><span itemprop="name">{{ person.title }}</span></h3>
                                         {% if person.sub_heading %}
                                             <p class="title mb-h">{{ person.sub_heading }}</p>
                                         {% endif %}

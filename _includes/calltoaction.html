@@ -2,44 +2,41 @@
 
 	<h2 class="text-primary h1 mb-1">Questions?<br>We're here to help.</h2>
 	<h3 class="mb-2">We'd love to hear from you.</h3>
-	<a href="/contact" title="">Please contact us here</a>
-	<!-- <script type="text/javascript">var submitted=false;</script>
-	<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-	onload="if(submitted) {window.location='/thankyou';}"></iframe>
+	
 
-	<form id="enquiryform" class="enquiry-form" method="post" action="" target="hidden_iframe" onsubmit="submitted=true;">
+	{% include arrow-link.html url='/contact' direction="right" text='Get in Touch' %}
+	<!-- <form id="enquiryform" class="enquiry-form" method="POST" action="https://getform.io/f/85909a79-25e9-434e-b2b4-34d993402147">
 		
 		<div class="row">
 
 		<div class="form-group col-md-6">
 		    <label for="Name">Name</label>
-		    <input name="entry.156246134" type="text" class="form-control" id="Name" placeholder="" required>
+		    <input name="name" type="text" class="form-control" id="Name" placeholder="" required rules="required|max:255">
 		</div>
 
 		<div class="form-group col-md-6">
 		    <label for="Business">Email</label>
-		    <input name="emailAddress" type="text" class="form-control" id="Business" placeholder="" required>
+		    <input name="email" type="text" class="form-control" id="Business" placeholder="" required rules="required|max:255">
 		</div>
 
 		<div class="form-group col-md-6">
 		    <label for="Number">Phone</label>
-		    <input name="entry.118947275" type="text" class="form-control" id="Number" placeholder="" required>
+		    <input name="phone" type="text" class="form-control" id="Number" placeholder="" required rules="required|max:255">
 		</div>
 
 		<div class="form-group col-md-6">
 		    <label for="Email">Business Company</label>
-		    <input name="entry.1615509766" type="text" class="form-control" id="Email" placeholder="">
+		    <input name="business" type="text" class="form-control" id="Email" placeholder="">
 		</div>
 
 		<div class="form-group col-md-12">
 		    <label for="Message">Message</label>
-		    <textarea name="entry.1070997577" class="form-control" id="Message" rows="1"></textarea>
+		    <textarea name="message" class="form-control" id="Message" rows="1"></textarea>
 		</div>
-			
 
 		<div class="col-md-12 mt-1 action">
 
-			<div class="g-recaptcha" data-callback="onSubmit" data-error-callback="sdlkf" data-sitekey="6LdGxPoUAAAAAI2i7sNi8cpyKyoGRyEhGjVKZd11"></div>
+			<input type="hidden" id="captchaResponse" name="g-recaptcha-response">
 
 	  		<button type="submit" class="mt-1 btn btn-submit">Send Message</button>
 	  	</div>

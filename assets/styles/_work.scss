@@ -281,6 +281,9 @@ video::-webkit-media-controls {
           height: auto;
           margin: 0 1em;
         }
+        @include media-breakpoint-down(sm) {
+          height: auto;
+        }
       }
     }
   }
