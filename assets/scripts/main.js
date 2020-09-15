@@ -17,21 +17,12 @@ $(function() {
   });
 
   if( $('#enquiryform').length ) {
-    document.getElementById("enquiryform").addEventListener("submit",function(evt)
-        {
-        
-        var response = grecaptcha.getResponse();
-        if(response.length == 0) 
-        { 
-          //reCaptcha not verified
-          alert("Please verify you are human by checking the I'm not a robot!"); 
-          evt.preventDefault();
-          return false;
-        }
-        //captcha verified
-        //do the rest of your validations here
-    
-    });
+    grecaptcha.ready(function() {
+       grecaptcha.execute('6Lc4w_oUAAAAAJq8hsadLLg1scAMSxBJjQ39H0ey', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
   }
 
   const svgDraw = anime({
@@ -54,7 +45,12 @@ $(function() {
     loop: true
   });
 
-  
+  var cards = $(".team-teaser");
+  for(var i = 0; i < cards.length; i++){
+      var target = Math.floor(Math.random() * cards.length -1) + 1;
+      var target2 = Math.floor(Math.random() * cards.length -1) +1;
+      cards.eq(target).before(cards.eq(target2));
+  }
 
 
   $( document ).ready(function() {
