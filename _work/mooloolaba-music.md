@@ -36,8 +36,14 @@ page_sections:
   media:
     image: "/uploads/mooloolaba-music-mockups-bcards.jpg"
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: "<strong>Telling a story</strong>"
+  content: "Every song ever written tells a story and when you hear a song it becomes
+    personal. That first road trip with your mates, there was a song for that, the
+    first time you felt heartbreak? There was a song for that. People get married
+    to songs, they work out to songs, they play songs at funerals, they get played
+    at birthdays and they become intrinsically tied to every aspect of our lives -
+    Music tells a story, your story. \n\nThat was our thinking when We Are VA put
+    pen to paper and started refurbishing the iconic Mooloolaba Music brand."
 - template: content-feature
   block: feature-1
   media_alignment: Left
