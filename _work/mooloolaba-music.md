@@ -50,8 +50,11 @@ page_sections:
   media:
     image: "/uploads/mooloolabamusic_tshirt-1.jpg"
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: "<strong>Three concepts...</strong>"
+  content: We Are VA proudly produced three concepts. Our goal, as ever, with the
+    brand design, is to make it difficult for the customer to pick a favourite. The
+    current brand was a narrow winner and as per the customer’s wishes, we tried a
+    few amalgamations of all the concepts before refining and producing the end result.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/mooloolaba-music-mockups-car-wrap.jpg"
