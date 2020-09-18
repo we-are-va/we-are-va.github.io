@@ -12,7 +12,7 @@ related_landing_page: []
 client_logo: "/uploads/mooloolaba-music-teaser-logo_mooloolaba-music_white.svg"
 title: Mooloolaba Music
 sub_heading: Bringing music to life
-hide_on_work_page: true
+hide_on_work_page: false
 hide_title_and_description: true
 hide_gradient_overlay: true
 teaser_image: "/uploads/mooloolaba_teaser-1.jpg"
@@ -52,7 +52,7 @@ page_sections:
     alt_text: ''
   headline: "<strong>Being spoilt for choice</strong>"
   content: |-
-    We Are VA proudly produced three concepts. Our goal, as ever, with the brand design, is to make it difficult for the customer to pick a favourite. The current brand was a narrow winner and as per the customer’s wishes, we tried a few amalgamations of all the concepts before refining and producing the end result.
+    We Are VA proudly produced three concepts. Our goal, as ever, with brand design, is to make it difficult for the customer to pick a favourite. The current brand was a narrow winner and as per the customer’s wishes, we tried a few amalgamations of all the concepts before refining and producing the end result.
 
     #### Speaking of end results…
 
@@ -76,8 +76,8 @@ page_sections:
   portrait_photos: false
 
 ---
-### Boasting a history that spans more than 30 years, showcasing over 20,000 line items, shipping across Australia-wide and employing some of the friendliest and most knowledgeable team members Mooloolaba Music has become is a Sunshine Coast icon. 
+### Boasting a history that spans more than 30 years, showcasing over 20,000 line items, shipping across Australia-wide and employing some of the friendliest and most knowledgeable team members Mooloolaba Music is a Sunshine Coast icon.
 
-Having recently changed hands the new owner recognised the need to update the current brand without alienating a loyal customer base that has been steadily growing for over 30 years.
+Having recently changed hands new owner Phil Drinnan recognised the need to update the brand without alienating a loyal customer base that has been steadily growing for over 30 years.
 
 **When We Are VA got the gig, to help give the brand a freshen up we jumped at the chance.**
