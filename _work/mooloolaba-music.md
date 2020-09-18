@@ -50,11 +50,13 @@ page_sections:
   media:
     image: "/uploads/mooloolabamusic_tshirt-1.jpg"
     alt_text: ''
-  headline: "<strong>Three concepts...</strong>"
-  content: We Are VA proudly produced three concepts. Our goal, as ever, with the
-    brand design, is to make it difficult for the customer to pick a favourite. The
-    current brand was a narrow winner and as per the customer’s wishes, we tried a
-    few amalgamations of all the concepts before refining and producing the end result.
+  headline: "<strong>Being spoilt for choice</strong>"
+  content: |-
+    We Are VA proudly produced three concepts. Our goal, as ever, with the brand design, is to make it difficult for the customer to pick a favourite. The current brand was a narrow winner and as per the customer’s wishes, we tried a few amalgamations of all the concepts before refining and producing the end result.
+
+    #### Speaking of end results…
+
+    The newly refurbished logo and brand is a doff of the hat to a 30 year Sunshine Coast icon with the modernity and timelessness to carry it into the future.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/mooloolaba-music-mockups-car-wrap.jpg"
@@ -72,18 +74,9 @@ page_sections:
   - "/uploads/mmc001_brand-guidelines_v1-10.jpg"
   full_width: true
   portrait_photos: false
-- template: 1-column-text
-  block: one-column-1
-  headline: Speaking of end results…
-  content: The newly refurbished logo and brand is a doff of the hat to a 30 year
-    Sunshine Coast icon with the modernity and timelessness to carry it into the future.
 
 ---
-## Without music, life would be a mistake” ― Friedrich Nietzsche
-
-Boasting a history that spans more than 30 years, showcasing over 20,000 line items, shipping across Australia-wide and employing some of the friendliest and most knowledgeable team members Mooloolaba Music has become is a Sunshine Coast icon. 
-
-Their goal is simple. “Whether you’re wooing crowds from upon a stage or riling up the neighbours from your garage, you can find your weapon of choice with ease, expertise and options to boot.”
+### Boasting a history that spans more than 30 years, showcasing over 20,000 line items, shipping across Australia-wide and employing some of the friendliest and most knowledgeable team members Mooloolaba Music has become is a Sunshine Coast icon. 
 
 Having recently changed hands the new owner recognised the need to update the current brand without alienating a loyal customer base that has been steadily growing for over 30 years.
 
