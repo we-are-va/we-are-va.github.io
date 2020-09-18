@@ -72,6 +72,11 @@ page_sections:
   - "/uploads/mmc001_brand-guidelines_v1-10.jpg"
   full_width: true
   portrait_photos: false
+- template: 1-column-text
+  block: one-column-1
+  headline: Speaking of end results…
+  content: The newly refurbished logo and brand is a doff of the hat to a 30 year
+    Sunshine Coast icon with the modernity and timelessness to carry it into the future.
 
 ---
 ## Without music, life would be a mistake” ― Friedrich Nietzsche
