@@ -65,3 +65,12 @@ page_sections:
   portrait_photos: false
 
 ---
+## Without music, life would be a mistake” ― Friedrich Nietzsche
+
+Boasting a history that spans more than 30 years, showcasing over 20,000 line items, shipping across Australia-wide and employing some of the friendliest and most knowledgeable team members Mooloolaba Music has become is a Sunshine Coast icon. 
+
+Their goal is simple. “Whether you’re wooing crowds from upon a stage or riling up the neighbours from your garage, you can find your weapon of choice with ease, expertise and options to boot.”
+
+Having recently changed hands the new owner recognised the need to update the current brand without alienating a loyal customer base that has been steadily growing for over 30 years.
+
+**When We Are VA got the gig, to help give the brand a freshen up we jumped at the chance.**
