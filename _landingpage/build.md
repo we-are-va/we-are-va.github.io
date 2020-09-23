@@ -8,11 +8,25 @@ banner_image: "/uploads/build.jpg"
 page_sections: []
 
 ---
-VA built an always on digital marketing campaign for WS allowing them to reduce the amount of seasonal based sales campaigns from 6 to 2 ??
+### VA built an always on digital marketing campaign for WS allowing them to reduce the amount of seasonal based sales campaigns from 6 to 2 ??
 
-VA built a blazingly fast , zero maintenance, static website (check scores here) for global startup #StratApp. With a huge SAAS product to manage they didn't need their public marketing site to be a burden on their dev team
+### VA built a blazingly fast , zero maintenance, static website (check scores here) for global startup #StratApp.
 
-VA built a robust styleguide for MFAC allowing them to produce collateral internally and externally that keeps their brand .... on brand .
+With a huge SAAS product to manage they didn't need their public marketing site to be a burden on their dev team
+
+### VA built a robust styleguide for MFAC allowing them to produce collateral internally and externally that keeps their brand .... on brand 
+
+### Our dev team help run all our websites on super reliable hosting set up that pretty much never goes offline. 
+
+Version control, seperate development, testing and live servers plus a series of clever bots keep our Wordpress and Drupal CMS's platforms up to date and secure.
+
+***
+
+***
+
+***
+
+***
 
 The end result of something so complex always has to be simplicity and usability. VA remains engaged and educated in this ever evolving space.
 
