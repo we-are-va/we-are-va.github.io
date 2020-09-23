@@ -10,10 +10,23 @@ page_sections: []
 ---
 The key to our approach to GROW is to understand your goals and ensure that we can measure all that can be measured.
 
-VA help Ws Grow its website traffic by xxxx  
-VA reduced XTZ online ad budget by %%% and reinvested that differennce in new blah blah
+### VA helped WS Grow their email database by 200%.
 
-Some customers want to pick it up and feel its texture. Others are happy to browse from their phones as they take in a movie. In our connected sphere of digital and real life overlaps there are limitless possibilities to communicate and engage. It pays to have a team that can connect the dots. VA knows how to talk to users, which channel and medium to talk to them through but perhaps more importantly when to speak and when to listen.
+We helped take their super well known industry connections (Sally Fitzgibbons, Creatures of Leisure etc ?) and turn that into a engaged database of engaged via several killer competitions and offers
+
+### VA reduced XTZ online ad budget by %%% and reinvested that difference in new blah blah
+
+### We helped Sajen Legal grow their referral network with a system that allowed their staff to easily identify and reach potential new clients.
+
+***
+
+***
+
+***
+
+***
+
+***
 
 We grow your business by…
 
