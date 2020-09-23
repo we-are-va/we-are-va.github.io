@@ -33,9 +33,3 @@ Conceived from our long term relationship with World Surfaris and a love for lon
 ### Working with local legend Tony Kelly on his super successful SPERO saw our creative director reach for her ink and paper. People often ask "what font did you use" but this one is all hand made.
 
 A regular habit of creating from scratch and often away from the screen gives our team a huge advantage when it comes time to craft something original. Drawing, weaving, tinkering with laser cutters, weird drawing machines  and light painting is all part of our DNA.
-
-We create by…
-
-* Brand discovery workshops (mood boards, archetypes, we immerse ourselves into your vision and bring you along for the journey).
-* Brand Designs and Concepts (based on our understanding we take things to the next level - expect difficult choices, colour combinations and to fall in love).
-* Brand creation and applications (roll out across multiple platforms, across multiple mediums, we deliver technically on your art so that it always looks great, everytime, everywhere). Brand building (the nip, tuck and facelift that makes sure your brand will easily overcome the next challenge, we breathe new life into old brands).
