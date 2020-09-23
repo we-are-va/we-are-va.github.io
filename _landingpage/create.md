@@ -14,11 +14,11 @@ page_sections:
 ---
 ## We bring ideas to life...
 
-Creating by defintion is to bring (something) into existence.
+Creating by definition is to bring "something" into existence.
 
-If there was nothing and now there is something then "creation" has happened.
+If there was **nothing** and now there is **something** then "creation" has occured.
 
-New brands for new companies, new brands for existing companies, slogans, tag-lines and hair-brained ideas for articles and campaigns.
+_New brands for new companies, new brands for existing companies, slogans, tag-lines and hair-brained ideas for articles and campaigns._
 
 A big part of VA's day to day life is to create.
 
@@ -26,11 +26,13 @@ A big part of VA's day to day life is to create.
 
 To do this we were engaged help develop the personas of their key demographics. This helped us to ensure that we designed a brand that would appeal to the correct users. We conducted workshops to uncover their brand values and archetype. From this material we created mood boards followed by 4 full brand concepts of which the final choice was developed to be what you see today.
 
-#### VA created amazing new beer cans for 10 Toes brewery that encapsulated their ethos perfectly
+### VA created amazing new beer cans for 10 Toes brewery that encapsulated their ethos perfectly
 
-#### We created a whole new long form online editorial section for World Surfaris that help them corner X% more online traffic
+"Ratbags" was a word often spoken in our meetings along with a fondness  back allies with layers of old posters, paste ups and for street art. Pairing those influences with a slick palette and dashes of the metallic and these cans make themselves known on the shelf of you local bottlo
 
-#### VA named and branded The Booking Box ......
+Conceived from our long term relationship with World Surfaris and a love for long form online content (hello Medium) and our favourite surf magazines we created a whole new long form online editorial section that helped them corner X% more online traffic. The VA team even ghost wrote half to content under pseudonym Ronny Long. 
+
+### Under the influence of the creative power of a coffee and a good brief and a great relationship with our client VA named and branded The Booking Box. 
 
 We create by…
 
