@@ -1,7 +1,8 @@
 ---
 title: Create
 layout: landing-page
-sub_heading: Creating by definition is to bring "something" into existence.
+sub_heading: New brands for new companies, new brands for existing companies, slogans,
+  tag-lines and hair-brained ideas for articles and campaigns.
 banner_image: ''
 page_sections:
 - template: 1-column-text
@@ -12,9 +13,9 @@ page_sections:
     enterprise."
 
 ---
-If there was **nothing** and now there is **something** then "creation" has occured.
+Creating by definition is to bring "something" into existence.
 
-_New brands for new companies, new brands for existing companies, slogans, tag-lines and hair-brained ideas for articles and campaigns._
+If there was **nothing** and now there is **something** then "creation" has occurred.
 
 A big part of VA's day to day life is to create.
 
@@ -26,7 +27,7 @@ To do this we were engaged help develop the personas of their key demographics. 
 
 "Ratbags" was a word often spoken in our meetings along with a fondness  back allies with layers of old posters, paste ups and for street art. Pairing those influences with a slick palette and dashes of the metallic and these cans make themselves known on the shelf of you local bottlo
 
-### We created a whole new long form online editorial section for the World Surfaris website that helped  corner X% more online traffic. 
+### We created a whole new long form online editorial section for the World Surfaris website that helped  corner X% more online traffic.
 
 Conceived from our long term relationship with World Surfaris and a love for long form online content (hello Medium) and our favourite surf magazines The VA team even ghost wrote some of the content under a nom de plume.
 
