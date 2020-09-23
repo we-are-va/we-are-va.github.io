@@ -1,14 +1,19 @@
 ---
 layout: landing-page
 title: Build
-sub_heading: We are focused on function and usability...
-banner_image: '/uploads/build.jpg'
+sub_heading: We dont just think about next week or next month. We build you the tools
+  and frameworks that you need for your business branding , marketing and advertising
+  into the longer term
+banner_image: "/uploads/build.jpg"
 page_sections: []
 
 ---
-## We are focused on function and usability...
+VA built an always on digital marketing campaign for WS allowing them to reduce the amount of seasonal based sales campaigns from 6 to 2 ??
 
-  
+VA built a blazingly fast , zero maintenance, static website (check scores here) for global startup #StratApp. With a huge SAAS product to manage they didn't need their public marketing site to be a burden on their dev team
+
+VA built a robust styleguide for MFAC allowing them to produce collateral internally and externally that keeps their brand .... on brand .
+
 The end result of something so complex always has to be simplicity and usability. VA remains engaged and educated in this ever evolving space.
 
 We build by…
