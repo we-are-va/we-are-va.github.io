@@ -52,8 +52,8 @@ page_sections:
     image: "/uploads/spero_1-01.png"
 
 ---
-Creating by definition is to bring "something" into existence.
+## Creating by definition is to bring "something" into existence.
 
-If there was **nothing** and now there is **something** then "creation" has occurred.
+### If there was **nothing** and now there is **something** then "creation" has occurred.
 
-A big part of VA's day to day life is to create.
+### A big part of VA's day to day life is to create.
