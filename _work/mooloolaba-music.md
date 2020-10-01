@@ -9,7 +9,7 @@ services:
 - Digital Marketing
 layout: work-single
 related_landing_page: []
-client_logo: "/uploads/mooloolaba-music-teaser-logo_mooloolaba-music_white.svg"
+client_logo: "/uploads/mooloolaba-music-teaser-logo_mooloolaba-music_white2.svg"
 title: Mooloolaba Music
 sub_heading: Bringing music to life
 hide_on_work_page: false
